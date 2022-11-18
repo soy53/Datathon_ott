@@ -1,0 +1,1475 @@
+,Unnamed: 0,id,title,type,release_year,age_certification,runtime,genres,seasons,imdb_score,imdb_votes,tmdb_popularity,tmdb_score,prediction
+0,0,tm74391,Fantasia,MOVIE,1940,G,120,"['animation', 'family', 'music', 'fantasy']",0.0,7.7,94681.0,57.751000000000005,7.4,
+1,1,tm67803,Snow White and the Seven Dwarfs,MOVIE,1937,G,83,"['fantasy', 'family', 'romance', 'animation', 'thriller', 'drama']",0.0,7.6,195321.0,107.137,7.1,
+2,2,tm82546,Pinocchio,MOVIE,1940,G,88,"['animation', 'comedy', 'family', 'fantasy']",0.0,7.5,141937.0,71.16,7.1,
+3,3,tm79357,Bambi,MOVIE,1942,G,70,"['animation', 'drama', 'family']",0.0,7.3,140406.0,68.13600000000001,7.0,
+4,4,tm62671,Treasure Island,MOVIE,1950,PG,96,"['family', 'action']",0.0,6.9,8229.0,10.698,6.5,
+5,5,tm61729,The Adventures of Ichabod and Mr. Toad,MOVIE,1949,G,68,"['fantasy', 'horror', 'animation', 'comedy', 'family']",0.0,6.9,15405.0,10.862,6.5,
+6,6,tm61052,Cinderella,MOVIE,1950,G,74,"['fantasy', 'animation', 'family', 'romance']",0.0,7.3,157099.0,144.284,7.0,
+7,7,tm87946,Dumbo,MOVIE,1941,G,63,"['animation', 'drama', 'family', 'fantasy']",0.0,7.2,129548.0,69.875,7.0,
+8,8,tm4623,The Three Caballeros,MOVIE,1944,G,71,"['animation', 'comedy', 'family', 'fantasy']",0.0,6.3,13889.0,11.75,6.4,
+9,9,tm77826,The Reluctant Dragon,MOVIE,1941,G,74,"['fantasy', 'animation', 'family', 'comedy']",0.0,6.8,3280.0,6.957999999999999,6.6,
+10,10,tm89831,Fun and Fancy Free,MOVIE,1947,G,73,"['animation', 'family', 'fantasy', 'romance', 'comedy']",0.0,6.4,8228.0,10.058,6.3,
+11,11,tm3616,Steamboat Willie,MOVIE,1928,G,8,['animation'],0.0,,,10.513,7.4,6.80601
+12,12,tm77407,Saludos Amigos,MOVIE,1942,,42,"['animation', 'fantasy', 'comedy', 'family']",0.0,6.1,6506.0,20.418,5.8,
+13,13,tm71205,How to Play Baseball,MOVIE,1942,,8,"['comedy', 'animation']",0.0,,,4.178999999999999,6.6,6.35967
+14,14,tm5822,Melody Time,MOVIE,1948,,75,"['comedy', 'music', 'family', 'animation']",0.0,6.2,5993.0,8.856,6.2,
+15,15,tm8579,Ferdinand the Bull,MOVIE,1938,G,8,['comedy'],0.0,,,10.983,6.5,6.30388
+16,16,tm134279,Three Little Pigs,MOVIE,1933,,8,['comedy'],0.0,,,8.883,6.8,6.47126
+17,17,tm74410,Tugboat Mickey,MOVIE,1940,,7,"['animation', 'family', 'comedy']",0.0,,,5.845,6.2,6.1365
+18,18,tm4759,Flowers and Trees,MOVIE,1932,,8,['animation'],0.0,,,7.105,6.7,6.41546
+19,19,tm80290,Swiss Family Robinson,MOVIE,1940,,93,"['action', 'family']",0.0,6.4,641.0,4.777,5.1,
+20,20,tm60613,Beaver Valley,MOVIE,1950,,32,['documentation'],0.0,,,1.003,6.6,6.35967
+21,21,tm330224,The Ugly Duckling,MOVIE,1939,,9,"['comedy', 'animation']",0.0,,,9.947,6.8,6.47126
+22,22,tm137537,The Pied Piper,MOVIE,1933,,8,"['animation', 'family']",0.0,,,4.147,6.1,6.08071
+23,23,tm63024,The Old Mill,MOVIE,1937,,9,['thriller'],0.0,,,8.25,7.4,6.80601
+24,24,tm100567,The Big Bad Wolf,MOVIE,1934,,9,['animation'],0.0,,,9.139,6.4,6.24808
+25,25,tm116172,Thru the Mirror,MOVIE,1936,,9,['fantasy'],0.0,,,6.21,7.3,6.75022
+26,26,tm103817,The Goddess of Spring,MOVIE,1934,,9,"['animation', 'music']",0.0,,,3.948,5.8,5.91333
+27,27,tm4822,How to Play Football,MOVIE,1944,,7,['animation'],0.0,,,3.972,6.6,6.35967
+28,28,tm116154,Toby Tortoise Returns,MOVIE,1936,,7,['animation'],0.0,,,3.317,6.0,6.02491
+29,29,tm4844,Santa's Workshop,MOVIE,1932,,7,['animation'],0.0,,,5.884,6.6,6.35967
+30,30,tm71616,How to Swim,MOVIE,1942,,8,['animation'],0.0,,,3.361,6.7,6.41546
+31,31,tm65604,Hawaiian Holiday,MOVIE,1937,G,8,['animation'],0.0,,,3.024,6.4,6.24808
+32,32,tm156870,The Hockey Champ,MOVIE,1939,,7,['animation'],0.0,,,3.5810000000000004,6.7,6.41546
+33,33,tm74440,Mickey's Birthday Party,MOVIE,1942,,8,['animation'],0.0,,,3.821,5.8,5.91333
+34,34,tm94578,Chip an' Dale,MOVIE,1947,,7,['animation'],0.0,,,4.362,6.7,6.41546
+35,35,tm103794,The Grasshopper and the Ants,MOVIE,1934,,8,['animation'],0.0,,,11.46,6.5,6.30388
+36,36,tm165060,The Tortoise and the Hare,MOVIE,1935,,9,"['animation', 'fantasy', 'documentation']",0.0,,,6.644,6.6,6.35967
+37,37,tm7478,Boat Builders,MOVIE,1938,,7,['animation'],0.0,,,3.791,6.9,6.52705
+38,38,tm63962,Magician Mickey,MOVIE,1937,,8,['animation'],0.0,,,5.505,6.6,6.35967
+39,39,tm89100,Mickey's Delayed Date,MOVIE,1947,,7,['comedy'],0.0,,,3.415,6.3,6.19229
+40,40,tm78040,Canine Caddy,MOVIE,1941,,7,['animation'],0.0,,,3.498,6.5,6.30388
+41,41,tm71199,How to Fish,MOVIE,1942,,7,['comedy'],0.0,,,3.109,6.4,6.24808
+42,42,tm65788,Food for Feudin',MOVIE,1950,,7,['animation'],0.0,,,4.0760000000000005,6.2,6.1365
+43,43,tm87845,Lend a Paw,MOVIE,1941,G,8,"['animation', 'family']",0.0,,,5.438,6.8,6.47126
+44,44,tm8026,Mickey's Trailer,MOVIE,1938,,7,['comedy'],0.0,,,11.547,7.3,6.75022
+45,45,tm113865,Donald's Tire Trouble,MOVIE,1943,,7,['comedy'],0.0,,,3.806,6.1,6.08071
+46,46,tm160443,On Ice,MOVIE,1935,,8,['animation'],0.0,,,6.018,6.6,6.35967
+47,47,tm8162,Donald's Golf Game,MOVIE,1938,,8,['animation'],0.0,,,2.728,5.8,5.91333
+48,48,tm164081,Sea Scouts,MOVIE,1939,,8,['animation'],0.0,,,3.798,6.2,6.1365
+49,49,tm165357,The Band Concert,MOVIE,1935,,9,['comedy'],0.0,,,7.946000000000001,7.3,6.75022
+50,50,tm161340,The Golden Touch,MOVIE,1935,,10,['comedy'],0.0,,,4.363,6.3,6.19229
+51,51,tm64663,Clock Cleaners,MOVIE,1937,,9,['animation'],0.0,,,6.4270000000000005,7.0,6.58284
+52,52,tm7388,Mickey Down Under,MOVIE,1948,,7,"['family', 'animation']",0.0,,,4.412,5.8,5.91333
+53,53,tm112420,Three Little Wolves,MOVIE,1936,,9,['animation'],0.0,,,6.779,6.5,6.30388
+54,54,tm7466,Mickey and the Seal,MOVIE,1948,,7,['comedy'],0.0,,,5.034,6.8,6.47126
+55,55,tm76217,Mr. Mouse Takes a Trip,MOVIE,1940,,8,"['animation', 'family', 'comedy']",0.0,,,3.839,6.5,6.30388
+56,56,tm91651,Double Dribble,MOVIE,1946,,7,['animation'],0.0,,,4.305,6.3,6.19229
+57,57,tm97393,The Wise Little Hen,MOVIE,1934,,8,['animation'],0.0,,,6.647,6.4,6.24808
+58,58,tm78018,Chef Donald,MOVIE,1941,,7,['animation'],0.0,,,6.77,6.8,6.47126
+59,59,tm90592,Rescue Dog,MOVIE,1947,,7,['animation'],0.0,,,2.3280000000000003,6.2,6.1365
+60,60,tm4872,Bone Bandit,MOVIE,1948,,7,['animation'],0.0,,,4.56,6.1,6.08071
+61,61,tm110541,Mickey's Rival,MOVIE,1936,,8,['animation'],0.0,,,6.922999999999999,6.1,6.08071
+62,62,tm161054,Beach Picnic,MOVIE,1939,,8,['animation'],0.0,,,7.442,6.2,6.1365
+63,63,tm62513,All in a Nutshell,MOVIE,1949,,7,['animation'],0.0,,,3.61,6.6,6.35967
+64,64,tm160483,Society Dog Show,MOVIE,1939,,8,['animation'],0.0,,,3.391,6.2,6.1365
+65,65,tm141685,Ye Olden Days,MOVIE,1933,,8,['animation'],0.0,,,4.284,6.1,6.08071
+66,66,tm67239,Lonesome Ghosts,MOVIE,1937,,9,['comedy'],0.0,,,7.223,6.6,6.35967
+67,67,tm3021,Babes in the Woods,MOVIE,1932,,8,['animation'],0.0,,,2.971,5.9,5.96912
+68,68,tm60305,Pluto's Surprise Package,MOVIE,1949,,7,['animation'],0.0,,,2.411,6.1,6.08071
+69,69,tm67092,Winter Storage,MOVIE,1949,,7,['comedy'],0.0,,,3.75,6.8,6.47126
+70,70,tm72295,The Olympic Champ,MOVIE,1942,,7,['animation'],0.0,,,3.653,6.5,6.30388
+71,71,tm1454,A Knight for a Day,MOVIE,1946,,7,['animation'],0.0,,,4.166,6.3,6.19229
+72,72,tm112317,Three Blind Mouseketeers,MOVIE,1936,,9,['animation'],0.0,,,5.192,6.5,6.30388
+73,73,tm82574,The Little Whirlwind,MOVIE,1941,,8,['animation'],0.0,,,4.004,6.0,6.02491
+74,74,tm64710,Pluto's Sweater,MOVIE,1949,,7,['animation'],0.0,,,4.312,6.8,6.47126
+75,75,tm75668,Mr. Duck Steps Out,MOVIE,1940,,8,['animation'],0.0,,,6.817,6.2,6.1365
+76,76,tm84573,The Art of Skiing,MOVIE,1941,,8,['comedy'],0.0,,,4.657,7.0,6.58284
+77,77,tm87968,Early to Bed,MOVIE,1941,,8,['animation'],0.0,,,5.348,6.6,6.35967
+78,78,tm63613,Pluto and the Gopher,MOVIE,1950,,7,['animation'],0.0,,,2.567,6.6,6.35967
+79,79,tm63504,Trailer Horn,MOVIE,1950,,6,['animation'],0.0,,,4.243,6.3,6.19229
+80,80,tm95977,Mail Dog,MOVIE,1947,,7,['animation'],0.0,,,1.982,5.7,5.85754
+81,81,tm76325,Donald's Dog Laundry,MOVIE,1940,,8,['animation'],0.0,,,4.017,6.1,6.08071
+82,82,tm5618,Pluto's Purchase,MOVIE,1948,,7,['animation'],0.0,,,2.341,6.6,6.35967
+83,83,tm117183,Elmer Elephant,MOVIE,1936,G,8,['animation'],0.0,,,3.034,5.7,5.85754
+84,84,tm88215,The Sound of Music,MOVIE,1965,G,175,"['romance', 'drama', 'family']",0.0,8.1,225890.0,17.542,7.7,
+85,85,tm1,Star Wars,MOVIE,1977,PG,125,"['scifi', 'action', 'fantasy']",0.0,8.6,1321489.0,77.321,8.2,
+86,86,ts22470,The Muppet Show,SHOW,1976,TV-G,25,"['comedy', 'family', 'music']",5.0,8.4,24278.0,12.640999999999998,8.1,
+87,87,tm189724,Mary Poppins,MOVIE,1964,G,139,"['comedy', 'fantasy', 'family']",0.0,7.8,169072.0,35.811,7.6,
+88,88,tm74066,The Muppet Movie,MOVIE,1979,G,97,"['comedy', 'family']",0.0,7.6,35677.0,9.572,7.2,
+89,89,tm114017,Oklahoma!,MOVIE,1955,G,148,"['romance', 'western', 'music', 'comedy', 'drama']",0.0,7.0,12692.0,8.837,6.7,
+90,90,tm81911,"Hello, Dolly!",MOVIE,1969,G,146,"['romance', 'comedy']",0.0,7.0,15211.0,6.064,7.0,
+91,91,tm562,"20,000 Leagues Under the Sea",MOVIE,1954,G,127,"['scifi', 'drama', 'family', 'fantasy']",0.0,7.2,33346.0,12.795,7.1,
+92,92,ts30718,Schoolhouse Rock!,SHOW,1973,,3,"['animation', 'family']",7.0,8.2,3905.0,2.987,7.8,
+93,93,tm2,The Empire Strikes Back,MOVIE,1980,PG,124,"['scifi', 'action', 'fantasy']",0.0,8.7,1248319.0,27.802,8.4,
+94,94,tm73079,The Black Hole,MOVIE,1979,PG,98,"['scifi', 'action']",0.0,5.9,25365.0,10.936,5.8,
+95,95,tm130611,Alice in Wonderland,MOVIE,1951,G,75,"['fantasy', 'family', 'animation', 'comedy']",0.0,7.4,138935.0,93.593,7.2,
+96,96,tm58193,Swiss Family Robinson,MOVIE,1960,G,126,"['family', 'action']",0.0,7.1,16068.0,10.119,6.9,
+97,97,tm102135,The Aristocats,MOVIE,1970,G,78,"['animation', 'comedy', 'family']",0.0,7.1,100989.0,61.914,7.3,
+98,98,tm42943,The Parent Trap,MOVIE,1961,G,129,"['comedy', 'romance', 'family']",0.0,7.2,21273.0,10.537,7.1,
+99,99,tm186525,Robin Hood,MOVIE,1973,G,83,"['animation', 'romance', 'comedy', 'family']",0.0,7.5,124725.0,38.547,7.3,
+100,100,tm32115,The Sword in the Stone,MOVIE,1963,G,79,"['animation', 'comedy', 'family', 'fantasy']",0.0,7.1,96481.0,50.371,7.2,
+101,101,tm105286,Peter Pan,MOVIE,1953,G,77,"['fantasy', 'family', 'animation']",0.0,7.3,136970.0,66.222,7.2,
+102,102,tm14236,Bedknobs and Broomsticks,MOVIE,1971,G,117,"['music', 'action', 'fantasy', 'comedy', 'family', 'animation']",0.0,7.0,37066.0,10.737,7.0,
+103,103,tm124682,Old Yeller,MOVIE,1957,G,83,"['western', 'drama', 'family']",0.0,7.3,13414.0,7.861000000000001,7.0,
+104,104,tm121851,The Jungle Book,MOVIE,1967,G,78,"['animation', 'fantasy', 'comedy', 'family']",0.0,7.6,176762.0,66.469,7.3,
+105,105,tm37937,Journey to the Center of the Earth,MOVIE,1959,G,132,"['fantasy', 'family', 'romance', 'scifi']",0.0,7.0,17352.0,15.312,7.0,
+106,106,tm111159,Lady and the Tramp,MOVIE,1955,G,76,"['romance', 'drama', 'animation', 'comedy', 'family']",0.0,7.3,132982.0,57.793,7.1,
+107,107,tm91105,The Many Adventures of Winnie the Pooh,MOVIE,1977,G,74,"['animation', 'comedy', 'family']",0.0,7.5,35737.0,14.978,7.2,
+108,108,tm11010,The Love Bug,MOVIE,1968,G,107,"['fantasy', 'family', 'sport', 'comedy']",0.0,6.5,15879.0,9.733,6.5,
+109,109,ts28051,The Mickey Mouse Club,SHOW,1955,TV-PG,31,"['family', 'music', 'comedy', 'drama']",3.0,7.6,779.0,7.194,5.8,
+110,110,tm92586,Pete's Dragon,MOVIE,1977,G,128,"['fantasy', 'comedy', 'family', 'animation']",0.0,6.3,24452.0,24.239,6.4,
+111,111,tm54168,One Hundred and One Dalmatians,MOVIE,1961,G,79,"['comedy', 'family', 'animation']",0.0,7.3,164790.0,93.302,7.2,
+112,112,tm47427,Darby O'Gill and the Little People,MOVIE,1959,G,90,"['fantasy', 'romance', 'family']",0.0,7.1,8121.0,5.332000000000001,6.9,
+113,113,tm41096,The Absent-Minded Professor,MOVIE,1961,G,96,"['scifi', 'sport', 'comedy', 'family']",0.0,6.7,8290.0,7.069,6.5,
+114,114,tm92967,The Rescuers,MOVIE,1977,G,78,"['fantasy', 'family', 'animation', 'comedy']",0.0,6.9,63093.0,17.902,6.8,
+115,115,tm120497,Escape to Witch Mountain,MOVIE,1975,G,97,"['fantasy', 'scifi', 'family']",0.0,6.3,10258.0,8.068999999999999,6.4,
+116,116,tm87467,Freaky Friday,MOVIE,1976,G,95,"['fantasy', 'comedy', 'family']",0.0,6.3,12833.0,8.062999999999999,6.2,
+117,117,tm124852,The Apple Dumpling Gang,MOVIE,1975,G,100,"['western', 'family', 'comedy']",0.0,6.3,5783.0,5.898,6.6,
+118,118,tm51992,Sleeping Beauty,MOVIE,1959,G,75,"['romance', 'comedy', 'family', 'fantasy', 'animation', 'european']",0.0,7.2,146163.0,69.089,6.9,
+119,119,tm51953,The Shaggy Dog,MOVIE,1959,G,104,"['comedy', 'fantasy', 'family']",0.0,6.4,5029.0,5.35,6.1,
+120,120,ts24939,Spider-Woman,SHOW,1979,TV-PG,21,"['animation', 'fantasy', 'action', 'family']",1.0,5.8,790.0,19.081,8.0,
+121,121,tm56825,Pollyanna,MOVIE,1960,G,134,"['drama', 'comedy', 'family']",0.0,7.4,10218.0,10.282,7.0,
+122,122,tm45750,Babes in Toyland,MOVIE,1961,G,101,"['fantasy', 'romance', 'comedy', 'family']",0.0,6.1,4173.0,5.9,6.0,
+123,123,tm79567,That Darn Cat!,MOVIE,1965,G,112,"['drama', 'crime', 'family', 'thriller', 'comedy']",0.0,6.7,6922.0,8.285,6.6,
+124,124,tm123901,The Island at the Top of the World,MOVIE,1974,G,93,"['fantasy', 'scifi', 'family']",0.0,6.2,2760.0,6.343999999999999,6.2,
+125,125,tm96700,Candleshoe,MOVIE,1977,PG,97,"['family', 'comedy', 'drama']",0.0,6.7,4377.0,4.977,6.9,
+126,126,tm68472,The Computer Wore Tennis Shoes,MOVIE,1969,G,91,"['drama', 'comedy', 'family', 'scifi']",0.0,6.0,5226.0,6.799,6.1,
+127,127,tm12159,Return from Witch Mountain,MOVIE,1978,G,95,"['scifi', 'fantasy', 'family']",0.0,5.7,5100.0,6.711,5.9,
+128,128,tm324940,The Sign of Zorro,MOVIE,1958,,91,"['western', 'family', 'romance', 'drama']",0.0,6.9,1047.0,3.832,7.4,
+129,129,tm15888,Blackbeard's Ghost,MOVIE,1968,G,106,"['fantasy', 'comedy', 'family']",0.0,6.8,5980.0,10.982,6.7,
+130,130,tm66587,Lambert the Sheepish Lion,MOVIE,1952,,8,['animation'],0.0,,,4.687,7.0,6.58284
+131,131,tm59862,The Story of Robin Hood and His Merrie Men,MOVIE,1952,,83,"['action', 'family']",0.0,6.6,1913.0,5.428,6.3,
+132,132,tm119319,The Happiest Millionaire,MOVIE,1967,G,172,"['comedy', 'drama', 'romance', 'family']",0.0,6.6,2138.0,4.688,6.7,
+133,133,tm87512,The Shaggy D.A.,MOVIE,1976,G,91,"['fantasy', 'comedy', 'european', 'family']",0.0,5.8,3011.0,5.38,5.7,
+134,134,tm30426,The Incredible Journey,MOVIE,1963,G,80,"['family', 'action', 'drama', 'comedy']",0.0,7.0,4645.0,4.578,6.7,
+135,135,tm7719,The Prince and the Pauper,MOVIE,1962,,93,[],0.0,6.3,295.0,6.39,7.7,
+136,136,tm156939,Snowball Express,MOVIE,1972,G,93,"['comedy', 'family']",0.0,6.3,1790.0,3.14,6.6,
+137,137,tm183361,The Moon-Spinners,MOVIE,1964,PG,118,"['family', 'thriller', 'romance']",0.0,6.6,2640.0,4.154,6.0,
+138,138,tm112491,"Davy Crockett, King of the Wild Frontier",MOVIE,1955,PG,93,"['western', 'drama', 'family']",0.0,6.9,4219.0,5.875,6.5,
+139,139,tm91299,Herbie Goes to Monte Carlo,MOVIE,1977,G,105,"['action', 'romance', 'sport', 'crime', 'comedy', 'family', 'fantasy']",0.0,5.6,7418.0,9.845,5.8,
+140,140,ts27944,Spin and Marty,SHOW,1955,,12,"['western', 'family']",1.0,8.0,300.0,2.866,8.0,
+141,141,tm73745,The Ugly Dachshund,MOVIE,1966,G,93,"['comedy', 'drama', 'family']",0.0,6.5,4133.0,9.406,6.7,
+142,142,tm115739,The Adventures of Bullwhip Griffin,MOVIE,1967,,108,"['western', 'family', 'romance', 'action', 'comedy']",0.0,6.5,1060.0,3.871,6.4,
+143,143,tm44585,Greyfriars Bobby: The True Story of a Dog,MOVIE,1961,PG,87,"['family', 'drama']",0.0,7.2,1568.0,3.87,6.7,
+144,144,tm124019,The Strongest Man in the World,MOVIE,1975,G,92,"['comedy', 'scifi', 'family']",0.0,5.9,3271.0,4.99,5.9,
+145,145,tm91078,Treasure of Matecumbe,MOVIE,1976,G,117,"['western', 'family']",0.0,6.1,792.0,4.837,6.1,
+146,146,tm18794,The Cat from Outer Space,MOVIE,1978,G,104,"['scifi', 'comedy', 'family']",0.0,6.0,5173.0,8.177,5.7,
+147,147,tm42937,Third Man on the Mountain,MOVIE,1959,G,105,"['drama', 'family']",0.0,7.1,1049.0,2.063,6.4,
+148,148,tm78765,Unidentified Flying Oddball,MOVIE,1979,G,93,"['scifi', 'fantasy', 'family', 'comedy']",0.0,5.1,1182.0,3.145,5.2,
+149,149,tm107435,Herbie Rides Again,MOVIE,1974,G,88,"['fantasy', 'comedy', 'family', 'romance']",0.0,5.6,8034.0,13.76,6.1,
+150,150,tm88710,Gus,MOVIE,1976,G,96,"['comedy', 'family', 'sport']",0.0,5.7,1906.0,3.904,5.9,
+151,151,tm124426,Perri,MOVIE,1957,G,75,"['fantasy', 'romance', 'family']",0.0,6.8,540.0,2.9130000000000003,6.9,
+152,152,tm67783,The Apple Dumpling Gang Rides Again,MOVIE,1979,G,88,"['comedy', 'western', 'family']",0.0,6.0,2865.0,4.977,6.3,
+153,153,tm152094,The Biscuit Eater,MOVIE,1972,G,92,"['drama', 'family']",0.0,5.8,437.0,2.144,5.7,
+154,154,tm11266,The Million Dollar Duck,MOVIE,1971,G,89,"['comedy', 'family', 'scifi']",0.0,5.7,2344.0,6.101,5.5,
+155,155,tm109409,The Bears and I,MOVIE,1974,G,89,"['drama', 'family']",0.0,6.2,451.0,1.888,5.7,
+156,156,tm181425,Emil and the Detectives,MOVIE,1964,PG,99,"['comedy', 'drama', 'family', 'crime']",0.0,6.2,708.0,2.13,6.1,
+157,157,tm104617,The Living Desert,MOVIE,1953,G,69,"['documentation', 'family']",0.0,7.4,1510.0,4.981,7.3,
+158,158,tm98555,Herbie Goes Bananas,MOVIE,1980,G,110,"['comedy', 'fantasy', 'family']",0.0,4.9,5693.0,9.802,5.2,
+159,159,tm19764,The Vanishing Prairie,MOVIE,1954,G,71,"['documentation', 'family']",0.0,7.3,623.0,1.947,7.4,
+160,160,tm1027745,The Story of the Faithful Wookiee,MOVIE,1978,,9,['animation'],0.0,,,2.253,8.8,7.58711
+161,161,tm15129,Hacksaw,MOVIE,1971,PG,89,['family'],0.0,5.8,107.0,2.023,5.5,
+162,162,tm24673,Yellowstone Cubs,MOVIE,1963,G,48,"['comedy', 'family']",0.0,6.8,289.0,1.849,8.0,
+163,163,tm90286,Secrets of Life,MOVIE,1956,G,70,"['documentation', 'family']",0.0,7.3,274.0,1.596,7.2,
+164,164,tm111322,The African Lion,MOVIE,1955,G,75,"['documentation', 'family']",0.0,7.2,473.0,3.377,7.0,
+165,165,tm95184,Davy Crockett and the River Pirates,MOVIE,1956,G,81,"['western', 'comedy', 'drama', 'family']",0.0,6.6,2118.0,5.002,6.4,
+166,166,tm15819,The Small One,MOVIE,1978,G,26,['animation'],0.0,,,5.198,7.0,6.58284
+167,167,tm10775,Almost Angels,MOVIE,1962,,93,"['comedy', 'family', 'music']",0.0,6.5,556.0,3.124,6.6,
+168,168,tm47139,Jungle Cat,MOVIE,1959,PG,69,"['documentation', 'family']",0.0,7.2,334.0,2.461,7.9,
+169,169,tm153909,Justin Morgan Had a Horse,MOVIE,1972,G,88,"['western', 'family', 'drama']",0.0,6.7,206.0,2.741,7.0,
+170,170,tm218826,A Tale of Two Critters,MOVIE,1977,G,48,"['family', 'documentation', 'action']",0.0,6.0,199.0,1.952,5.6,
+171,171,tm60333,Pluto's Party,MOVIE,1952,,7,['animation'],0.0,,,2.749,6.2,6.1365
+172,172,tm79554,Those Calloways,MOVIE,1965,PG,131,"['drama', 'family']",0.0,6.6,714.0,2.64,6.3,
+173,173,tm107673,The Castaway Cowboy,MOVIE,1974,G,88,"['western', 'comedy', 'family']",0.0,5.8,716.0,2.73,6.0,
+174,174,tm260657,The Boy Who Talked to Badgers,MOVIE,1975,,100,"['family', 'action']",0.0,5.5,121.0,3.849,6.0,
+175,175,tm10086,"Sammy, the Way-Out Seal",MOVIE,1962,G,88,['comedy'],0.0,,,3.827,6.8,6.47126
+176,176,tm107951,The New Neighbor,MOVIE,1953,,7,['animation'],0.0,,,2.888,6.2,6.1365
+177,177,tm19308,Dragon Around,MOVIE,1954,,7,['animation'],0.0,,,3.594,6.9,6.52705
+178,178,tm61982,Trick or Treat,MOVIE,1952,,8,['fantasy'],0.0,,,6.621,6.8,6.47126
+179,179,tm894355,The Liberty Story,MOVIE,1957,G,48,['drama'],0.0,,,0.954,8.0,7.14077
+180,180,tm205517,The Ghosts of Buxley Hall,MOVIE,1980,,120,"['fantasy', 'horror', 'comedy', 'family']",0.0,5.7,286.0,1.063,6.2,
+181,181,tm109842,Beezy Bear,MOVIE,1955,,7,['animation'],0.0,,,4.424,6.5,6.30388
+182,182,tm58414,Water Birds,MOVIE,1952,,30,"['family', 'documentation']",0.0,,,2.303,6.3,6.19229
+183,183,tm123160,Mars and Beyond,MOVIE,1957,,53,['animation'],0.0,,,1.702,8.5,7.41973
+184,184,tm59473,Pluto's Christmas Tree,MOVIE,1952,G,7,['comedy'],0.0,,,6.239,7.2,6.69443
+185,185,tm230979,The Plausible Impossible,MOVIE,1956,,60,['documentation'],0.0,,,0.925,7.0,6.58284
+186,187,tm133398,Out of Scale,MOVIE,1951,,7,['animation'],0.0,,,3.4960000000000004,7.2,6.69443
+187,189,tm109497,Prowlers of the Everglades,MOVIE,1953,,32,['documentation'],0.0,,,1.76,7.0,6.58284
+188,190,tm102930,Don's Fountain of Youth,MOVIE,1953,,6,['animation'],0.0,,,3.244,6.6,6.35967
+189,191,tm105638,The Simple Things,MOVIE,1953,,7,['comedy'],0.0,,,5.146,6.1,6.08071
+190,192,tm74573,My Dog the Thief,MOVIE,1969,,88,['comedy'],0.0,,,3.208,6.1,6.08071
+191,193,tm110618,Bearly Asleep,MOVIE,1955,,7,['animation'],0.0,,,3.824,6.5,6.30388
+192,194,tm60664,Let's Stick Together,MOVIE,1952,,7,['animation'],0.0,,,6.8660000000000005,6.4,6.24808
+193,195,tm137469,Nature's Half Acre,MOVIE,1951,,33,['documentation'],0.0,,,1.103,6.6,6.35967
+194,197,tm129658,Corn Chips,MOVIE,1951,,7,['animation'],0.0,,,2.5,7.1,6.63863
+195,198,tm19229,Grand Canyonscope,MOVIE,1954,,7,['animation'],0.0,,,4.373,6.3,6.19229
+196,199,tm757109,The Mouseketeers at Walt Disney World,MOVIE,1977,,56,['family'],0.0,8.2,36.0,0.894,6.0,
+197,200,tm55594,The Olympic Elk,MOVIE,1952,,27,['documentation'],0.0,,,1.45,8.1,7.19656
+198,201,tm106320,Man in Space,MOVIE,1955,,51,['scifi'],0.0,,,1.76,6.3,6.19229
+199,202,tm847798,Disneyland Around the Seasons,MOVIE,1966,G,51,['documentation'],0.0,,,1.66,5.7,5.85754
+200,203,tm19438,The Princess Bride,MOVIE,1987,PG,99,"['fantasy', 'family', 'romance']",0.0,8.0,420521.0,21.284,7.7,
+201,204,ts20711,The Simpsons,SHOW,1989,TV-14,27,"['animation', 'comedy']",34.0,8.7,394764.0,516.381,7.9,
+202,205,tm147893,Edward Scissorhands,MOVIE,1990,PG-13,105,"['fantasy', 'drama', 'romance']",0.0,7.9,477505.0,65.35600000000001,7.7,
+203,206,tm49092,Who Framed Roger Rabbit,MOVIE,1988,PG,104,"['fantasy', 'animation', 'comedy', 'crime', 'family']",0.0,7.7,196510.0,24.065,7.5,
+204,207,tm47587,Willow,MOVIE,1988,PG,126,"['fantasy', 'romance', 'action', 'drama']",0.0,7.2,110680.0,14.83,7.0,
+205,208,ts15377,America's Funniest Home Videos,SHOW,1989,TV-PG,49,"['family', 'reality', 'comedy']",32.0,6.2,5356.0,18.117,7.0,
+206,209,tm21021,Adventures in Babysitting,MOVIE,1987,PG-13,102,"['comedy', 'crime', 'romance']",0.0,6.9,43294.0,9.276,6.8,
+207,210,tm131031,Return to Oz,MOVIE,1985,PG,109,"['fantasy', 'family', 'horror']",0.0,6.7,26986.0,9.982,6.6,
+208,211,tm155184,Home Alone,MOVIE,1990,PG,103,"['comedy', 'family']",0.0,7.7,552151.0,2.128,7.4,
+209,212,tm142764,"Honey, I Shrunk the Kids",MOVIE,1989,PG,93,"['scifi', 'family', 'comedy']",0.0,6.4,152394.0,18.878,6.3,
+210,213,tm173648,Splash,MOVIE,1984,PG,111,"['fantasy', 'comedy', 'romance']",0.0,6.3,76050.0,13.443,6.3,
+211,214,tm116020,Flight of the Navigator,MOVIE,1986,PG,90,"['scifi', 'family', 'comedy']",0.0,6.9,47676.0,10.713,6.9,
+212,215,tm46793,Tron,MOVIE,1982,PG,96,"['scifi', 'action']",0.0,6.7,119780.0,17.422,6.7,
+213,216,tm19084,3 Men and a Baby,MOVIE,1987,PG,102,"['comedy', 'drama', 'family']",0.0,6.1,52873.0,10.397,6.2,
+214,217,tm127019,The Black Cauldron,MOVIE,1985,PG,80,"['animation', 'horror', 'action', 'family', 'fantasy']",0.0,6.3,35592.0,18.475,6.5,
+215,218,ts146,DuckTales,SHOW,1987,TV-Y7,21,"['scifi', 'animation', 'fantasy', 'comedy', 'family', 'action']",4.0,8.1,31709.0,33.611,7.6,
+216,219,tm3,Return of the Jedi,MOVIE,1983,PG,135,"['action', 'scifi', 'fantasy']",0.0,8.3,1019886.0,26.537,7.9,
+217,220,tm131193,Turner & Hooch,MOVIE,1989,PG,97,"['comedy', 'crime', 'drama', 'thriller']",0.0,6.2,70131.0,12.228,6.4,
+218,221,ts11857,Chip 'n' Dale Rescue Rangers,SHOW,1989,TV-G,23,"['fantasy', 'comedy', 'action', 'scifi', 'animation', 'crime', 'family']",3.0,7.5,18971.0,34.201,7.6,
+219,222,ts22529,Spider-Man,SHOW,1981,TV-Y7,22,"['animation', 'action', 'family', 'fantasy', 'scifi']",1.0,6.9,1510.0,11.863,7.0,
+220,223,tm54457,Big Business,MOVIE,1988,PG,97,['comedy'],0.0,6.4,13946.0,7.667999999999999,6.4,
+221,224,tm127015,The Great Muppet Caper,MOVIE,1981,G,98,"['crime', 'comedy', 'family']",0.0,7.1,15313.0,7.419,6.8,
+222,225,ts22521,Spider-Man and His Amazing Friends,SHOW,1981,TV-Y7,25,"['action', 'scifi', 'comedy', 'crime', 'family', 'animation']",3.0,7.2,3484.0,31.159,7.5,
+223,226,tm125611,Ewoks: The Battle for Endor,MOVIE,1985,G,100,"['action', 'family', 'fantasy', 'scifi']",0.0,5.4,9608.0,21.39,5.4,
+224,227,tm171883,The Ewok Adventure,MOVIE,1984,PG,96,"['fantasy', 'scifi', 'family']",0.0,5.3,11271.0,12.696,6.0,
+225,228,tm116429,The Great Mouse Detective,MOVIE,1986,G,74,"['animation', 'family']",0.0,7.2,48993.0,14.56,7.1,
+226,229,ts233,Disney's Adventures of the Gummi Bears,SHOW,1985,TV-G,22,"['animation', 'family', 'fantasy']",6.0,7.5,10608.0,27.275,7.4,
+227,230,tm139255,The Little Mermaid,MOVIE,1989,G,83,"['fantasy', 'comedy', 'family', 'romance', 'animation']",0.0,7.6,255687.0,127.583,7.4,
+228,231,ts22183,TaleSpin,SHOW,1990,TV-G,22,"['animation', 'action', 'comedy', 'drama', 'family', 'fantasy']",1.0,7.6,14663.0,16.358,7.2,
+229,232,tm45667,Oliver & Company,MOVIE,1988,G,74,"['animation', 'comedy', 'family']",0.0,6.6,47848.0,15.969,6.7,
+230,233,tm57222,Ernest Saves Christmas,MOVIE,1988,PG,95,"['comedy', 'family', 'fantasy']",0.0,5.6,11410.0,9.001,5.3,
+231,234,ts21039,Star Wars: Droids,SHOW,1985,TV-Y7,23,"['scifi', 'animation', 'action', 'comedy', 'family']",2.0,5.9,1764.0,7.848,5.0,
+232,235,ts21976,The New Adventures of Winnie the Pooh,SHOW,1988,TV-Y,22,"['comedy', 'family', 'fantasy', 'animation']",4.0,7.6,4066.0,17.594,7.5,
+233,236,tm128057,The Journey of Natty Gann,MOVIE,1985,PG,101,"['drama', 'family']",0.0,7.0,6088.0,7.949,7.0,
+234,237,tm156156,The Rescuers Down Under,MOVIE,1990,G,77,"['fantasy', 'animation', 'comedy', 'family', 'crime', 'drama']",0.0,6.8,42188.0,6.983,6.6,
+235,238,ts28737,Star Wars: Ewoks,SHOW,1985,TV-G,25,"['scifi', 'action', 'family', 'fantasy', 'animation']",2.0,6.0,1923.0,5.547999999999999,6.3,
+236,239,tm126966,The Fox and the Hound,MOVIE,1981,G,82,"['animation', 'drama', 'family', 'action']",0.0,7.2,91622.0,40.05,7.1,
+237,240,tm152805,3 Men and a Little Lady,MOVIE,1990,PG,104,"['comedy', 'drama', 'family', 'romance']",0.0,5.4,24568.0,9.837,5.8,
+238,241,tm164406,Frankenweenie,MOVIE,1984,PG,29,['scifi'],0.0,,,9.002,7.0,6.58284
+239,242,tm146813,DuckTales: The Movie - Treasure of the Lost Lamp,MOVIE,1990,G,71,"['fantasy', 'family', 'animation', 'comedy', 'european']",0.0,6.8,26619.0,11.923,6.8,
+240,243,tm160651,Shipwrecked,MOVIE,1990,PG,92,"['family', 'action', 'european']",0.0,6.6,2819.0,1.101,6.7,
+241,244,tm23825,Benji the Hunted,MOVIE,1987,G,88,"['action', 'family']",0.0,6.2,3066.0,7.22,6.6,
+242,245,tm66657,Mickey's Christmas Carol,MOVIE,1983,G,26,"['animation', 'fantasy', 'comedy']",0.0,,,13.669,7.7,6.97339
+243,246,tm123092,Amy,MOVIE,1981,G,100,"['drama', 'family']",0.0,6.5,474.0,3.466,7.2,
+244,247,tm111692,Luxo Jr.,MOVIE,1986,G,2,['animation'],0.0,,,9.996,7.1,6.63863
+245,248,tm152951,The Prince and the Pauper,MOVIE,1990,G,25,['animation'],0.0,,,7.775,6.7,6.41546
+246,249,tm135273,Knick Knack,MOVIE,1989,G,4,['comedy'],0.0,,,8.012,7.1,6.63863
+247,250,tm126783,One Magic Christmas,MOVIE,1985,G,105,"['fantasy', 'family']",0.0,6.4,3798.0,5.605,5.8,
+248,251,tm120517,The Christmas Star,MOVIE,1986,,94,"['drama', 'family']",0.0,6.3,635.0,4.718,5.4,
+249,252,tm341045,Mr. Boogedy,MOVIE,1986,,44,"['horror', 'comedy', 'family']",0.0,,,5.537999999999999,6.8,6.47126
+250,253,tm19762,Red's Dream,MOVIE,1987,G,4,['animation'],0.0,,,9.235,6.2,6.1365
+251,254,tm131374,Tummy Trouble,MOVIE,1989,G,7,['comedy'],0.0,,,4.08,6.7,6.41546
+252,255,tm46878,Tin Toy,MOVIE,1988,G,5,['animation'],0.0,,,9.749,6.2,6.1365
+253,256,tm120337,Fuzzbucket,MOVIE,1986,G,46,['comedy'],0.0,,,1.452,5.2,5.57857
+254,257,tm176458,The Adventures of André and Wally B.,MOVIE,1984,G,2,['animation'],0.0,,,6.662000000000001,5.3,5.63436
+255,258,tm141214,Cheetah,MOVIE,1989,G,83,"['drama', 'family']",0.0,5.9,1046.0,5.518,6.0,
+256,259,tm117853,Casebusters,MOVIE,1986,G,47,[],0.0,,,1.952,5.7,5.85754
+257,260,tm26441,Bride of Boogedy,MOVIE,1987,G,90,['horror'],0.0,,,1.899,6.9,6.52705
+258,261,tm874,10 Things I Hate About You,MOVIE,1999,PG-13,97,"['drama', 'comedy', 'romance']",0.0,7.3,329064.0,34.448,7.6,
+259,262,ts2431,Boy Meets World,SHOW,1993,TV-G,23,"['comedy', 'drama', 'family', 'romance']",7.0,8.0,41639.0,13.800999999999998,8.4,
+260,263,tm18191,X-Men,MOVIE,2000,PG-13,104,"['action', 'scifi', 'european']",0.0,7.4,598191.0,2.707,7.0,
+261,264,ts21709,Spider-Man,SHOW,1994,TV-Y7,21,"['action', 'family', 'romance', 'crime', 'drama', 'fantasy', 'animation', 'scifi', 'thriller']",5.0,8.4,30818.0,54.932,8.3,
+262,265,tm189317,Rookie of the Year,MOVIE,1993,PG,103,"['comedy', 'family', 'fantasy', 'sport']",0.0,6.0,27934.0,9.435,6.1,
+263,266,tm55150,The Straight Story,MOVIE,1999,G,112,['drama'],0.0,8.0,89224.0,10.384,7.7,
+264,267,tm19613,Remember the Titans,MOVIE,2000,PG,113,"['drama', 'sport']",0.0,7.8,211333.0,20.555,7.6,
+265,268,ts22158,X-Men,SHOW,1992,TV-Y7,22,"['scifi', 'thriller', 'animation', 'action', 'family']",5.0,8.5,41799.0,47.725,8.2,
+266,269,ts8909,Dinosaurs,SHOW,1991,TV-G,24,"['scifi', 'family', 'fantasy', 'comedy']",4.0,7.5,18723.0,32.102,7.8,
+267,270,tm7861,While You Were Sleeping,MOVIE,1995,PG,103,"['romance', 'comedy', 'drama']",0.0,6.7,100996.0,14.761,6.9,
+268,271,tm57184,The Parent Trap,MOVIE,1998,PG,128,"['comedy', 'family', 'drama', 'romance']",0.0,6.6,133835.0,125.888,7.1,
+269,272,ts6600,Doug,SHOW,1991,TV-Y7,24,"['animation', 'comedy', 'drama', 'family', 'fantasy']",8.0,7.4,18859.0,12.998,7.4,
+270,273,tm11036,Heavyweights,MOVIE,1995,PG,100,"['comedy', 'drama', 'family', 'sport']",0.0,6.6,27654.0,8.76,6.2,
+271,274,tm9378,Mr. Holland's Opus,MOVIE,1995,PG,137,"['drama', 'music']",0.0,7.3,38763.0,9.557,7.0,
+272,275,tm5330,The Rocketeer,MOVIE,1991,PG,108,"['scifi', 'family', 'action']",0.0,6.5,57060.0,12.895,6.4,
+273,276,tm124857,Sister Act,MOVIE,1992,PG,100,"['comedy', 'music', 'crime', 'family']",0.0,6.4,97058.0,15.808,6.8,
+274,277,tm190977,George of the Jungle,MOVIE,1997,PG,92,"['romance', 'action', 'comedy', 'family']",0.0,5.5,76717.0,21.767,5.6,
+275,278,tm26792,The Emperor's New Groove,MOVIE,2000,G,78,"['fantasy', 'comedy', 'family', 'animation']",0.0,7.4,198060.0,97.078,7.5,
+276,279,ts21697,Gargoyles,SHOW,1994,TV-G,22,"['scifi', 'action', 'romance', 'thriller', 'animation', 'drama', 'family', 'fantasy', 'comedy', 'crime']",3.0,8.1,16172.0,20.861,8.2,
+277,280,tm105031,James and the Giant Peach,MOVIE,1996,PG,79,"['fantasy', 'animation', 'family']",0.0,6.7,65907.0,13.821,6.5,
+278,281,tm189771,Homeward Bound: The Incredible Journey,MOVIE,1993,G,84,"['family', 'action', 'comedy', 'drama']",0.0,6.9,46012.0,16.861,6.9,
+279,282,tm4,Star Wars: Episode I - The Phantom Menace,MOVIE,1999,PG,136,"['scifi', 'action', 'fantasy']",0.0,6.5,780489.0,46.244,6.5,
+280,283,tm57241,Never Been Kissed,MOVIE,1999,PG-13,107,"['romance', 'drama', 'comedy']",0.0,6.0,89698.0,13.425999999999998,6.2,
+281,284,tm190949,The Three Musketeers,MOVIE,1993,PG,105,"['comedy', 'european']",0.0,,,20.446,6.4,6.24808
+282,285,tm190696,Cool Runnings,MOVIE,1993,PG,98,"['comedy', 'history', 'sport', 'family', 'european']",0.0,7.0,102372.0,16.444000000000003,7.0,
+283,286,tm185041,The Nightmare Before Christmas,MOVIE,1993,PG,76,"['fantasy', 'family', 'animation']",0.0,7.9,326570.0,71.07600000000001,7.8,
+284,287,ts21037,X-Men: Evolution,SHOW,2000,TV-Y7,22,"['action', 'scifi', 'fantasy', 'romance', 'thriller', 'animation', 'drama']",4.0,7.8,11779.0,29.332,8.0,
+285,288,tm124456,The Mighty Ducks,MOVIE,1992,PG,101,"['comedy', 'drama', 'sport', 'family']",0.0,6.5,65487.0,11.975,6.6,
+286,289,tm14765,Toy Story,MOVIE,1995,G,81,"['comedy', 'family', 'fantasy', 'animation']",0.0,8.3,963150.0,198.939,8.0,
+287,290,tm113629,The Lion King,MOVIE,1994,G,89,"['drama', 'family', 'animation']",0.0,8.5,1023813.0,145.278,8.3,
+288,291,tm118953,Blank Check,MOVIE,1994,PG,93,"['comedy', 'family', 'crime']",0.0,5.2,20489.0,12.034,5.8,
+289,292,tm127070,Newsies,MOVIE,1992,PG,121,"['drama', 'family', 'history']",0.0,6.9,20651.0,11.179,6.6,
+290,293,ts21272,Recess,SHOW,1997,TV-G,16,"['comedy', 'animation', 'family']",6.0,7.9,25024.0,31.236,7.8,
+291,294,tm62982,A Bug's Life,MOVIE,1998,G,95,"['comedy', 'animation', 'family', 'fantasy']",0.0,7.2,283444.0,89.895,7.0,
+292,295,tm123824,Aladdin,MOVIE,1992,G,90,"['fantasy', 'romance', 'animation', 'comedy', 'family']",0.0,8.0,402918.0,71.983,7.6,
+293,296,tm53427,Annie,MOVIE,1999,G,86,"['comedy', 'music', 'family']",0.0,,,8.415,6.4,6.24808
+294,297,tm191537,Hercules,MOVIE,1997,G,93,"['fantasy', 'romance', 'animation', 'comedy', 'family', 'european', 'action']",0.0,7.3,224844.0,99.286,7.5,
+295,298,tm66175,Mulan,MOVIE,1998,G,88,"['animation', 'war', 'drama', 'comedy', 'family', 'fantasy']",0.0,7.6,279567.0,127.78,7.9,
+296,299,tm103448,Muppet Treasure Island,MOVIE,1996,G,100,"['comedy', 'family', 'romance', 'action']",0.0,6.9,23917.0,17.373,6.5,
+297,300,tm6899,Wild Hearts Can't Be Broken,MOVIE,1991,G,88,"['drama', 'family', 'romance']",0.0,7.1,5288.0,7.365,7.6,
+298,301,tm105016,Jack,MOVIE,1996,PG-13,113,"['comedy', 'drama', 'fantasy']",0.0,5.8,59947.0,12.645,6.3,
+299,302,tm190043,Flubber,MOVIE,1997,PG,93,"['scifi', 'comedy', 'family']",0.0,5.3,88814.0,18.724,5.6,
+300,303,tm10470,A Goofy Movie,MOVIE,1995,G,78,"['animation', 'comedy', 'family', 'romance']",0.0,6.9,52724.0,19.458,6.9,
+301,304,ts5504,Fantastic Four,SHOW,1994,TV-Y7,21,"['action', 'animation', 'scifi']",2.0,6.4,3479.0,16.157,6.6,
+302,305,ts20968,Spider-Man Unlimited,SHOW,1999,TV-Y7,22,"['action', 'crime', 'family', 'scifi', 'thriller', 'animation']",1.0,6.3,3326.0,33.194,7.5,
+303,306,tm44033,Tarzan,MOVIE,1999,G,88,"['animation', 'comedy', 'drama', 'family', 'music', 'romance']",0.0,7.3,220790.0,85.07700000000001,7.4,
+304,307,ts21059,The Incredible Hulk,SHOW,1996,TV-Y7,22,"['drama', 'action', 'fantasy', 'scifi', 'animation']",3.0,6.7,3280.0,15.591,6.0,
+305,308,tm190165,Hocus Pocus,MOVIE,1993,PG,96,"['fantasy', 'family', 'horror', 'comedy', 'european']",0.0,6.9,120095.0,38.889,7.0,
+306,309,tm109272,Thumbelina,MOVIE,1994,G,86,"['fantasy', 'family', 'romance', 'animation', 'european']",0.0,6.2,16995.0,12.248,6.5,
+307,310,tm190870,Cinderella,MOVIE,1997,G,88,"['fantasy', 'romance', 'family']",0.0,6.6,8248.0,7.345,6.4,
+308,311,tm130837,Home Alone 2: Lost in New York,MOVIE,1992,PG,115,"['comedy', 'documentation', 'crime', 'family']",0.0,6.8,344874.0,48.888000000000005,6.7,
+309,312,tm184147,Sister Act 2: Back in the Habit,MOVIE,1993,PG,107,"['comedy', 'family', 'music']",0.0,5.6,53316.0,16.548,6.4,
+310,313,tm40070,Toy Story 2,MOVIE,1999,G,92,"['comedy', 'family', 'fantasy', 'animation']",0.0,7.9,565964.0,153.833,7.6,
+311,314,tm9048,Beauty and the Beast,MOVIE,1991,G,84,"['fantasy', 'family', 'animation', 'scifi', 'drama', 'romance']",0.0,7.4,27.0,100.202,7.7,
+312,315,tm119659,Camp Nowhere,MOVIE,1994,PG,96,"['drama', 'comedy', 'family']",0.0,6.0,9697.0,8.714,5.8,
+313,316,tm8912,The Big Green,MOVIE,1995,PG,99,"['action', 'comedy', 'family', 'sport']",0.0,5.5,10102.0,6.573,5.6,
+314,317,tm20705,The Kid,MOVIE,2000,PG,104,"['fantasy', 'comedy', 'family']",0.0,6.1,42054.0,10.584,6.5,
+315,318,ts21291,Pepper Ann,SHOW,1997,TV-Y,15,"['family', 'animation', 'comedy']",5.0,7.1,3634.0,5.562,6.9,
+316,319,tm131129,The Muppet Christmas Carol,MOVIE,1992,G,85,"['fantasy', 'comedy', 'drama', 'family']",0.0,7.7,57493.0,15.064,7.4,
+317,320,ts22130,Rolie Polie Olie,SHOW,1998,TV-Y,21,"['animation', 'comedy', 'family', 'fantasy', 'scifi']",6.0,6.3,2861.0,8.697000000000001,6.8,
+318,321,tm22497,Dinosaur,MOVIE,2000,PG,82,"['animation', 'drama', 'family', 'fantasy', 'thriller', 'comedy']",0.0,6.4,59552.0,85.613,6.5,
+319,322,tm189664,Jungle 2 Jungle,MOVIE,1997,PG,97,"['comedy', 'family']",0.0,5.1,24246.0,10.067,5.3,
+320,323,tm38184,The Brave Little Toaster to the Rescue,MOVIE,1997,G,74,['animation'],0.0,,,6.164,6.1,6.08071
+321,324,ts14804,Darkwing Duck,SHOW,1991,TV-G,22,"['action', 'animation', 'comedy', 'crime', 'family', 'fantasy', 'scifi']",3.0,7.6,16104.0,14.306,7.4,
+322,325,tm62353,Fantasia 2000,MOVIE,1999,G,74,"['animation', 'comedy', 'family', 'fantasy', 'music']",0.0,7.1,38007.0,12.845,7.0,
+323,326,tm12122,Man of the House,MOVIE,1995,PG,96,"['action', 'family', 'comedy']",0.0,5.2,9632.0,6.912999999999999,5.3,
+324,327,tm1695,101 Dalmatians,MOVIE,1996,G,103,"['comedy', 'crime', 'family']",0.0,5.7,110153.0,86.32600000000001,5.9,
+325,328,tm115014,The Santa Clause,MOVIE,1994,PG,97,"['comedy', 'drama', 'family', 'fantasy']",0.0,6.5,113716.0,13.279000000000002,6.4,
+326,329,ts10198,Even Stevens,SHOW,2000,TV-G,22,"['comedy', 'family']",3.0,7.6,14537.0,11.61,7.5,
+327,330,tm108880,The Hunchback of Notre Dame,MOVIE,1996,G,91,"['animation', 'family', 'drama', 'romance']",0.0,7.0,154010.0,40.722,7.1,
+328,331,ts21702,Iron Man,SHOW,1994,TV-Y7,22,"['action', 'scifi', 'family', 'animation']",2.0,6.6,3247.0,11.818,7.0,
+329,332,tm11864,Pocahontas,MOVIE,1995,G,82,"['romance', 'animation', 'drama', 'family', 'european']",0.0,6.7,183269.0,39.789,7.0,
+330,333,tm189008,The Adventures of Huck Finn,MOVIE,1993,PG,108,"['comedy', 'drama', 'family']",0.0,6.2,8542.0,7.803,6.2,
+331,334,tm104563,Kazaam,MOVIE,1996,PG,93,"['fantasy', 'comedy', 'family']",0.0,3.0,24319.0,7.175,4.2,
+332,335,ts20699,The Little Mermaid,SHOW,1992,TV-G,23,"['comedy', 'drama', 'family', 'fantasy', 'romance', 'animation']",3.0,6.7,5028.0,27.241,7.0,
+333,336,ts43344,Silver Surfer,SHOW,1998,TV-Y7,20,"['scifi', 'thriller', 'animation', 'action']",1.0,7.0,2361.0,8.806000000000001,7.7,
+334,337,tm49681,Inspector Gadget,MOVIE,1999,PG,78,"['comedy', 'crime', 'family', 'scifi', 'action']",0.0,4.1,47952.0,12.247,4.4,
+335,338,tm192747,Home Alone 3,MOVIE,1997,PG,102,"['comedy', 'action', 'crime', 'family']",0.0,4.5,115209.0,28.986,5.3,
+336,339,tm63063,Mighty Joe Young,MOVIE,1998,PG,114,"['fantasy', 'family', 'thriller', 'action', 'european']",0.0,5.7,29012.0,18.312,6.2,
+337,340,tm119015,The Return of Jafar,MOVIE,1994,G,69,['romance'],0.0,,,34.96,6.1,6.08071
+338,341,tm130852,"Honey, I Blew Up the Kid",MOVIE,1992,PG,89,"['scifi', 'family', 'romance', 'comedy']",0.0,4.8,43943.0,16.61,5.2,
+339,342,ts21195,Smart Guy,SHOW,1997,TV-G,22,"['comedy', 'drama', 'family']",3.0,7.4,5099.0,9.37,8.0,
+340,343,tm117838,D2: The Mighty Ducks,MOVIE,1994,PG,106,"['drama', 'comedy', 'family', 'sport']",0.0,6.0,40169.0,11.94,6.2,
+341,344,tm14980,Tom and Huck,MOVIE,1995,PG,97,"['drama', 'action', 'comedy', 'family', 'romance', 'western']",0.0,5.5,10775.0,9.233,5.3,
+342,345,tm12374,White Fang,MOVIE,1991,PG,107,"['drama', 'action', 'animation', 'family']",0.0,6.0,64.0,17.082,6.7,
+343,346,ts12215,Bonkers,SHOW,1993,TV-Y7,25,"['comedy', 'western', 'action', 'fantasy', 'scifi', 'animation', 'crime', 'family']",4.0,6.7,1477.0,8.88,6.6,
+344,347,tm111327,Aladdin and the King of Thieves,MOVIE,1996,G,81,"['action', 'animation', 'family']",0.0,,,32.086,6.3,6.19229
+345,348,ts22263,Timon & Pumbaa,SHOW,1995,TV-Y,22,"['comedy', 'scifi', 'animation', 'family', 'music', 'fantasy']",8.0,7.0,10053.0,44.456,7.2,
+346,349,ts22023,Hercules,SHOW,1998,TV-Y,23,"['comedy', 'action', 'animation', 'family', 'fantasy']",2.0,6.6,10423.0,17.998,6.6,
+347,350,tm113048,Homeward Bound II: Lost in San Francisco,MOVIE,1996,G,89,"['comedy', 'drama', 'family', 'romance']",0.0,6.0,14889.0,10.013,6.5,
+348,351,ts25438,Out of the Box,SHOW,1998,TV-Y,24,"['music', 'comedy', 'family', 'fantasy', 'sport', 'documentation']",3.0,7.4,990.0,2.063,10.0,
+349,352,tm39792,My Favorite Martian,MOVIE,1999,PG,94,"['drama', 'comedy', 'family', 'scifi']",0.0,5.0,13542.0,11.694,5.6,
+350,353,ts9805,Adventures in Wonderland,SHOW,1992,TV-Y,28,"['scifi', 'comedy', 'family', 'fantasy']",5.0,7.9,727.0,2.512,7.0,
+351,354,ts20967,So Weird,SHOW,1999,TV-PG,24,"['scifi', 'family', 'thriller']",3.0,8.4,2960.0,3.92,7.6,
+352,355,tm10920,A Kid in King Arthur's Court,MOVIE,1995,PG,89,"['comedy', 'romance', 'family', 'fantasy']",0.0,4.7,6196.0,9.962,4.8,
+353,356,tm11400,Operation Dumbo Drop,MOVIE,1995,PG,107,"['comedy', 'drama', 'family', 'war', 'action']",0.0,5.1,9008.0,8.076,5.1,
+354,357,tm192728,Mr. Magoo,MOVIE,1997,PG,84,"['comedy', 'family']",0.0,4.0,15236.0,10.708,4.4,
+355,358,tm67505,The Lion King II: Simba's Pride,MOVIE,1998,G,81,['animation'],0.0,,,77.393,7.0,6.58284
+356,359,ts20912,Mighty Ducks: The Animated Series,SHOW,1996,TV-Y7,22,"['action', 'sport', 'family', 'animation', 'comedy', 'scifi', 'drama']",1.0,6.4,1925.0,5.32,6.6,
+357,360,ts20689,Goof Troop,SHOW,1992,TV-G,22,"['animation', 'comedy', 'family', 'music']",2.0,6.8,8582.0,11.798,6.6,
+358,361,tm61321,The Brave Little Toaster Goes to Mars,MOVIE,1998,G,73,['animation'],0.0,,,6.519,5.8,5.91333
+359,362,tm43588,Johnny Tsunami,MOVIE,1999,G,88,"['drama', 'family', 'sport']",0.0,6.2,5487.0,8.029,5.9,
+360,363,tm113590,Iron Will,MOVIE,1994,PG,108,"['family', 'action']",0.0,6.6,8541.0,8.855,6.7,
+361,364,ts12322,101 Dalmatians: The Series,SHOW,1997,TV-G,22,"['action', 'comedy', 'family', 'animation']",2.0,6.1,1580.0,18.557,7.0,
+362,365,tm42549,Halloweentown,MOVIE,1998,G,84,"['comedy', 'family', 'fantasy']",0.0,6.6,16979.0,7.957000000000001,6.9,
+363,366,tm104241,First Kid,MOVIE,1996,PG,101,"['comedy', 'family']",0.0,5.2,10915.0,9.626,5.8,
+364,367,tm24436,An Extremely Goofy Movie,MOVIE,2000,G,79,['animation'],0.0,,,16.387,6.3,6.19229
+365,368,tm61632,Brink!,MOVIE,1998,G,99,"['drama', 'family', 'sport']",0.0,6.9,6248.0,6.033,6.2,
+366,369,tm51884,Doug's 1st Movie,MOVIE,1999,G,77,"['comedy', 'family', 'fantasy', 'scifi', 'animation', 'drama']",0.0,4.9,3246.0,7.382999999999999,5.5,
+367,370,tm110769,D3: The Mighty Ducks,MOVIE,1996,PG,104,"['action', 'drama', 'family', 'sport', 'comedy']",0.0,5.4,26851.0,12.316,6.0,
+368,371,tm191826,"Honey, We Shrunk Ourselves",MOVIE,1997,PG,74,"['scifi', 'action', 'comedy', 'family']",0.0,4.9,15109.0,14.321,5.5,
+369,372,tm13851,Tall Tale,MOVIE,1995,PG,98,"['western', 'family', 'fantasy']",0.0,5.9,3777.0,6.246,6.3,
+370,373,tm187779,Life with Mikey,MOVIE,1993,PG,91,"['comedy', 'family', 'european']",0.0,5.6,6002.0,7.485,5.6,
+371,374,tm118708,White Fang 2: Myth of the White Wolf,MOVIE,1994,PG,106,"['family', 'action']",0.0,5.4,2318.0,10.11,6.6,
+372,375,tm560,102 Dalmatians,MOVIE,2000,G,100,"['comedy', 'family']",0.0,4.8,37218.0,14.95,5.5,
+373,376,tm193086,Squanto: A Warrior's Tale,MOVIE,1994,PG,102,"['action', 'drama', 'family']",0.0,6.0,1261.0,4.543,6.4,
+374,377,tm190553,Pooh's Grand Adventure: The Search for Christopher Robin,MOVIE,1997,G,76,['animation'],0.0,,,10.414,7.1,6.63863
+375,378,ts3540,The Avengers: United They Stand,SHOW,1999,TV-Y7,22,"['animation', 'action', 'scifi']",1.0,5.2,946.0,8.808,6.7,
+376,379,tm22933,The Tigger Movie,MOVIE,2000,G,77,"['animation', 'comedy', 'drama', 'family']",0.0,6.3,18786.0,12.115,6.5,
+377,380,tm51489,Don't Look Under the Bed,MOVIE,1999,PG,93,"['horror', 'family', 'fantasy', 'comedy']",0.0,6.7,3169.0,6.354,6.6,
+378,381,tm18863,The Little Mermaid II: Return to the Sea,MOVIE,2000,PG,75,"['comedy', 'animation', 'action', 'family']",0.0,,,12.18,6.4,6.24808
+379,382,tm63109,Miracle at Midnight,MOVIE,1998,,90,['drama'],0.0,,,1.979,7.2,6.69443
+380,383,ts21063,Quack Pack,SHOW,1996,,22,"['animation', 'comedy', 'family']",1.0,6.7,4117.0,8.237,7.0,
+381,384,tm53567,Smart House,MOVIE,1999,G,82,"['fantasy', 'drama', 'family', 'scifi', 'comedy']",0.0,6.1,7365.0,6.242000000000001,5.8,
+382,385,tm64295,Zenon: Girl of the 21st Century,MOVIE,1999,G,97,"['scifi', 'family', 'comedy']",0.0,6.3,7592.0,6.716,6.2,
+383,386,tm65486,Ruby Bridges,MOVIE,1998,PG,96,['drama'],0.0,,,2.886,6.3,6.19229
+384,387,tm192276,Beauty and the Beast: The Enchanted Christmas,MOVIE,1997,G,72,"['animation', 'family', 'fantasy']",0.0,,,16.772000000000002,6.2,6.1365
+385,388,tm46480,Mickey's Once Upon a Christmas,MOVIE,1999,G,66,['comedy'],0.0,,,10.983,7.1,6.63863
+386,389,tm56602,I'll Be Home for Christmas,MOVIE,1998,PG,86,"['comedy', 'family']",0.0,5.5,10572.0,7.56,5.7,
+387,390,tm52742,Winnie the Pooh: A Valentine for You,MOVIE,1999,G,22,"['animation', 'family', 'drama', 'comedy']",0.0,7.1,573.0,4.141,6.8,
+388,391,tm23725,The Color of Friendship,MOVIE,2000,PG,87,"['drama', 'family']",0.0,7.2,3876.0,7.553999999999999,7.1,
+389,392,tm60240,Genius,MOVIE,1999,G,82,"['family', 'comedy', 'drama', 'documentation', 'romance', 'scifi']",0.0,6.0,1913.0,3.455,6.0,
+390,393,tm191851,That Darn Cat,MOVIE,1997,PG,89,"['comedy', 'action', 'crime', 'family']",0.0,4.6,4436.0,6.959,4.9,
+391,394,tm39132,Horse Sense,MOVIE,1999,G,92,"['drama', 'family']",0.0,6.1,1884.0,6.505,7.0,
+392,395,tm17532,Frank and Ollie,MOVIE,1995,PG,89,['documentation'],0.0,7.7,914.0,2.799,7.5,
+393,396,tm56569,Can of Worms,MOVIE,1999,PG,90,"['scifi', 'comedy', 'family']",0.0,4.9,1038.0,4.31,4.4,
+394,397,tm52424,Richie Rich's Christmas Wish,MOVIE,1998,G,84,"['family', 'comedy']",0.0,,,11.161,4.9,5.41119
+395,398,tm22055,For the Birds,MOVIE,2000,G,3,['comedy'],0.0,,,10.805,7.5,6.8618
+396,399,tm54352,Belle's Magical World,MOVIE,1998,G,92,['animation'],0.0,,,16.968,6.2,6.1365
+397,400,tm49771,Meet the Deedles,MOVIE,1998,PG,93,"['comedy', 'family', 'sport']",0.0,4.0,2943.0,6.674,4.4,
+398,401,tm21420,Alley Cats Strike,MOVIE,2000,G,87,"['drama', 'comedy', 'family', 'sport']",0.0,6.0,2328.0,3.6,5.9,
+399,402,tm61627,The Thirteenth Year,MOVIE,1999,G,95,"['comedy', 'fantasy', 'family']",0.0,5.9,5478.0,7.14,6.6,
+400,403,tm64787,The Jungle Book: Mowgli's Story,MOVIE,1998,G,77,['family'],0.0,,,6.244,5.9,5.96912
+401,404,tm17754,"Up, Up, and Away",MOVIE,2000,G,77,"['action', 'family', 'scifi', 'comedy', 'fantasy']",0.0,5.4,1985.0,4.695,5.5,
+402,405,tm192613,Geri's Game,MOVIE,1997,G,4,"['animation', 'family', 'european']",0.0,,,14.074000000000002,7.8,7.02918
+403,406,ts21022,Teacher's Pet,SHOW,2000,TV-Y,21,"['comedy', 'fantasy', 'animation', 'family']",2.0,6.2,515.0,3.635,7.6,
+404,407,tm56857,You Lucky Dog,MOVIE,1998,,88,"['fantasy', 'comedy', 'family']",0.0,4.6,675.0,3.354,5.6,
+405,408,tm29703,Miracle in Lane 2,MOVIE,2000,G,89,"['comedy', 'drama', 'family', 'sport']",0.0,6.0,2132.0,3.695,6.2,
+406,409,tm27619,Phantom of the Megaplex,MOVIE,2000,G,89,"['action', 'thriller', 'horror', 'comedy', 'family']",0.0,6.3,3448.0,5.3870000000000005,6.0,
+407,410,tm49485,Pocahontas II: Journey to a New World,MOVIE,1998,G,72,['romance'],0.0,,,41.996,5.5,5.74595
+408,411,tm24519,Rip Girls,MOVIE,2000,G,87,"['romance', 'drama', 'family']",0.0,5.9,1338.0,4.013,6.4,
+409,412,tm186295,Trail Mix-Up,MOVIE,1993,G,8,['animation'],0.0,,,3.863,6.9,6.52705
+410,413,tm22701,Mom's Got a Date with a Vampire,MOVIE,2000,,85,"['fantasy', 'horror', 'comedy', 'family']",0.0,5.8,4259.0,8.344,5.8,
+411,414,tm19899,Ready to Run,MOVIE,2000,,88,"['family', 'sport']",0.0,5.4,352.0,3.844,6.1,
+412,415,tm24952,Whispers: An Elephant's Tale,MOVIE,2000,G,72,"['family', 'drama']",0.0,5.0,359.0,4.762,4.8,
+413,416,tm19463,The Ultimate Christmas Present,MOVIE,2000,G,85,"['comedy', 'family']",0.0,5.7,1722.0,5.394,5.5,
+414,417,tm19235,Stepsister from Planet Weird,MOVIE,2000,G,85,"['scifi', 'family', 'comedy']",0.0,5.7,1539.0,3.965,5.5,
+415,418,tm17610,Quints,MOVIE,2000,G,83,"['drama', 'comedy', 'family']",0.0,5.5,2427.0,4.48,5.6,
+416,419,tm7772,Mark Twain and Me,MOVIE,1991,,93,['drama'],0.0,6.9,168.0,2.278,7.5,
+417,420,tm133512,Pirates of the Caribbean: The Curse of the Black Pearl,MOVIE,2003,PG-13,143,"['fantasy', 'action']",0.0,8.0,1081867.0,484.892,7.8,
+418,421,tm135853,Avatar,MOVIE,2009,PG-13,165,"['fantasy', 'scifi', 'action']",0.0,7.8,1193331.0,598.284,7.5,
+419,422,tm90391,National Treasure,MOVIE,2004,PG,131,"['thriller', 'action', 'western', 'family']",0.0,6.9,325293.0,26.045,6.6,
+420,423,tm151348,Fantastic Mr. Fox,MOVIE,2009,PG,87,"['animation', 'family', 'comedy', 'crime', 'drama']",0.0,7.9,224514.0,21.157,7.8,
+421,424,tm22112,Night at the Museum,MOVIE,2006,PG,108,"['comedy', 'fantasy', 'family']",0.0,6.4,339256.0,33.216,6.6,
+422,425,tm90273,Percy Jackson & the Olympians: The Lightning Thief,MOVIE,2010,PG,118,"['fantasy', 'family']",0.0,5.8,186679.0,146.379,6.2,
+423,426,ts1,Star Wars: The Clone Wars,SHOW,2008,TV-PG,23,"['scifi', 'action', 'animation', 'drama', 'fantasy']",7.0,8.4,85602.0,83.85799999999999,8.5,
+424,427,tm79327,National Treasure: Book of Secrets,MOVIE,2007,PG,124,"['thriller', 'action', 'family']",0.0,6.5,233013.0,25.46,6.3,
+425,428,tm31764,Pirates of the Caribbean: Dead Man's Chest,MOVIE,2006,PG-13,151,"['fantasy', 'action']",0.0,7.3,697579.0,635.656,7.3,
+426,429,tm138563,Holes,MOVIE,2003,PG,118,"['comedy', 'drama', 'family']",0.0,7.0,86438.0,17.977999999999998,6.8,
+427,430,ts21960,Star Wars: Clone Wars,SHOW,2003,TV-PG,10,"['action', 'scifi', 'animation', 'drama', 'family', 'fantasy']",3.0,7.8,25637.0,17.734,7.7,
+428,431,tm180742,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",MOVIE,2005,PG,143,"['fantasy', 'family', 'documentation']",0.0,6.9,390458.0,92.115,7.1,
+429,432,tm51227,Iron Man,MOVIE,2008,PG-13,125,"['action', 'scifi']",0.0,7.9,1026464.0,116.448,7.6,
+430,433,tm100267,Alice in Wonderland,MOVIE,2010,PG,109,"['fantasy', 'family']",0.0,6.4,406781.0,83.34,6.6,
+431,434,tm25151,WALL·E,MOVIE,2008,G,98,"['scifi', 'family', 'fantasy', 'romance', 'animation']",0.0,8.4,1083424.0,75.615,8.1,
+432,435,tm116550,Ice Age,MOVIE,2002,PG,81,"['animation', 'comedy', 'family', 'fantasy']",0.0,7.5,472952.0,153.468,7.3,
+433,436,tm48427,The Princess Diaries,MOVIE,2001,G,115,"['comedy', 'romance', 'family']",0.0,6.3,141111.0,37.787,6.9,
+434,437,tm99496,TRON: Legacy,MOVIE,2010,PG,125,"['scifi', 'action', 'fantasy', 'european']",0.0,6.8,331020.0,64.954,6.4,
+435,438,tm170269,Fantastic Four,MOVIE,2005,PG-13,106,"['fantasy', 'scifi', 'action', 'family']",0.0,5.7,325696.0,45.841,5.8,
+436,439,tm99086,Secretariat,MOVIE,2010,PG,123,"['drama', 'documentation', 'family', 'history', 'sport']",0.0,7.2,28232.0,14.735,7.4,
+437,440,tm84873,Pirates of the Caribbean: At World's End,MOVIE,2007,PG-13,169,"['fantasy', 'action']",0.0,7.1,633813.0,570.745,7.2,
+438,441,tm84668,Enchanted,MOVIE,2007,PG,107,"['comedy', 'family', 'fantasy', 'romance', 'animation']",0.0,7.1,194999.0,53.669,6.8,
+439,442,tm70557,Ratatouille,MOVIE,2007,G,111,"['fantasy', 'animation', 'comedy', 'family', 'drama']",0.0,8.1,702889.0,123.914,7.8,
+440,443,ts22052,Phineas and Ferb,SHOW,2007,TV-G,21,"['scifi', 'family', 'animation', 'action', 'comedy']",4.0,8.3,72.0,41.523,7.9,
+441,444,tm103874,Treasure Planet,MOVIE,2002,PG,95,"['fantasy', 'scifi', 'animation', 'family']",0.0,7.1,114828.0,49.66,7.5,
+442,445,tm137900,Cheaper by the Dozen,MOVIE,2003,PG,98,"['comedy', 'family']",0.0,5.9,100999.0,23.068,6.3,
+443,446,tm150254,Freaky Friday,MOVIE,2003,PG,93,"['fantasy', 'comedy', 'family', 'music', 'romance']",0.0,6.3,135669.0,31.765,6.4,
+444,447,tm90577,Miracle,MOVIE,2004,PG,135,"['drama', 'history', 'sport', 'european']",0.0,7.4,53793.0,10.380999999999998,7.1,
+445,448,tm154915,X-Men Origins: Wolverine,MOVIE,2009,PG-13,107,"['action', 'thriller', 'scifi']",0.0,6.5,494995.0,14.029000000000002,6.3,
+446,449,tm102214,The Sorcerer's Apprentice,MOVIE,2010,PG,109,"['fantasy', 'action', 'family', 'european']",0.0,6.1,160601.0,24.302,6.1,
+447,450,tm84505,The Incredibles,MOVIE,2004,PG,115,"['animation', 'action', 'family']",0.0,8.0,709766.0,107.147,7.7,
+448,451,tm68154,Dan in Real Life,MOVIE,2007,PG-13,98,"['romance', 'comedy', 'drama']",0.0,6.8,102204.0,9.954,6.5,
+449,452,tm136160,X2,MOVIE,2003,PG-13,133,"['scifi', 'action', 'thriller']",0.0,7.4,540104.0,2.031,7.0,
+450,453,tm153612,Up,MOVIE,2009,PG,96,"['comedy', 'drama', 'family', 'animation']",0.0,8.3,1013530.0,114.968,7.9,
+451,454,tm76258,Alvin and the Chipmunks,MOVIE,2007,PG,92,"['comedy', 'fantasy', 'animation', 'drama', 'family', 'music']",0.0,5.2,84098.0,42.729,5.8,
+452,455,tm142274,Night at the Museum: Battle of the Smithsonian,MOVIE,2009,PG,105,"['fantasy', 'action', 'comedy', 'family']",0.0,6.0,192573.0,43.101000000000006,6.1,
+453,456,tm177722,Sky High,MOVIE,2005,PG,100,"['comedy', 'family', 'scifi', 'action']",0.0,6.3,85919.0,41.537,6.2,
+454,457,tm106045,Diary of a Wimpy Kid,MOVIE,2010,PG,94,"['comedy', 'drama', 'family', 'animation']",0.0,6.2,48686.0,23.066,6.2,
+455,458,tm92312,Iron Man 2,MOVIE,2010,PG-13,124,"['scifi', 'action', 'european']",0.0,6.9,792356.0,163.58700000000002,6.8,
+456,459,tm135549,Finding Nemo,MOVIE,2003,G,100,"['animation', 'family', 'comedy']",0.0,8.1,1006067.0,110.871,7.8,
+457,460,tm38852,Horton Hears a Who!,MOVIE,2008,G,86,"['fantasy', 'family', 'drama', 'romance', 'comedy', 'music', 'animation']",0.0,6.8,138363.0,37.73,6.5,
+458,461,tm96866,Prince of Persia: The Sands of Time,MOVIE,2010,PG-13,116,"['fantasy', 'scifi', 'action']",0.0,6.6,286211.0,72.683,6.2,
+459,462,ts2827,Dog Whisperer,SHOW,2004,TV-G,43,"['family', 'reality']",9.0,7.9,2743.0,10.901,7.1,
+460,463,tm31341,Cars,MOVIE,2006,G,117,"['comedy', 'family', 'animation', 'action', 'sport']",0.0,7.2,405894.0,77.32600000000001,6.9,
+461,464,tm75152,The Simpsons Movie,MOVIE,2007,PG-13,87,"['family', 'animation', 'comedy', 'european']",0.0,7.3,324941.0,107.92,7.0,
+462,465,tm29915,Atlantis: The Lost Empire,MOVIE,2001,PG,95,"['scifi', 'family', 'fantasy', 'animation', 'action']",0.0,6.9,116024.0,36.739,6.9,
+463,466,tm120806,The Rookie,MOVIE,2002,G,127,"['drama', 'family', 'sport']",0.0,6.9,34562.0,11.265,6.8,
+464,467,tm87455,Garfield,MOVIE,2004,PG,80,"['animation', 'comedy', 'family', 'fantasy']",0.0,5.0,85434.0,84.208,5.6,
+465,468,tm138383,Confessions of a Shopaholic,MOVIE,2009,PG,104,"['romance', 'comedy']",0.0,5.8,77921.0,67.406,6.4,
+466,469,tm114448,Lilo & Stitch,MOVIE,2002,PG,85,"['animation', 'comedy', 'drama', 'family', 'fantasy', 'scifi']",0.0,7.3,184928.0,108.944,7.5,
+467,470,tm177274,Because of Winn-Dixie,MOVIE,2005,PG,106,"['comedy', 'drama', 'family']",0.0,6.3,11580.0,8.988999999999999,6.4,
+468,471,tm37560,"Monsters, Inc.",MOVIE,2001,G,92,"['animation', 'comedy', 'family', 'fantasy']",0.0,8.1,882810.0,161.34,7.8,
+469,472,tm38375,X-Men: The Last Stand,MOVIE,2006,PG-13,104,"['thriller', 'action', 'scifi', 'documentation']",0.0,6.6,507856.0,1.838,6.4,
+470,473,tm163433,The Sandlot 2,MOVIE,2005,PG,97,['comedy'],0.0,,,8.304,5.9,5.96912
+471,474,tm6,Star Wars: Episode III - Revenge of the Sith,MOVIE,2005,PG-13,140,"['scifi', 'fantasy', 'action']",0.0,7.6,763677.0,41.82899999999999,7.4,
+472,475,tm68147,Meet the Robinsons,MOVIE,2007,G,95,"['comedy', 'animation', 'family', 'scifi', 'drama', 'music', 'fantasy']",0.0,6.8,97316.0,35.765,6.9,
+473,476,tm179262,Chicken Little,MOVIE,2005,G,81,"['comedy', 'family', 'fantasy', 'scifi', 'animation']",0.0,5.7,91347.0,26.43,5.9,
+474,477,tm183058,The Greatest Game Ever Played,MOVIE,2005,PG,120,"['drama', 'sport', 'history']",0.0,7.4,30397.0,9.009,7.3,
+475,478,tm21946,Invincible,MOVIE,2006,PG,105,"['drama', 'sport']",0.0,7.0,70274.0,13.229,6.9,
+476,479,tm103181,You Again,MOVIE,2010,PG,105,"['comedy', 'romance']",0.0,5.7,51755.0,25.671,6.3,
+477,480,tm94814,The Chronicles of Narnia: The Voyage of the Dawn Treader,MOVIE,2010,PG,113,"['fantasy', 'action', 'family']",0.0,6.3,152053.0,58.761,6.4,
+478,481,ts21685,Lizzie McGuire,SHOW,2001,TV-PG,22,"['comedy', 'drama', 'family']",2.0,6.6,19060.0,52.203,7.4,
+479,482,tm5,Star Wars: Episode II - Attack of the Clones,MOVIE,2002,PG,142,"['scifi', 'fantasy', 'action']",0.0,6.6,688770.0,32.596,6.5,
+480,483,ts32553,Little Einsteins,SHOW,2005,TV-Y,25,"['animation', 'comedy', 'family', 'music', 'scifi', 'drama']",3.0,6.2,1834.0,22.299,7.2,
+481,484,tm54852,The Chronicles of Narnia: Prince Caspian,MOVIE,2008,PG,150,"['fantasy', 'action', 'family', 'european']",0.0,6.5,207416.0,75.555,6.6,
+482,485,tm100894,Tangled,MOVIE,2010,PG,100,"['animation', 'romance', 'comedy', 'family', 'fantasy']",0.0,7.7,440155.0,100.872,7.6,
+483,486,tm63076,Bedtime Stories,MOVIE,2008,PG,99,"['fantasy', 'romance', 'scifi', 'comedy', 'family']",0.0,6.0,94131.0,45.922,6.1,
+484,487,tm91170,Four Days in October,MOVIE,2010,,53,['documentation'],0.0,,,1.283,6.9,6.52705
+485,488,ts20394,Kim Possible,SHOW,2002,TV-G,21,"['action', 'comedy', 'scifi', 'animation', 'family', 'romance']",4.0,7.2,27038.0,27.249,7.6,
+486,489,tm35022,Glory Road,MOVIE,2006,PG,118,"['history', 'drama', 'sport']",0.0,7.2,45723.0,12.366,7.5,
+487,490,tm34558,Star Wars: The Clone Wars,MOVIE,2008,PG,98,"['scifi', 'animation', 'action', 'family', 'fantasy']",0.0,5.9,64242.0,29.098000000000003,6.1,
+488,491,ts20626,Hannah Montana,SHOW,2006,TV-G,24,"['music', 'comedy', 'family']",4.0,5.1,39783.0,59.412,7.2,
+489,492,tm35085,Eragon,MOVIE,2006,PG,104,"['fantasy', 'family', 'action']",0.0,5.1,125867.0,20.611,5.1,
+490,493,tm164391,The Pacifier,MOVIE,2005,PG,95,"['comedy', 'drama', 'family', 'action']",0.0,5.6,93400.0,31.786,6.1,
+491,494,tm145443,Ice Age: Dawn of the Dinosaurs,MOVIE,2009,PG,95,"['comedy', 'drama', 'fantasy', 'animation', 'family']",0.0,6.9,240790.0,100.895,6.7,
+492,495,tm26315,Ice Age: The Meltdown,MOVIE,2006,PG,91,"['comedy', 'animation', 'family', 'fantasy']",0.0,6.8,273630.0,83.05,6.7,
+493,496,ts3533,The Avengers: Earth's Mightiest Heroes,SHOW,2010,TV-Y7,24,"['scifi', 'animation', 'action', 'family']",2.0,8.3,14706.0,39.251,8.3,
+494,497,tm76049,Around the World in 80 Days,MOVIE,2004,PG,120,"['comedy', 'family', 'western', 'action']",0.0,5.8,89282.0,17.765,5.9,
+495,498,tm137650,The Haunted Mansion,MOVIE,2003,PG,88,"['comedy', 'thriller', 'fantasy', 'horror', 'family', 'drama']",0.0,5.0,48122.0,14.800999999999998,5.6,
+496,499,tm98015,The Last Song,MOVIE,2010,PG,107,"['romance', 'drama', 'music']",0.0,5.9,86870.0,14.474,7.2,
+497,500,ts21258,Wolverine and the X-Men,SHOW,2009,TV-Y7,23,"['action', 'scifi', 'drama', 'family', 'animation']",1.0,8.0,10914.0,15.961,7.7,
+498,501,tm101226,Toy Story 3,MOVIE,2010,G,102,"['comedy', 'animation', 'family', 'fantasy']",0.0,8.3,813385.0,93.983,7.8,
+499,502,tm142670,Race to Witch Mountain,MOVIE,2009,PG,98,"['fantasy', 'thriller', 'action', 'family', 'scifi']",0.0,5.7,59239.0,13.526,5.8,
+500,503,ts20581,Mickey Mouse Clubhouse,SHOW,2006,TV-Y,27,"['animation', 'comedy', 'family', 'fantasy']",5.0,5.7,3596.0,76.107,6.8,
+501,504,tm88315,The Princess Diaries 2: Royal Engagement,MOVIE,2004,G,113,"['romance', 'comedy', 'family']",0.0,5.8,79676.0,32.959,6.6,
+502,505,tm168452,Herbie Fully Loaded,MOVIE,2005,G,100,"['fantasy', 'family', 'romance', 'sport', 'comedy']",0.0,4.8,47544.0,29.053,5.6,
+503,506,tm35821,Bolt,MOVIE,2008,PG,96,"['animation', 'comedy', 'crime', 'drama', 'family', 'scifi', 'fantasy']",0.0,6.8,206056.0,69.633,6.5,
+504,507,tm22511,High School Musical,MOVIE,2006,G,98,"['romance', 'comedy', 'drama', 'family', 'music']",0.0,5.4,86882.0,35.007,6.6,
+505,508,ts15388,American Dragon: Jake Long,SHOW,2005,TV-G,21,"['comedy', 'action', 'animation', 'family', 'fantasy']",2.0,6.6,11743.0,71.45,7.9,
+506,509,tm149656,The Princess and the Frog,MOVIE,2009,G,97,"['romance', 'family', 'fantasy', 'animation', 'comedy']",0.0,7.1,139714.0,85.33200000000001,7.1,
+507,510,ts22467,Wizards of Waverly Place,SHOW,2007,TV-G,24,"['scifi', 'comedy', 'drama', 'family', 'fantasy']",4.0,6.9,33279.0,35.107,8.2,
+508,511,tm114449,Like Mike,MOVIE,2002,PG,99,"['fantasy', 'comedy', 'sport', 'family']",0.0,5.3,20688.0,15.059,6.1,
+509,512,tm116982,Tuck Everlasting,MOVIE,2002,PG,90,"['drama', 'fantasy', 'romance', 'family']",0.0,6.6,23766.0,15.048,6.6,
+510,513,tm78798,Confessions of a Teenage Drama Queen,MOVIE,2004,PG,97,"['comedy', 'family', 'music', 'romance', 'european']",0.0,4.6,29041.0,16.979,5.6,
+511,514,tm133143,The Lizzie McGuire Movie,MOVIE,2003,PG,94,"['family', 'comedy', 'music', 'romance']",0.0,5.5,39333.0,15.609000000000002,6.3,
+512,515,tm83783,The Game Plan,MOVIE,2007,PG,110,"['comedy', 'family', 'sport']",0.0,6.1,65355.0,32.946,6.4,
+513,516,tm99562,Silly Little Game,MOVIE,2010,,53,['documentation'],0.0,,,1.173,6.1,6.08071
+514,517,tm33681,Eight Below,MOVIE,2006,PG,120,"['drama', 'family']",0.0,7.3,64364.0,17.295,7.0,
+515,518,tm149926,G-Force,MOVIE,2009,PG,88,"['comedy', 'family', 'fantasy', 'scifi', 'animation', 'action']",0.0,5.1,46056.0,15.653,5.4,
+516,519,ts21656,The Proud Family,SHOW,2001,TV-Y,22,"['animation', 'comedy', 'family', 'fantasy']",3.0,6.5,7344.0,17.045,8.1,
+517,520,tm89928,Jordan Rides the Bus,MOVIE,2010,,53,['documentation'],0.0,,,1.08,6.3,6.19229
+518,521,tm140670,Brother Bear,MOVIE,2003,G,85,"['animation', 'fantasy', 'comedy', 'drama', 'family']",0.0,6.8,107838.0,83.811,7.2,
+519,522,tm45773,Garfield: A Tail of Two Kitties,MOVIE,2006,PG,82,"['comedy', 'family', 'fantasy', 'animation']",0.0,5.0,42470.0,21.666,5.5,
+520,523,tm174016,Cheaper by the Dozen 2,MOVIE,2005,PG,94,"['comedy', 'family']",0.0,5.5,58351.0,26.211,6.1,
+521,524,tm80509,The Sandlot: Heading Home,MOVIE,2007,PG,96,['family'],0.0,,,6.939,6.0,6.02491
+522,525,tm35227,The Wild,MOVIE,2006,G,94,"['animation', 'comedy', 'family']",0.0,5.2,25754.0,40.539,5.5,
+523,526,ts30284,Good Luck Charlie,SHOW,2010,TV-G,23,"['drama', 'family', 'comedy', 'music']",4.0,7.1,21386.0,99.681,8.0,
+524,527,ts21721,Lilo & Stitch: The Series,SHOW,2003,TV-Y7,23,"['action', 'scifi', 'animation', 'comedy', 'family']",4.0,6.7,9902.0,26.497,7.4,
+525,528,tm79318,Underdog,MOVIE,2007,PG,81,"['fantasy', 'scifi', 'action', 'comedy', 'family']",0.0,4.7,21516.0,13.698,5.4,
+526,529,ts21190,Iron Man: Armored Adventures,SHOW,2009,TV-Y7,23,"['scifi', 'action', 'family', 'fantasy', 'animation']",2.0,6.4,3570.0,28.796,7.5,
+527,530,tm130398,Atlantis: Milo's Return,MOVIE,2003,G,70,['fantasy'],0.0,,,22.741,6.2,6.1365
+528,531,ts21940,Kick Buttowski: Suburban Daredevil,SHOW,2010,TV-Y7,23,"['action', 'comedy', 'family', 'thriller', 'animation']",2.0,6.6,4980.0,176.61900000000003,8.2,
+529,532,tm85690,Empire of Dreams: The Story of the Star Wars Trilogy,MOVIE,2004,,151,['documentation'],0.0,,,11.52,7.7,6.97339
+530,533,ts21857,The Suite Life of Zack & Cody,SHOW,2005,TV-G,26,"['comedy', 'family']",3.0,6.5,35924.0,25.955,7.8,
+531,534,ts22233,Shake It Up,SHOW,2010,TV-G,25,"['comedy', 'family']",3.0,7.8,73.0,26.251,7.9,
+532,535,ts21763,That's So Raven,SHOW,2003,TV-G,22,"['scifi', 'comedy', 'family', 'fantasy']",4.0,6.6,19722.0,50.023,7.4,
+533,536,tm43816,Flicka,MOVIE,2006,PG,95,"['drama', 'family']",0.0,6.0,7969.0,18.962,6.9,
+534,537,tm33396,BURN·E,MOVIE,2008,G,8,"['family', 'animation', 'documentation']",0.0,,,10.078,7.6,6.9176
+535,538,tm75304,High School Musical 2,MOVIE,2007,G,111,"['comedy', 'drama', 'family', 'music', 'romance']",0.0,4.6,359.0,30.332,6.5,
+536,539,tm113299,Get a Clue,MOVIE,2002,G,83,"['comedy', 'crime', 'family']",0.0,5.0,6431.0,9.166,5.4,
+537,540,tm103634,Oceans,MOVIE,2010,G,84,"['documentation', 'family', 'drama', 'european']",0.0,7.7,9639.0,8.434,7.3,
+538,541,tm119928,Home Alone 4,MOVIE,2002,PG,84,"['comedy', 'crime', 'family']",0.0,2.6,30601.0,29.803,4.5,
+539,542,tm106578,Snow Dogs,MOVIE,2002,PG,99,"['comedy', 'family', 'action', 'sport']",0.0,5.2,26857.0,16.452,5.7,
+540,543,tm82585,Home on the Range,MOVIE,2004,PG,74,"['animation', 'western', 'music', 'comedy', 'family']",0.0,5.3,22824.0,47.281000000000006,6.0,
+541,544,tm59648,Beverly Hills Chihuahua,MOVIE,2008,PG,91,"['romance', 'comedy', 'family', 'thriller', 'animation', 'drama', 'action']",0.0,3.9,24187.0,76.934,5.3,
+542,545,ts22490,Super Robot Monkey Team Hyperforce Go!,SHOW,2004,TV-Y7,27,"['action', 'family', 'fantasy', 'scifi', 'animation', 'comedy']",4.0,6.3,2313.0,5.228,7.5,
+543,546,tm42168,Tinker Bell,MOVIE,2008,G,78,['fantasy'],0.0,,,45.952,6.8,6.47126
+544,547,ts20539,The Super Hero Squad Show,SHOW,2009,TV-Y7,23,"['action', 'comedy', 'family', 'scifi', 'animation']",2.0,5.9,1792.0,21.092,7.7,
+545,548,tm130738,A Christmas Carol,MOVIE,2009,PG,96,"['fantasy', 'european', 'animation', 'drama', 'family', 'comedy', 'music', 'thriller']",0.0,6.8,113111.0,31.315,6.9,
+546,549,ts5776,Fantastic Four: World's Greatest Heroes,SHOW,2006,TV-Y7,23,"['action', 'animation', 'family', 'scifi']",1.0,6.8,2341.0,10.357,7.5,
+547,550,tm90465,Winnie the Pooh: Springtime with Roo,MOVIE,2004,G,65,['animation'],0.0,,,15.729,6.6,6.35967
+548,551,tm27689,Camp Rock,MOVIE,2008,G,94,"['comedy', 'drama', 'romance', 'animation', 'family', 'music']",0.0,5.1,33187.0,18.301,6.4,
+549,552,ts20637,Special Agent Oso,SHOW,2009,TV-Y,20,"['animation', 'action', 'family']",2.0,5.2,601.0,7.1610000000000005,7.7,
+550,553,ts21164,The Suite Life on Deck,SHOW,2008,TV-PG,24,"['comedy', 'family', 'action', 'drama']",3.0,6.3,18564.0,27.69,8.1,
+551,554,ts21313,Sonny with a Chance,SHOW,2009,TV-G,22,"['comedy', 'family', 'romance']",3.0,6.0,12121.0,18.515,8.0,
+552,555,tm46997,A Muppets Christmas: Letters to Santa,MOVIE,2008,G,55,"['comedy', 'family', 'music']",0.0,6.4,2067.0,4.968999999999999,6.1,
+553,556,tm164059,Ice Princess,MOVIE,2005,G,98,"['drama', 'comedy', 'family', 'sport']",0.0,6.0,26996.0,13.242,6.4,
+554,557,tm102647,Fernando Nation,MOVIE,2010,,52,['documentation'],0.0,,,0.85,5.8,5.91333
+555,558,ts41271,Handy Manny,SHOW,2006,TV-Y,20,"['comedy', 'animation', 'family']",4.0,5.5,1964.0,18.669,7.1,
+556,559,tm170370,Lilo & Stitch 2: Stitch Has a Glitch,MOVIE,2005,PG,68,['scifi'],0.0,,,34.565,6.6,6.35967
+557,560,ts21756,Zeke and Luther,SHOW,2009,TV-Y7,22,"['comedy', 'action', 'family', 'sport']",3.0,6.3,3413.0,9.607,8.0,
+558,561,tm87748,The Lion King 1½,MOVIE,2004,G,77,['animation'],0.0,,,75.726,6.6,6.35967
+559,562,tm51636,High School Musical 3: Senior Year,MOVIE,2008,G,117,"['romance', 'drama', 'family', 'music', 'comedy']",0.0,4.8,61929.0,33.022,6.6,
+560,563,tm20982,The Santa Clause 3: The Escape Clause,MOVIE,2006,G,88,"['comedy', 'family', 'fantasy']",0.0,4.7,37086.0,14.716,5.4,
+561,564,tm163905,Pooh's Heffalump Movie,MOVIE,2005,G,68,"['fantasy', 'animation', 'comedy', 'family']",0.0,6.4,7452.0,18.762,6.8,
+562,565,tm167908,Aliens of the Deep,MOVIE,2005,G,100,"['documentation', 'family']",0.0,6.3,3013.0,6.361000000000001,6.2,
+563,566,tm109381,Return to Never Land,MOVIE,2002,G,72,"['fantasy', 'animation', 'family']",0.0,5.8,20138.0,17.682000000000002,6.4,
+564,567,tm102355,Starstruck,MOVIE,2010,G,90,"['romance', 'comedy', 'family', 'music']",0.0,6.2,15086.0,16.01,7.0,
+565,568,tm36356,Max Keeble's Big Move,MOVIE,2001,G,86,"['comedy', 'crime', 'family']",0.0,5.4,8089.0,11.057,5.6,
+566,569,tm84562,"Mickey, Donald, Goofy: The Three Musketeers",MOVIE,2004,G,60,['comedy'],0.0,,,19.594,6.6,6.35967
+567,570,tm41029,Leroy & Stitch,MOVIE,2006,G,73,['comedy'],0.0,,,21.371,6.6,6.35967
+568,571,tm41971,Snow Buddies,MOVIE,2008,G,87,"['action', 'family']",0.0,,,11.220999999999998,6.1,6.08071
+569,572,ts14113,The Book of Pooh,SHOW,2001,TV-Y,26,"['comedy', 'animation', 'western', 'family', 'fantasy']",3.0,6.3,490.0,4.775,7.1,
+570,573,tm145073,Waking Sleeping Beauty,MOVIE,2009,PG,86,"['documentation', 'drama', 'history']",0.0,7.6,3004.0,6.369,7.3,
+571,574,tm118928,The Country Bears,MOVIE,2002,G,88,"['comedy', 'documentation', 'family', 'music']",0.0,4.1,5582.0,6.999,4.8,
+572,575,tm87510,Mulan II,MOVIE,2004,G,79,['comedy'],0.0,,,59.319,6.5,6.30388
+573,576,tm133130,Stitch! The Movie,MOVIE,2003,G,60,"['family', 'animation', 'comedy', 'action']",0.0,,,20.779,6.5,6.30388
+574,577,ts22399,Higglytown Heroes,SHOW,2004,TV-Y,24,"['animation', 'family']",3.0,4.8,539.0,14.248,8.0,
+575,578,tm137921,Hannah Montana: The Movie,MOVIE,2009,G,102,"['drama', 'comedy', 'family', 'music', 'romance']",0.0,4.5,42169.0,53.461000000000006,6.6,
+576,579,tm98659,Guru of Go,MOVIE,2010,,52,['documentation'],0.0,,,1.244,7.1,6.63863
+577,580,tm163867,Kim Possible: So the Drama,MOVIE,2005,G,71,"['action', 'animation', 'comedy', 'family', 'fantasy', 'scifi']",0.0,7.1,4476.0,9.793,7.0,
+578,581,tm169471,Once Upon A Mattress,MOVIE,2005,PG,90,['comedy'],0.0,,,5.858,5.9,5.96912
+579,582,tm30856,Motocrossed,MOVIE,2001,G,91,"['comedy', 'drama', 'action', 'family', 'sport']",0.0,6.5,5103.0,8.259,6.2,
+580,583,tm121010,The Santa Clause 2,MOVIE,2002,G,104,"['comedy', 'fantasy', 'family']",0.0,5.7,56464.0,14.815,5.9,
+581,584,ts21235,The Replacements,SHOW,2007,TV-G,23,"['animation', 'comedy', 'family', 'scifi']",3.0,5.8,2923.0,19.442,6.7,
+582,585,tm184353,Valiant,MOVIE,2005,G,76,"['comedy', 'animation', 'family', 'war']",0.0,5.5,22695.0,15.728,5.5,
+583,586,tm149585,Princess Protection Program,MOVIE,2009,G,89,"['comedy', 'drama', 'family']",0.0,5.6,23983.0,52.851000000000006,6.6,
+584,587,ts29942,Pair of Kings,SHOW,2010,TV-Y7,24,"['action', 'scifi', 'comedy', 'family', 'fantasy']",3.0,5.9,4002.0,16.067,8.0,
+585,588,tm84279,The Pixar Story,MOVIE,2007,G,87,['documentation'],0.0,7.7,6604.0,8.441,7.6,
+586,589,tm52052,The Crimson Wing: Mystery of the Flamingos,MOVIE,2008,G,78,['documentation'],0.0,7.3,1253.0,4.509,7.2,
+587,590,tm184238,Kronk's New Groove,MOVIE,2005,G,75,['animation'],0.0,,,22.661,6.4,6.24808
+588,591,tm42665,Recess: School's Out,MOVIE,2001,G,82,"['scifi', 'comedy', 'family', 'animation']",0.0,6.6,10377.0,11.864,6.5,
+589,592,tm166137,Tarzan II,MOVIE,2005,G,72,['animation'],0.0,,,19.805,6.1,6.08071
+590,593,tm44434,The Little Mermaid: Ariel's Beginning,MOVIE,2008,PG,77,"['animation', 'family']",0.0,,,4.881,6.7,6.41546
+591,594,ts10806,The Emperor's New School,SHOW,2006,TV-Y,23,"['comedy', 'family', 'fantasy', 'animation']",2.0,6.6,5662.0,38.476,7.4,
+592,595,ts20463,Imagination Movers,SHOW,2008,TV-Y,22,"['comedy', 'family']",3.0,7.2,794.0,9.908,6.5,
+593,596,tm305209,Cars Toon Mater's Tall Tales,MOVIE,2010,G,35,"['animation', 'family', 'comedy']",0.0,,,33.155,6.6,6.35967
+594,597,ts5254,Fish Hooks,SHOW,2010,TV-G,22,"['comedy', 'animation', 'family']",3.0,4.9,3540.0,27.065,6.0,
+595,598,ts18200,Disney Channel Games,SHOW,2008,TV-G,22,"['reality', 'family']",1.0,6.5,176.0,1.4,,
+596,599,ts22266,Phil of the Future,SHOW,2004,TV-PG,22,"['scifi', 'comedy', 'family']",2.0,7.0,7519.0,9.543,7.4,
+597,600,tm148606,Wizards of Waverly Place: The Movie,MOVIE,2009,PG,94,"['drama', 'fantasy', 'comedy', 'animation', 'action', 'family']",0.0,6.2,18049.0,25.429,6.6,
+598,601,tm97467,Tinker Bell and the Great Fairy Rescue,MOVIE,2010,G,76,['animation'],0.0,,,38.175,6.6,6.35967
+599,602,tm149604,Space Buddies,MOVIE,2009,G,84,"['comedy', 'drama']",0.0,,,10.87,5.8,5.91333
+600,603,tm114043,George of the Jungle 2,MOVIE,2003,PG,87,['comedy'],0.0,,,16.371,4.4,5.13223
+601,604,tm33025,Bambi II,MOVIE,2006,G,70,"['drama', 'family', 'animation']",0.0,,,36.437,6.5,6.30388
+602,605,tm89348,Camp Rock 2: The Final Jam,MOVIE,2010,PG,104,"['comedy', 'music', 'romance', 'family']",0.0,5.2,18312.0,25.114,6.3,
+603,606,tm135875,The Jungle Book 2,MOVIE,2003,G,72,"['animation', 'comedy', 'family', 'fantasy']",0.0,5.3,16247.0,14.063,5.9,
+604,607,tm138521,Inspector Gadget 2,MOVIE,2003,G,88,['action'],0.0,,,7.331,4.1,4.96485
+605,608,tm130570,Piglet's Big Movie,MOVIE,2003,G,75,"['animation', 'family', 'comedy']",0.0,6.1,7794.0,9.088,6.7,
+606,609,tm50237,Halloweentown II: Kalabar's Revenge,MOVIE,2001,G,81,"['horror', 'fantasy', 'family']",0.0,6.3,8848.0,8.13,6.9,
+607,610,tm140455,Full-Court Miracle,MOVIE,2003,,90,"['drama', 'family', 'sport']",0.0,5.7,1019.0,5.228,5.5,
+608,611,tm118930,Cinderella II: Dreams Come True,MOVIE,2002,G,73,"['animation', 'romance']",0.0,,,72.44800000000001,6.1,6.08071
+609,612,tm151507,Tinker Bell and the Lost Treasure,MOVIE,2009,G,81,['fantasy'],0.0,,,48.374,6.8,6.47126
+610,613,ts22091,My Friends Tigger & Pooh,SHOW,2007,TV-Y,24,"['action', 'animation', 'family']",3.0,5.8,448.0,13.842,6.7,
+611,614,tm100013,The Search for Santa Paws,MOVIE,2010,G,89,"['family', 'action']",0.0,,,8.059,6.3,6.19229
+612,615,tm55791,The Luck of the Irish,MOVIE,2001,G,86,"['comedy', 'sport', 'drama', 'family', 'fantasy']",0.0,6.1,7759.0,6.789,6.1,
+613,616,tm43840,Lady and the Tramp II: Scamp's Adventure,MOVIE,2001,G,69,['romance'],0.0,,,19.861,6.4,6.24808
+614,617,ts44218,JONAS L.A.,SHOW,2009,TV-G,21,"['comedy', 'family', 'music', 'reality']",2.0,4.6,6030.0,11.409,7.8,
+615,618,tm118639,Cadet Kelly,MOVIE,2002,G,101,"['comedy', 'family', 'drama']",0.0,5.4,14190.0,10.811,6.2,
+616,619,tm137667,Santa Buddies,MOVIE,2009,G,88,"['action', 'family']",0.0,,,8.84,5.9,5.96912
+617,620,tm115095,Tarzan & Jane,MOVIE,2002,G,75,"['family', 'animation']",0.0,,,16.899,6.0,6.02491
+618,621,tm74862,Cinderella III: A Twist in Time,MOVIE,2007,G,70,['romance'],0.0,,,65.50399999999999,6.5,6.30388
+619,622,tm93041,Zenon: Z3,MOVIE,2004,,95,"['scifi', 'comedy', 'family']",0.0,5.2,2689.0,5.667999999999999,5.5,
+620,623,ts21443,Great Migrations,SHOW,2010,TV-PG,50,['documentation'],1.0,8.1,815.0,4.79,8.2,
+621,624,tm26958,Return to Halloweentown,MOVIE,2006,G,88,"['fantasy', 'family', 'horror', 'scifi', 'action', 'comedy']",0.0,5.4,6575.0,7.309,6.6,
+622,625,tm78580,Jump In!,MOVIE,2007,,85,"['romance', 'sport', 'comedy', 'drama', 'family']",0.0,5.3,7639.0,10.21,6.3,
+623,626,tm22646,Brother Bear 2,MOVIE,2006,G,73,['animation'],0.0,,,47.406000000000006,6.7,6.41546
+624,627,tm109078,The Hunchback of Notre Dame II,MOVIE,2002,G,68,['comedy'],0.0,,,28.563,5.3,5.63436
+625,628,tm2125,101 Dalmatians II: Patch's London Adventure,MOVIE,2002,G,74,['animation'],0.0,,,57.79600000000001,6.0,6.02491
+626,629,tm97013,Monster Truck Mater,MOVIE,2010,,5,['comedy'],0.0,,,7.56,6.1,6.08071
+627,630,ts26491,Wild Russia,SHOW,2008,TV-PG,44,"['documentation', 'european']",1.0,8.4,626.0,5.722,7.9,
+628,631,tm185472,Twitches,MOVIE,2005,PG,86,"['fantasy', 'comedy', 'drama', 'family']",0.0,5.6,8214.0,20.572,6.8,
+629,632,tm35977,Like Mike 2: Streetball,MOVIE,2006,PG,96,"['comedy', 'drama', 'family']",0.0,,,9.377,5.4,5.69016
+630,633,tm89841,Halloweentown High,MOVIE,2004,G,82,"['action', 'comedy', 'family', 'fantasy']",0.0,6.1,7255.0,10.753,6.5,
+631,634,tm84442,Teacher's Pet,MOVIE,2004,PG,74,"['animation', 'scifi', 'comedy', 'family', 'fantasy', 'music']",0.0,5.7,1790.0,5.136,6.1,
+632,635,tm43952,Tokyo Mater,MOVIE,2008,,6,['comedy'],0.0,,,7.691,6.1,6.08071
+633,636,tm36111,Lifted,MOVIE,2006,G,5,['animation'],0.0,,,9.45,7.5,6.8618
+634,637,tm172969,Jack-Jack Attack,MOVIE,2005,,5,['animation'],0.0,,,11.062,7.3,6.75022
+635,638,tm138041,Unidentified Flying Mater,MOVIE,2009,,4,['comedy'],0.0,,,4.995,6.2,6.1365
+636,639,tm33904,Read It and Weep,MOVIE,2006,G,90,"['drama', 'animation', 'comedy', 'family', 'romance']",0.0,5.5,5487.0,11.279000000000002,5.7,
+637,640,tm185245,Go Figure,MOVIE,2005,G,88,"['comedy', 'drama', 'action', 'family', 'romance', 'sport']",0.0,5.6,3705.0,9.561,5.9,
+638,641,tm27800,The Cheetah Girls 2,MOVIE,2006,G,96,"['music', 'family', 'comedy', 'drama']",0.0,4.9,6298.0,10.211,6.3,
+639,642,tm138227,The Cheetah Girls,MOVIE,2003,G,93,"['drama', 'comedy', 'family', 'music']",0.0,4.7,7905.0,10.674,6.0,
+640,643,tm48496,Presto,MOVIE,2008,G,5,['animation'],0.0,,,9.37,7.8,7.02918
+641,644,tm118766,Winnie the Pooh: A Very Merry Pooh Year,MOVIE,2002,G,65,"['animation', 'comedy', 'drama', 'family', 'fantasy']",0.0,6.6,2510.0,9.739,6.8,
+642,645,tm163426,Now You See It...,MOVIE,2005,G,83,"['drama', 'family', 'fantasy']",0.0,6.1,2496.0,5.742000000000001,5.8,
+643,646,tm40817,College Road Trip,MOVIE,2008,G,83,"['comedy', 'drama', 'family']",0.0,4.3,16021.0,9.588,5.6,
+644,647,tm103939,Tru Confessions,MOVIE,2002,G,83,"['drama', 'family', 'comedy']",0.0,7.5,3201.0,5.849,6.7,
+645,648,tm156660,Partly Cloudy,MOVIE,2009,G,6,['comedy'],0.0,,,8.479,7.8,7.02918
+646,649,tm28463,Cow Belles,MOVIE,2006,G,90,"['romance', 'family', 'comedy']",0.0,5.2,6380.0,9.198,5.5,
+647,650,tm144844,Dug's Special Mission,MOVIE,2009,G,5,['comedy'],0.0,,,10.876,7.0,6.58284
+648,651,tm53948,Morning Light,MOVIE,2008,PG,98,"['documentation', 'sport', 'drama']",0.0,5.7,389.0,1.873,6.0,
+649,652,tm80921,Stuck in the Suburbs,MOVIE,2004,G,76,"['comedy', 'family', 'music']",0.0,5.5,4029.0,9.105,5.9,
+650,653,tm113905,Mike's New Car,MOVIE,2002,G,4,['animation'],0.0,,,9.245,6.9,6.52705
+651,654,tm84173,Twitches Too,MOVIE,2007,PG,83,"['fantasy', 'horror', 'thriller', 'drama', 'family']",0.0,5.6,4980.0,18.611,6.8,
+652,655,tm32146,Wendy Wu: Homecoming Warrior,MOVIE,2006,G,90,"['action', 'family', 'fantasy', 'romance', 'scifi']",0.0,5.3,6524.0,15.602,6.1,
+653,656,tm146421,The Boys: The Sherman Brothers' Story,MOVIE,2009,PG,101,"['documentation', 'music']",0.0,7.7,1154.0,9.354,7.4,
+654,657,tm90911,Day & Night,MOVIE,2010,G,6,['animation'],0.0,,,7.415,7.7,6.97339
+655,658,tm75293,Your Friend the Rat,MOVIE,2007,G,11,['animation'],0.0,,,18.775,6.7,6.41546
+656,659,tm338281,Recess: Taking the Fifth Grade,MOVIE,2003,G,63,"['animation', 'family', 'comedy']",0.0,,,8.1,6.3,6.19229
+657,660,tm27265,Mater and the Ghostlight,MOVIE,2006,G,7,['animation'],0.0,,,10.291,6.2,6.1365
+658,661,tm42743,Rescue Squad Mater,MOVIE,2008,,3,"['action', 'animation']",0.0,,,5.882000000000001,6.0,6.02491
+659,662,tm103593,Den Brother,MOVIE,2010,,89,"['family', 'romance', 'sport']",0.0,5.3,2008.0,8.199,6.0,
+660,663,tm30316,Hannah Montana & Miley Cyrus: Best of Both Worlds Concert,MOVIE,2008,G,82,"['documentation', 'music']",0.0,2.5,12002.0,7.174,6.1,
+661,664,tm115596,The Scream Team,MOVIE,2002,,88,"['fantasy', 'comedy', 'family', 'horror']",0.0,6.3,1208.0,4.638,6.3,
+662,665,tm135648,Recess: All Growed Down,MOVIE,2003,G,61,['animation'],0.0,,,6.175,6.1,6.08071
+663,666,tm108005,Gotta Kick It Up!,MOVIE,2002,G,78,"['comedy', 'drama', 'family']",0.0,5.6,1801.0,5.257000000000001,6.7,
+664,667,tm141309,Skyrunners,MOVIE,2009,G,92,"['comedy', 'action', 'drama', 'family', 'scifi']",0.0,5.0,1288.0,7.317,4.9,
+665,668,tm119103,Double Teamed,MOVIE,2002,G,92,"['drama', 'family', 'sport']",0.0,5.9,3603.0,5.3020000000000005,6.1,
+666,669,tm145752,Eddie's Million Dollar Cook Off,MOVIE,2003,G,85,"['comedy', 'sport', 'family']",0.0,5.9,2879.0,4.598,5.9,
+667,670,tm92184,Heavy Metal Mater,MOVIE,2010,,4,['animation'],0.0,,,6.922999999999999,6.1,6.08071
+668,671,tm147121,Dadnapped,MOVIE,2009,G,84,"['action', 'comedy', 'crime', 'family']",0.0,4.7,3040.0,9.62,5.2,
+669,672,tm42235,Jumping Ship,MOVIE,2001,G,92,"['comedy', 'drama', 'family']",0.0,6.0,1875.0,4.578,6.5,
+670,673,tm28759,Minutemen,MOVIE,2008,G,91,"['scifi', 'comedy', 'family', 'romance', 'thriller']",0.0,5.8,5949.0,12.05,5.7,
+671,674,tm132504,Prep & Landing,MOVIE,2009,G,22,"['fantasy', 'family', 'animation', 'comedy']",0.0,7.6,3339.0,7.357,7.0,
+672,675,tm33408,The Cheetah Girls: One World,MOVIE,2008,G,90,"['drama', 'comedy', 'family', 'animation', 'romance', 'war']",0.0,4.5,4437.0,9.685,6.1,
+673,676,tm46442,Three Days,MOVIE,2001,,91,"['drama', 'fantasy', 'family']",0.0,6.8,1096.0,3.129,6.1,
+674,677,tm138168,Boundin',MOVIE,2003,G,5,['comedy'],0.0,,,9.539,6.6,6.35967
+675,678,tm77963,Johnny Kapahala: Back on Board,MOVIE,2007,,90,"['drama', 'comedy', 'family', 'sport']",0.0,5.4,2189.0,8.642999999999999,6.0,
+676,679,tm44379,Stonehenge: Decoded,MOVIE,2008,PG,92,"['documentation', 'history']",0.0,6.3,240.0,2.383,6.9,
+677,680,tm186208,The Proud Family Movie,MOVIE,2005,G,90,"['comedy', 'family', 'fantasy', 'scifi', 'animation']",0.0,5.3,1753.0,11.025,5.9,
+678,681,tm129695,The Even Stevens Movie,MOVIE,2003,G,94,"['comedy', 'family']",0.0,6.1,7020.0,7.925,5.7,
+679,682,tm80896,Tiger Cruise,MOVIE,2005,,88,"['drama', 'family']",0.0,5.9,1450.0,3.959,5.9,
+680,683,tm71993,The Secret of the Magic Gourd,MOVIE,2007,G,85,"['drama', 'family']",0.0,5.1,714.0,33.249,7.3,
+681,684,tm30433,The Fox and the Hound 2,MOVIE,2006,G,69,['animation'],0.0,,,52.276,6.0,6.02491
+682,685,tm150525,Jonas Brothers: The Concert Experience,MOVIE,2009,G,76,"['documentation', 'music', 'family']",0.0,1.6,17472.0,5.96,6.3,
+683,686,tm93001,Prep & Landing Stocking Stuffer: Operation: Secret Santa,MOVIE,2010,G,7,"['family', 'animation', 'fantasy', 'comedy']",0.0,6.8,1892.0,6.99,6.7,
+684,687,tm96601,Moon Mater,MOVIE,2010,G,4,"['animation', 'comedy']",0.0,,,3.726,6.1,6.08071
+685,688,tm85123,Mickey's Twice Upon a Christmas,MOVIE,2004,G,68,"['animation', 'family']",0.0,,,12.43,7.1,6.63863
+686,689,tm133875,Destino,MOVIE,2003,PG,7,['animation'],0.0,,,8.455,7.2,6.69443
+687,690,ts21491,Take Two with Phineas and Ferb,SHOW,2010,TV-G,3,"['comedy', 'family', 'animation']",2.0,6.4,337.0,15.392,7.7,
+688,691,tm26534,Roving Mars,MOVIE,2006,PG,40,['documentation'],0.0,,,2.963,7.3,6.75022
+689,692,tm130402,Young Black Stallion,MOVIE,2003,G,49,"['drama', 'family', 'action']",0.0,5.4,1169.0,8.35,6.7,
+690,693,tm143422,Hatching Pete,MOVIE,2009,,90,"['comedy', 'family']",0.0,5.3,2746.0,9.371,5.6,
+691,694,tm34566,Zenon: The Zequel,MOVIE,2001,G,100,"['scifi', 'comedy', 'family']",0.0,5.7,3873.0,7.322,5.8,
+692,695,tm168266,One Man Band,MOVIE,2005,G,4,['animation'],0.0,,,11.32,7.3,6.75022
+693,696,tm49618,Mater the Greater,MOVIE,2008,G,4,['animation'],0.0,,,6.3870000000000005,6.0,6.02491
+694,697,tm179424,Life Is Ruff,MOVIE,2005,PG,84,"['family', 'comedy']",0.0,4.8,1367.0,4.334,5.6,
+695,698,tm26303,The Little Matchgirl,MOVIE,2006,G,7,['drama'],0.0,,,6.626,7.5,6.8618
+696,699,tm97996,Mater Private Eye,MOVIE,2010,G,5,['comedy'],0.0,,,5.997999999999999,6.2,6.1365
+697,700,tm79179,Pixel Perfect,MOVIE,2004,,85,"['scifi', 'fantasy', 'music', 'family', 'comedy']",0.0,5.6,3619.0,4.5360000000000005,5.2,
+698,701,tm153529,Super Rhino,MOVIE,2009,G,5,['comedy'],0.0,,,7.324,6.0,6.02491
+699,702,tm130492,You Wish!,MOVIE,2003,,87,"['comedy', 'family', 'fantasy', 'drama']",0.0,6.0,1888.0,5.1370000000000005,5.7,
+700,703,tm81543,Sacred Planet,MOVIE,2004,G,46,['documentation'],0.0,,,3.091,6.6,6.35967
+701,704,tm767,'Twas the Night,MOVIE,2001,G,84,"['family', 'comedy']",0.0,5.2,1031.0,4.467,5.4,
+702,705,tm69497,Snowglobe,MOVIE,2007,,120,"['scifi', 'fantasy', 'romance', 'comedy', 'family']",0.0,5.8,2487.0,5.49,6.3,
+703,706,tm885767,Secrets of the King Cobra,MOVIE,2010,PG,46,['documentation'],0.0,,,3.2260000000000004,4.0,4.90906
+704,707,tm77376,Going to the Mat,MOVIE,2004,,96,"['drama', 'family', 'sport']",0.0,6.7,1419.0,3.6010000000000004,6.8,
+705,708,tm138513,Trail of the Panda,MOVIE,2009,G,88,['family'],0.0,6.3,206.0,2.065,8.1,
+706,709,tm43035,Walt & El Grupo,MOVIE,2008,PG,106,"['documentation', 'family']",0.0,6.4,416.0,2.39,5.9,
+707,710,tm144792,Right on Track,MOVIE,2003,G,89,"['family', 'drama']",0.0,6.1,1365.0,5.047,6.5,
+708,711,tm112696,A Ring of Endless Light,MOVIE,2002,,88,"['drama', 'romance', 'family']",0.0,5.8,1280.0,5.141,6.8,
+709,712,tm167139,Buffalo Dreams,MOVIE,2005,,90,"['drama', 'family']",0.0,5.5,534.0,3.644,5.2,
+710,713,tm33832,Hounded,MOVIE,2001,,91,"['comedy', 'drama', 'family']",0.0,4.9,1014.0,4.544,5.2,
+711,714,tm51679,The Poof Point,MOVIE,2001,PG,79,"['comedy', 'family', 'scifi']",0.0,4.4,559.0,3.509,5.2,
+712,715,tm155287,Journey to Shark Eden,MOVIE,2009,,60,['documentation'],0.0,,,2.938,8.8,7.58711
+713,716,tm145649,George & A.J.,MOVIE,2009,G,4,"['animation', 'family']",0.0,,,6.146,5.9,5.96912
+714,717,tm96153,Big Sur-Wild California,MOVIE,2010,G,47,['documentation'],0.0,,,1.601,6.0,6.02491
+715,718,tm87072,America's Heart and Soul,MOVIE,2004,PG,84,"['documentation', 'family']",0.0,5.0,681.0,2.166,3.6,
+716,719,tm142089,Kingdom of the Blue Whale,MOVIE,2009,PG,96,['documentation'],0.0,6.8,183.0,5.176,5.8,
+717,720,ts20630,Once Upon a Time,SHOW,2011,TV-PG,43,"['scifi', 'drama', 'fantasy', 'romance']",7.0,7.7,220345.0,112.08,7.2,
+718,721,ts20439,Gravity Falls,SHOW,2012,TV-Y7,23,"['scifi', 'family', 'fantasy', 'animation', 'comedy', 'drama', 'thriller', 'action', 'horror']",2.0,8.3,2125.0,182.728,8.5,
+719,722,tm173805,Pirates of the Caribbean: On Stranger Tides,MOVIE,2011,PG-13,137,"['fantasy', 'action']",0.0,6.6,513684.0,556.515,6.5,
+720,723,tm165634,X-Men: First Class,MOVIE,2011,PG-13,131,"['action', 'scifi']",0.0,7.7,678781.0,3.144,7.3,
+721,724,tm64957,The Avengers,MOVIE,2012,PG-13,143,"['scifi', 'action']",0.0,8.0,1353907.0,262.184,7.7,
+722,725,tm171064,Thor,MOVIE,2011,PG-13,115,"['fantasy', 'action', 'scifi']",0.0,7.0,817467.0,140.695,6.8,
+723,726,tm72333,John Carter,MOVIE,2012,PG-13,132,"['scifi', 'action', 'european']",0.0,6.6,269059.0,99.635,6.2,
+724,727,tm162906,Captain America: The First Avenger,MOVIE,2011,PG-13,124,"['scifi', 'action']",0.0,6.9,818841.0,102.723,7.0,
+725,728,tm30584,Wreck-It Ralph,MOVIE,2012,PG,120,"['comedy', 'animation', 'family', 'fantasy', 'scifi']",0.0,7.7,411592.0,94.096,7.3,
+726,729,tm64880,Chasing Mavericks,MOVIE,2012,PG,112,"['drama', 'sport']",0.0,7.1,32630.0,11.754,7.0,
+727,730,tm37884,Red Tails,MOVIE,2012,PG-13,125,"['action', 'drama', 'history', 'war']",0.0,5.9,35424.0,47.974,6.5,
+728,731,tm167877,We Bought a Zoo,MOVIE,2011,PG,124,"['drama', 'comedy', 'family']",0.0,7.1,142052.0,17.087,6.7,
+729,732,tm183353,Gnomeo & Juliet,MOVIE,2011,G,84,"['animation', 'family', 'fantasy', 'romance', 'comedy']",0.0,5.9,54964.0,28.808000000000003,5.8,
+730,733,tm51645,Brave,MOVIE,2012,PG,93,"['comedy', 'fantasy', 'animation', 'family']",0.0,7.1,401832.0,91.765,7.0,
+731,734,ts4693,Brain Games,SHOW,2011,TV-PG,32,"['documentation', 'comedy', 'drama', 'reality', 'family']",8.0,8.3,3258.0,8.181000000000001,7.6,
+732,735,ts35950,Wicked Tuna,SHOW,2012,TV-14,45,"['reality', 'action']",11.0,6.4,926.0,13.053,7.8,
+733,736,tm164345,The Muppets,MOVIE,2011,PG,103,"['comedy', 'family']",0.0,7.1,91680.0,26.214,6.6,
+734,737,tm160213,Winnie the Pooh,MOVIE,2011,G,63,"['animation', 'family', 'fantasy', 'comedy', 'drama', 'european']",0.0,7.1,24456.0,24.107,6.9,
+735,738,ts20443,TRON: Uprising,SHOW,2012,TV-Y7,23,"['action', 'animation', 'scifi', 'family']",2.0,8.2,8201.0,28.492,7.7,
+736,739,tm63238,Frankenweenie,MOVIE,2012,PG,87,"['comedy', 'animation', 'drama', 'family', 'horror', 'scifi', 'thriller']",0.0,6.9,104697.0,39.181,6.9,
+737,740,ts20416,Marvel's Ultimate Spider-Man,SHOW,2012,TV-Y7,22,"['action', 'animation', 'comedy', 'family', 'scifi']",4.0,7.1,12074.0,78.65899999999999,7.7,
+738,741,ts34163,The Incredible Dr. Pol,SHOW,2011,TV-PG,44,"['reality', 'documentation']",20.0,8.6,1634.0,10.255,8.9,
+739,742,tm57906,Ice Age: Continental Drift,MOVIE,2012,PG,88,"['comedy', 'action', 'family', 'animation', 'drama', 'fantasy']",0.0,6.5,205716.0,84.984,6.3,
+740,743,tm171776,Cars 2,MOVIE,2011,G,106,"['animation', 'fantasy', 'comedy', 'family', 'sport', 'drama', 'crime', 'scifi']",0.0,6.2,181748.0,96.305,6.0,
+741,744,ts7273,Doc McStuffins,SHOW,2012,TV-G,22,"['animation', 'family', 'fantasy', 'music']",6.0,6.6,2358.0,54.489,5.5,
+742,745,ts20635,Jessie,SHOW,2011,TV-G,26,"['comedy', 'family', 'drama']",4.0,5.9,15400.0,49.298,8.2,
+743,746,tm68246,Diary of a Wimpy Kid: Dog Days,MOVIE,2012,PG,94,"['comedy', 'family']",0.0,6.3,25206.0,26.066,6.3,
+744,747,tm184724,Diary of a Wimpy Kid: Rodrick Rules,MOVIE,2011,PG,99,"['comedy', 'family', 'animation']",0.0,6.5,30577.0,41.047,6.6,
+745,748,ts9795,Austin & Ally,SHOW,2011,TV-G,23,"['family', 'music', 'romance', 'comedy', 'drama']",4.0,5.8,11336.0,24.421,8.2,
+746,749,ts90926,UFO Missione Europa,SHOW,2012,TV-PG,43,"['scifi', 'documentation', 'reality']",1.0,6.3,19.0,4.265,10.0,
+747,750,tm162604,Lemonade Mouth,MOVIE,2011,G,106,"['comedy', 'drama', 'music', 'family']",0.0,6.9,17454.0,17.739,7.4,
+748,751,ts20422,Lab Rats,SHOW,2012,TV-Y7,24,"['scifi', 'action', 'comedy', 'drama', 'family']",4.0,6.6,5937.0,42.931,8.4,
+749,752,tm69592,Tangled Ever After,MOVIE,2012,G,6,['comedy'],0.0,,,37.515,7.1,6.63863
+750,753,ts20677,Captain Jake and the Never Land Pirates,SHOW,2011,TV-Y,26,"['action', 'animation', 'family', 'fantasy']",4.0,5.6,1694.0,37.881,6.9,
+751,754,tm168978,Mars Needs Moms,MOVIE,2011,PG,88,"['animation', 'action', 'family', 'scifi']",0.0,5.4,22313.0,25.112,6.0,
+752,755,tm173830,Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer,MOVIE,2011,PG-13,4,"['fantasy', 'scifi']",0.0,,,12.47,7.0,6.58284
+753,756,tm72065,The Odd Life of Timothy Green,MOVIE,2012,PG,105,"['fantasy', 'drama', 'comedy', 'family']",0.0,6.6,46739.0,11.038,7.0,
+754,757,tm182291,12 Dates of Christmas,MOVIE,2011,PG,89,"['romance', 'fantasy', 'comedy']",0.0,6.3,6712.0,9.876,6.1,
+755,758,ts55431,Wild Scandinavia,SHOW,2011,,45,['documentation'],1.0,8.0,157.0,3.901,10.0,
+756,759,tm33264,The Legend of Mor'du,MOVIE,2012,G,6,['animation'],0.0,,,7.795,6.1,6.08071
+757,760,ts2904,Dog with a Blog,SHOW,2012,TV-G,23,"['comedy', 'drama', 'family', 'fantasy']",4.0,4.9,6172.0,22.766,7.1,
+758,761,ts21221,Kickin' It,SHOW,2011,TV-Y7,23,"['action', 'comedy', 'drama', 'family']",4.0,6.4,5689.0,20.47,8.4,
+759,762,tm173864,Marvel One-Shot: The Consultant,MOVIE,2011,PG-13,4,['scifi'],0.0,,,18.22,6.4,6.24808
+760,763,ts27755,Randy Cunningham: 9th Grade Ninja,SHOW,2012,TV-G,17,"['action', 'fantasy', 'scifi', 'animation', 'comedy', 'family']",2.0,6.7,1192.0,15.625,7.0,
+761,764,ts6220,Crash & Bernstein,SHOW,2012,TV-PG,23,"['comedy', 'family']",2.0,4.8,772.0,8.781,8.4,
+762,765,tm178393,Ice Age: A Mammoth Christmas,MOVIE,2011,PG,26,['animation'],0.0,,,47.073,6.4,6.24808
+763,766,tm62110,Home Alone: The Holiday Heist,MOVIE,2012,PG,87,"['comedy', 'family', 'crime']",0.0,3.5,10254.0,19.726,5.3,
+764,767,tm36299,Marvel One-Shot: Item 47,MOVIE,2012,PG,12,"['scifi', 'fantasy']",0.0,,,12.145,6.5,6.30388
+765,768,tm181060,Prom,MOVIE,2011,PG,104,"['comedy', 'drama', 'family', 'romance']",0.0,5.4,15260.0,10.952,6.1,
+766,769,ts33722,Minnie's Bow-Toons,SHOW,2011,TV-Y,3,['animation'],6.0,6.3,106.0,15.446,3.9,
+767,770,tm167801,Geek Charming,MOVIE,2011,PG,99,"['comedy', 'drama', 'family', 'romance']",0.0,6.4,12378.0,14.867,6.6,
+768,771,ts170651,Unlikely Animal Friends,SHOW,2012,TV-PG,44,['documentation'],5.0,7.5,103.0,3.435,5.0,
+769,773,tm1104511,Return of the Clouded Leopards,MOVIE,2012,PG,45,['documentation'],0.0,,,0.6,10.0,8.25662
+770,774,tm96967,Avalon High,MOVIE,2011,G,91,"['fantasy', 'drama', 'family']",0.0,5.7,5885.0,12.244000000000002,6.2,
+771,775,tm42177,Paperman,MOVIE,2012,G,7,"['romance', 'thriller']",0.0,7.1,37.0,9.008,8.0,
+772,776,tm170713,Beverly Hills Chihuahua 2,MOVIE,2011,G,85,['comedy'],0.0,,,18.123,5.8,5.91333
+773,777,ts1546,A.N.T. Farm,SHOW,2011,TV-G,25,"['comedy', 'drama', 'family']",3.0,5.1,6867.0,18.642,7.5,
+774,778,ts22188,Violetta,SHOW,2012,TV-G,44,"['drama', 'family', 'music', 'romance']",3.0,5.0,2377.0,35.827,8.3,
+775,779,tm69207,Secret of the Wings,MOVIE,2012,G,92,"['fantasy', 'family', 'animation']",0.0,7.0,12138.0,65.425,7.1,
+776,780,tm170139,Phineas and Ferb: The Movie: Across the 2nd Dimension,MOVIE,2011,,78,"['comedy', 'family', 'scifi', 'animation', 'action']",0.0,7.4,11121.0,18.852,6.9,
+777,781,tm70151,There's No Place Like Home,MOVIE,2012,,61,['documentation'],0.0,,,1.676,6.5,6.30388
+778,782,tm166632,Small Fry,MOVIE,2011,G,7,['comedy'],0.0,,,12.012,6.9,6.52705
+779,783,tm45440,Chimpanzee,MOVIE,2012,G,75,"['documentation', 'family']",0.0,7.1,6146.0,6.301,7.1,
+780,784,tm56951,Frenemies,MOVIE,2012,G,86,"['drama', 'family', 'comedy']",0.0,5.1,4735.0,9.415,5.9,
+781,785,tm160861,Wings of Life,MOVIE,2011,G,77,"['documentation', 'family']",0.0,7.4,610.0,6.895,7.1,
+782,786,tm59057,Maggie Simpson in The Longest Daycare,MOVIE,2012,PG,5,['drama'],0.0,,,9.94,6.9,6.52705
+783,787,tm165063,Sharpay's Fabulous Adventure,MOVIE,2011,G,90,"['music', 'family', 'horror', 'drama', 'sport']",0.0,4.2,26.0,23.714,6.0,
+784,788,tm176323,The Suite Life Movie,MOVIE,2011,G,79,"['family', 'action', 'comedy', 'crime', 'drama', 'scifi']",0.0,5.2,3889.0,12.344,6.2,
+785,789,tm68510,Beverly Hills Chihuahua 3: Viva la Fiesta!,MOVIE,2012,G,89,['comedy'],0.0,,,56.377,6.2,6.1365
+786,790,tm68188,Cesar Millan: The Real Story,MOVIE,2012,,45,['documentation'],0.0,6.9,66.0,2.577,8.3,
+787,791,tm174926,Teen Spirit,MOVIE,2011,PG-13,81,"['fantasy', 'drama', 'comedy']",0.0,5.5,7277.0,8.245,6.0,
+788,792,tm183850,Hawaiian Vacation,MOVIE,2011,G,6,['comedy'],0.0,,,10.513,7.0,6.58284
+789,793,tm69711,Let It Shine,MOVIE,2012,G,101,"['drama', 'family', 'music']",0.0,6.5,3562.0,12.949000000000002,6.9,
+790,794,ts34269,So Random!,SHOW,2011,TV-G,23,"['comedy', 'family']",1.0,4.7,2364.0,20.413,7.4,
+791,795,tm40501,Girl vs. Monster,MOVIE,2012,PG,89,"['comedy', 'scifi', 'action', 'family', 'fantasy']",0.0,5.5,3074.0,18.793,6.4,
+792,796,tm64436,Partysaurus Rex,MOVIE,2012,G,7,"['fantasy', 'comedy']",0.0,,,8.275,7.2,6.69443
+793,797,tm164519,La luna,MOVIE,2012,G,7,"['animation', 'documentation']",0.0,,,11.15,7.9,7.08497
+794,798,tm160178,"Good Luck Charlie, It's Christmas!",MOVIE,2011,,85,"['comedy', 'drama', 'family']",0.0,6.4,6207.0,11.407,6.6,
+795,799,tm32685,Time Travel Mater,MOVIE,2012,G,7,"['family', 'animation']",0.0,,,9.897,6.0,6.02491
+796,800,tm173633,African Cats,MOVIE,2011,G,89,"['documentation', 'action']",0.0,7.5,6459.0,10.059,7.4,
+797,801,tm166883,Spooky Buddies,MOVIE,2011,G,88,['comedy'],0.0,,,10.755999999999998,6.2,6.1365
+798,802,tm172720,Air Mater,MOVIE,2011,G,5,['animation'],0.0,,,9.091,5.9,5.96912
+799,803,ts78066,Secrets of Wild India,SHOW,2012,TV-PG,49,['documentation'],1.0,8.0,156.0,0.922,6.0,
+800,805,tm38369,The Mistle-Tones,MOVIE,2012,,90,"['romance', 'comedy', 'family', 'music']",0.0,6.5,2243.0,3.41,6.4,
+801,806,tm35507,Treasure Buddies,MOVIE,2012,G,93,"['action', 'family']",0.0,,,9.986,6.1,6.08071
+802,807,tm184543,The Ballad of Nessie,MOVIE,2011,G,6,['fantasy'],0.0,,,4.501,6.8,6.47126
+803,808,tm166745,Prep & Landing: Naughty vs. Nice,MOVIE,2011,G,22,"['animation', 'comedy', 'family', 'fantasy']",0.0,7.3,1879.0,7.197,6.9,
+804,809,tm71403,Santa Paws 2: The Santa Pups,MOVIE,2012,G,88,"['fantasy', 'family']",0.0,4.7,1380.0,10.018,6.2,
+805,810,ts176104,Special Agent Oso: Three Healthy Steps,SHOW,2011,,2,['animation'],1.0,6.7,15.0,,,
+806,811,ts237475,Fury Files,SHOW,2012,TV-Y7,3,"['animation', 'action', 'fantasy', 'scifi']",1.0,6.1,20.0,0.647,,
+807,812,ts171975,Birth of Europe,SHOW,2012,,50,['documentation'],1.0,7.2,71.0,0.634,6.0,
+808,813,tm274612,Winged Seduction: Birds of Paradise,MOVIE,2012,,45,['documentation'],0.0,6.4,47.0,2.287,4.0,
+809,814,ts20813,black-ish,SHOW,2014,TV-14,21,"['comedy', 'documentation']",8.0,7.1,22208.0,41.262,7.4,
+810,815,ts2709,Cosmos,SHOW,2014,TV-G,42,['documentation'],3.0,,,66.736,8.4,7.36394
+811,816,ts5,Marvel's Agents of S.H.I.E.L.D.,SHOW,2013,TV-14,43,"['scifi', 'action', 'drama', 'thriller']",7.0,7.5,213651.0,118.715,7.5,
+812,817,tm157149,Into the Woods,MOVIE,2014,PG,124,"['fantasy', 'comedy', 'drama']",0.0,5.9,139477.0,16.541,5.8,
+813,818,tm140097,Guardians of the Galaxy,MOVIE,2014,PG-13,120,"['action', 'comedy', 'scifi']",0.0,8.0,1125382.0,70.546,7.9,
+814,819,ts301931,Cosmos: A Spacetime Odyssey,SHOW,2014,TV-PG,43,['documentation'],1.0,9.3,119455.0,,,
+815,820,tm155402,X-Men: Days of Future Past,MOVIE,2014,PG-13,131,"['fantasy', 'scifi', 'action', 'thriller']",0.0,8.0,697960.0,91.65,7.5,
+816,821,ts20726,Star Wars Rebels,SHOW,2014,TV-Y7,23,"['action', 'scifi', 'drama', 'family', 'fantasy', 'animation']",4.0,8.0,40118.0,62.22,7.7,
+817,822,tm141973,The Fault in Our Stars,MOVIE,2014,PG-13,126,"['romance', 'drama']",0.0,7.7,368644.0,49.00899999999999,7.6,
+818,823,ts20839,Life Below Zero,SHOW,2013,TV-PG,46,"['reality', 'documentation']",18.0,8.0,1894.0,20.976,7.7,
+819,824,tm151689,The Book of Life,MOVIE,2014,PG,95,"['comedy', 'fantasy', 'romance', 'animation', 'family']",0.0,7.2,70182.0,73.468,7.5,
+820,825,tm148170,Big Hero 6,MOVIE,2014,PG,102,"['animation', 'action', 'comedy', 'family', 'scifi', 'drama']",0.0,7.8,447775.0,171.831,7.8,
+821,826,tm179159,Thor: The Dark World,MOVIE,2013,PG-13,112,"['fantasy', 'action', 'scifi']",0.0,6.8,657790.0,124.579,6.6,
+822,827,tm153184,Night at the Museum: Secret of the Tomb,MOVIE,2014,PG,97,"['comedy', 'fantasy', 'family']",0.0,6.2,119366.0,45.868,6.2,
+823,828,tm168780,Saving Mr. Banks,MOVIE,2013,PG-13,125,"['drama', 'comedy', 'music']",0.0,7.5,159987.0,12.994000000000002,7.4,
+824,829,tm177964,Iron Man 3,MOVIE,2013,PG-13,130,"['action', 'scifi']",0.0,7.1,824912.0,110.815,6.9,
+825,830,tm159149,Captain America: The Winter Soldier,MOVIE,2014,PG-13,135,"['scifi', 'thriller', 'action']",0.0,7.8,815795.0,57.226000000000006,7.7,
+826,831,ts20731,Running Wild with Bear Grylls,SHOW,2014,TV-PG,43,"['reality', 'action', 'comedy']",6.0,7.6,2674.0,1.4,7.3,
+827,832,tm181359,Frozen,MOVIE,2013,PG,102,"['fantasy', 'comedy', 'family', 'animation']",0.0,7.4,610977.0,102.635,7.3,
+828,833,ts20059,Marvel’s Hulk and the Agents of S.M.A.S.H,SHOW,2013,TV-Y7,23,"['action', 'scifi', 'animation', 'comedy', 'family']",2.0,6.0,3001.0,45.493,6.5,
+829,834,tm143057,The Day the Series Stopped,MOVIE,2014,,51,[],0.0,,,2.114,7.0,6.58284
+830,835,tm185712,Marvel One-Shot: Agent Carter,MOVIE,2013,PG-13,15,"['scifi', 'fantasy']",0.0,,,30.392,7.4,6.80601
+831,836,ts20133,Girl Meets World,SHOW,2014,TV-G,23,"['comedy', 'family', 'music', 'drama']",3.0,7.1,14448.0,73.949,8.4,
+832,837,tm145004,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",MOVIE,2014,PG,81,"['comedy', 'fantasy', 'drama', 'family', 'european']",0.0,6.2,43828.0,20.629,6.2,
+833,838,ts20042,Marvel's Avengers Assemble,SHOW,2013,TV-Y7,22,"['action', 'scifi', 'animation', 'comedy', 'drama', 'family']",5.0,7.0,7388.0,106.529,7.6,
+834,839,tm186511,Monsters University,MOVIE,2013,G,104,"['animation', 'comedy', 'family', 'fantasy', 'horror']",0.0,7.3,350270.0,109.112,7.0,
+835,840,ts20822,Liv and Maddie,SHOW,2013,TV-G,23,"['drama', 'comedy', 'family']",4.0,6.3,8117.0,66.002,8.2,
+836,841,tm150979,Muppets Most Wanted,MOVIE,2014,PG,107,"['crime', 'comedy', 'family']",0.0,6.4,34207.0,14.924,6.3,
+837,842,tm166468,Planes,MOVIE,2013,PG,91,"['family', 'action', 'comedy', 'animation', 'sport']",0.0,5.7,44746.0,30.487,5.9,
+838,843,ts20027,Once Upon a Time in Wonderland,SHOW,2013,TV-PG,43,"['scifi', 'drama', 'romance', 'fantasy']",1.0,6.9,12179.0,38.153,7.1,
+839,844,tm165905,Teen Beach Movie,MOVIE,2013,PG,96,"['comedy', 'family', 'music', 'fantasy']",0.0,6.0,11437.0,24.764,6.9,
+840,845,tm139597,Tinker Bell and the Legend of the NeverBeast,MOVIE,2014,G,76,"['animation', 'family', 'action', 'fantasy']",0.0,,,50.74,7.1,6.63863
+841,846,ts38704,"Dr. Oakley, Yukon Vet",SHOW,2014,TV-PG,44,['reality'],10.0,8.4,573.0,5.649,5.5,
+842,847,tm162413,Brothers in Exile,MOVIE,2014,,78,['documentation'],0.0,,,0.866,7.3,6.75022
+843,848,ts43947,Science of Stupid,SHOW,2014,,22,"['documentation', 'comedy', 'reality']",8.0,6.8,754.0,3.628,6.6,
+844,849,ts8050,Car S.O.S.,SHOW,2013,,44,"['documentation', 'reality', 'european']",10.0,8.1,705.0,28.039,8.3,
+845,850,tm188534,The Wizards Return: Alex vs. Alex,MOVIE,2013,PG,60,"['drama', 'comedy', 'fantasy', 'romance', 'animation', 'action', 'family']",0.0,6.3,6404.0,13.575,6.9,
+846,851,ts35453,Wander Over Yonder,SHOW,2013,TV-Y7,18,"['scifi', 'comedy', 'family', 'fantasy', 'animation']",2.0,7.2,4199.0,11.181,7.4,
+847,852,ts20151,Mickey Mouse,SHOW,2013,TV-G,5,"['fantasy', 'animation', 'comedy', 'family']",5.0,8.1,3073.0,26.868,7.3,
+848,853,tm159620,Toy Story of Terror!,MOVIE,2013,G,22,"['comedy', 'fantasy', 'family', 'horror', 'animation']",0.0,7.5,15343.0,1.689,7.2,
+849,854,ts39826,Henry Hugglemonster,SHOW,2013,TV-Y,24,"['music', 'animation', 'family', 'fantasy']",2.0,5.0,384.0,4.375,6.0,
+850,855,tm375069,LEGO Star Wars: The New Yoda Chronicles - Raid on Coruscant,MOVIE,2014,,22,['scifi'],0.0,,,2.4,6.4,6.24808
+851,856,tm163543,Marvel One-Shot: All Hail the King,MOVIE,2014,PG-13,14,"['thriller', 'fantasy']",0.0,,,21.482,6.9,6.52705
+852,857,tm160932,Bears,MOVIE,2014,G,78,"['documentation', 'family']",0.0,7.3,6771.0,14.188,7.4,
+853,858,tm155023,Toy Story That Time Forgot,MOVIE,2014,G,22,"['comedy', 'family', 'fantasy', 'animation']",0.0,7.1,11408.0,35.707,7.0,
+854,859,ts35339,The Evermoor Chronicles,SHOW,2014,TV-PG,22,"['action', 'family', 'fantasy']",2.0,6.1,715.0,18.586,6.9,
+855,860,ts75141,Wild Hawaii,SHOW,2014,,44,['documentation'],1.0,,,3.934,9.0,7.69869
+856,861,ts20859,Sheriff Callie's Wild West,SHOW,2013,TV-Y,21,"['western', 'animation', 'comedy', 'family', 'action']",2.0,6.3,667.0,13.115,7.0,
+857,862,tm152954,Zapped,MOVIE,2014,,92,"['comedy', 'family', 'fantasy']",0.0,5.1,5164.0,12.101,6.2,
+858,863,tm154041,Iron Man & Captain America: Heroes United,MOVIE,2014,PG,71,"['action', 'animation', 'comedy', 'drama', 'family']",0.0,5.6,25.0,33.361999999999995,6.3,
+859,864,ts37726,Wicked Tuna: Outer Banks,SHOW,2014,TV-14,46,['reality'],8.0,6.0,134.0,10.061,7.3,
+860,865,tm270622,Drain the Bermuda Triangle,MOVIE,2014,,50,['documentation'],0.0,6.4,113.0,3.638,6.6,
+861,866,tm149931,Jingle All the Way 2,MOVIE,2014,PG,93,['comedy'],0.0,,,7.289,5.6,5.80174
+862,867,tm241486,Phineas and Ferb: Star Wars,MOVIE,2014,G,51,"['scifi', 'action', 'family', 'animation']",0.0,,,12.047,7.1,6.63863
+863,868,tm179151,Iron Man & Hulk: Heroes United,MOVIE,2013,PG,71,"['animation', 'action']",0.0,,,17.212,5.7,5.85754
+864,869,tm142414,Lava,MOVIE,2014,G,7,['animation'],0.0,,,7.388,7.3,6.75022
+865,870,ts150852,Dr K's Exotic Animal ER,SHOW,2014,TV-PG,43,['reality'],9.0,8.1,372.0,3.459,4.0,
+866,871,tm145734,Planes: Fire & Rescue,MOVIE,2014,PG,83,"['comedy', 'documentation', 'sport', 'fantasy', 'animation', 'family', 'drama']",0.0,6.0,17741.0,24.144,6.1,
+867,872,ts77191,The Great Christmas Light Fight,SHOW,2013,TV-PG,45,['reality'],9.0,6.4,253.0,3.855,9.7,
+868,873,tm141959,Feast,MOVIE,2014,G,6,"['animation', 'drama', 'horror']",0.0,8.1,45.0,10.272,7.9,
+869,874,ts159834,When Sharks Attack,SHOW,2013,TV-14,44,['documentation'],7.0,6.7,93.0,1.455,,
+870,875,tm165250,Super Buddies,MOVIE,2013,G,81,['comedy'],0.0,,,7.807,6.1,6.08071
+871,876,tm178844,Get a Horse!,MOVIE,2013,G,6,['comedy'],0.0,,,7.097,7.6,6.9176
+872,877,tm159764,Cloud 9,MOVIE,2014,G,97,"['romance', 'family', 'sport', 'action', 'drama']",0.0,6.4,4830.0,12.657,6.9,
+873,878,tm150467,Tinker Bell and the Pirate Fairy,MOVIE,2014,G,78,['animation'],0.0,,,51.906000000000006,6.8,6.47126
+874,879,tm162567,Miracle Landing on the Hudson,MOVIE,2014,,90,"['documentation', 'drama']",0.0,6.5,153.0,3.714,7.2,
+875,880,tm188023,The Book of Manning,MOVIE,2013,,120,"['documentation', 'sport']",0.0,8.2,317.0,2.914,8.5,
+876,881,tm143693,Party Central,MOVIE,2014,PG,6,['comedy'],0.0,,,9.376,6.8,6.47126
+877,882,tm188208,Phineas and Ferb: Mission Marvel,MOVIE,2013,G,45,['scifi'],0.0,,,16.53,6.6,6.35967
+878,883,ts43070,Kirby Buckets,SHOW,2014,TV-Y7,22,"['action', 'family', 'animation', 'comedy']",3.0,4.9,512.0,8.217,9.0,
+879,884,tm177819,Hiccups,MOVIE,2013,,3,['animation'],0.0,,,4.913,6.6,6.35967
+880,885,tm150669,Marvel Studios: Assembling a Universe,MOVIE,2014,PG,43,"['documentation', 'history']",0.0,7.3,1538.0,16.980999999999998,7.1,
+881,886,tm342433,Betty White Goes Wild,MOVIE,2013,PG,44,['documentation'],0.0,7.4,73.0,1.96,7.0,
+882,887,ts35174,I Didn't Do It,SHOW,2014,TV-G,25,"['comedy', 'crime', 'history', 'drama', 'family']",2.0,7.5,14.0,8.846,8.0,
+883,888,tm173896,Bugged,MOVIE,2013,,2,['animation'],0.0,,,4.895,6.0,6.02491
+884,889,tm161686,Survive and Advance,MOVIE,2013,,90,['documentation'],0.0,,,2.035,8.2,7.25235
+885,890,ts34355,Mighty Med,SHOW,2013,TV-Y7,25,"['comedy', 'family', 'scifi']",2.0,6.4,1996.0,10.977,7.6,
+886,891,ts222742,Wild Congo,SHOW,2014,,44,['documentation'],1.0,,,0.875,9.0,7.69869
+887,892,tm150667,"Marvel: 75 Years, From Pulp to Pop!",MOVIE,2014,PG,41,"['documentation', 'history']",0.0,7.1,986.0,7.182,6.8,
+888,893,tm835242,LEGO Start Wars: The New Yoda Chronicles: Duel of the Skywalkers,MOVIE,2014,,22,['fantasy'],0.0,,,0.634,5.3,5.63436
+889,894,tm230506,LEGO Star Wars: The New Yoda Chronicles - Escape from the Jedi Temple,MOVIE,2014,G,22,"['scifi', 'animation', 'family']",0.0,,,2.64,6.4,6.24808
+890,895,tm175699,Spinning,MOVIE,2013,,2,['animation'],0.0,,,4.9910000000000005,6.4,6.24808
+891,896,tm134986,How to Build a Better Boy,MOVIE,2014,G,90,"['scifi', 'family', 'comedy']",0.0,5.4,3135.0,13.073,6.4,
+892,897,tm176868,Captain Sparky vs. The Flying Saucers,MOVIE,2013,PG,3,['animation'],0.0,,,3.622,7.3,6.75022
+893,898,tm163710,The Blue Umbrella,MOVIE,2013,G,7,['romance'],0.0,,,9.107,7.6,6.9176
+894,899,ts160519,The Doc Files,SHOW,2013,TV-G,3,['animation'],1.0,6.4,33.0,1.345,,
+895,900,tm142627,The Radiator Springs 500½,MOVIE,2014,,6,['comedy'],0.0,,,9.226,6.3,6.19229
+896,901,tm235457,LEGO Star Wars: The New Yoda Chronicles - Race For The Holocrons,MOVIE,2014,,21,['comedy'],0.0,,,2.202,6.0,6.02491
+897,902,tm330785,LEGO Star Wars: The New Yoda Chronicles - Clash of the Skywalkers,MOVIE,2014,,22,['fantasy'],0.0,,,3.385,6.8,6.47126
+898,904,tm516136,Sharks of Lost Island,MOVIE,2013,PG,45,['documentation'],0.0,5.6,110.0,5.827000000000001,5.9,
+899,905,tm858669,Kingdom of the Apes: Battle Lines,MOVIE,2014,PG,44,['documentation'],0.0,,,1.4,5.8,5.91333
+900,906,ts21903,Marvel's Daredevil,SHOW,2015,TV-MA,53,"['action', 'crime', 'drama', 'thriller', 'fantasy', 'scifi']",3.0,8.6,419503.0,109.111,8.1,
+901,907,tm123360,Doctor Strange,MOVIE,2016,PG-13,115,"['fantasy', 'action', 'scifi']",0.0,7.5,697884.0,2286.312,7.4,
+902,908,tm236713,Hidden Figures,MOVIE,2016,PG,127,"['drama', 'history']",0.0,7.8,222475.0,69.487,8.1,
+903,909,ts35811,Marvel's Jessica Jones,SHOW,2015,TV-MA,51,"['scifi', 'thriller', 'action', 'crime', 'drama']",3.0,7.9,209091.0,51.493,7.6,
+904,910,ts21913,Marvel's Agent Carter,SHOW,2015,TV-PG,42,"['drama', 'scifi', 'action']",2.0,7.9,81165.0,46.159,7.6,
+905,911,ts42062,Miraculous: Tales of Ladybug & Cat Noir,SHOW,2015,TV-Y7,22,"['family', 'fantasy', 'romance', 'animation', 'action']",4.0,7.7,10102.0,261.845,8.0,
+906,912,tm122337,Zootopia,MOVIE,2016,PG,108,"['comedy', 'crime', 'animation', 'action', 'family']",0.0,8.0,474046.0,91.845,7.7,
+907,913,tm135902,Inside Out,MOVIE,2015,PG,95,"['comedy', 'drama', 'animation', 'family', 'fantasy', 'scifi']",0.0,8.2,687333.0,111.789,7.9,
+908,914,ts42687,PJ Masks,SHOW,2015,TV-G,15,"['animation', 'family', 'fantasy', 'scifi', 'action', 'european']",5.0,5.4,1214.0,54.603,4.9,
+909,915,tm120376,Miss Peregrine's Home for Peculiar Children,MOVIE,2016,PG-13,127,"['fantasy', 'drama', 'family', 'thriller', 'european']",0.0,6.7,168702.0,69.839,6.8,
+910,916,ts20008,Marvel's Luke Cage,SHOW,2016,TV-MA,56,"['scifi', 'crime', 'drama', 'thriller', 'action']",2.0,7.3,127538.0,52.481,7.0,
+911,917,tm120111,Moana,MOVIE,2016,PG,107,"['action', 'comedy', 'family', 'animation', 'fantasy']",0.0,7.6,316171.0,29.774,7.6,
+912,918,tm202481,Rogue One: A Star Wars Story,MOVIE,2016,PG-13,133,"['scifi', 'action']",0.0,7.8,605467.0,43.106,7.5,
+913,919,tm139213,Fantastic Four,MOVIE,2015,PG-13,106,"['scifi', 'action', 'drama']",0.0,4.3,163577.0,67.083,4.4,
+914,920,tm123356,Captain America: Civil War,MOVIE,2016,PG-13,148,"['action', 'scifi']",0.0,7.8,753227.0,169.294,7.4,
+915,921,tm122347,X-Men: Apocalypse,MOVIE,2016,PG-13,144,"['fantasy', 'action', 'scifi']",0.0,6.9,419033.0,107.728,6.5,
+916,922,tm141020,Ant-Man,MOVIE,2015,PG-13,117,"['scifi', 'comedy', 'crime', 'action']",0.0,7.3,641343.0,79.45100000000001,7.1,
+917,923,tm124355,The Finest Hours,MOVIE,2016,PG-13,117,"['thriller', 'action', 'drama', 'history']",0.0,6.7,65670.0,27.04,6.6,
+918,924,tm141000,Avengers: Age of Ultron,MOVIE,2015,PG-13,141,"['scifi', 'action', 'comedy']",0.0,7.3,832073.0,222.087,7.3,
+919,925,tm138110,"McFarland, USA",MOVIE,2015,PG,128,"['drama', 'sport']",0.0,7.4,38376.0,10.49,7.4,
+920,926,tm7,Star Wars: The Force Awakens,MOVIE,2015,PG-13,135,"['scifi', 'fantasy', 'action']",0.0,7.8,908818.0,80.47800000000001,7.3,
+921,927,tm1941,Alice Through the Looking Glass,MOVIE,2016,PG,113,"['fantasy', 'european']",0.0,,,52.875,6.5,6.30388
+922,928,tm123155,Pete's Dragon,MOVIE,2016,PG,103,"['fantasy', 'action', 'comedy', 'drama', 'family']",0.0,6.7,57761.0,23.183000000000003,6.4,
+923,929,tm141414,The Good Dinosaur,MOVIE,2015,PG,93,"['animation', 'fantasy', 'comedy', 'drama', 'family']",0.0,6.7,113106.0,75.307,6.7,
+924,930,ts42258,LEGO Star Wars: The Freemaker Adventures,SHOW,2016,TV-Y,22,"['animation', 'family', 'scifi', 'drama', 'fantasy', 'action', 'comedy']",3.0,7.4,1134.0,7.215,7.4,
+925,931,ts42554,Port Protection Alaska,SHOW,2015,TV-14,48,"['drama', 'reality']",7.0,8.2,464.0,4.745,5.5,
+926,932,tm1832,Alvin and the Chipmunks: The Road Chip,MOVIE,2015,PG,92,"['comedy', 'music', 'animation', 'family', 'fantasy']",0.0,4.9,19323.0,39.227,6.0,
+927,933,tm211971,Descendants,MOVIE,2015,G,112,"['comedy', 'fantasy', 'family', 'music', 'action']",0.0,6.2,19617.0,54.271,7.1,
+928,934,tm268063,Before the Flood,MOVIE,2016,PG,95,['documentation'],0.0,8.2,27624.0,22.966,7.7,
+929,935,ts43132,Primal Survivor,SHOW,2016,TV-14,43,"['documentation', 'reality']",6.0,8.2,345.0,4.306,8.3,
+930,936,tm143708,The Jungle Book,MOVIE,2016,PG,106,"['fantasy', 'drama', 'comedy', 'animation', 'family', 'action']",0.0,7.4,271573.0,58.24,6.9,
+931,937,ts80321,America's National Parks,SHOW,2015,TV-PG,40,"['documentation', 'family']",1.0,7.6,198.0,2.271,,
+932,938,tm123374,Finding Dory,MOVIE,2016,PG,97,"['comedy', 'family', 'drama', 'animation']",0.0,7.3,267301.0,46.242,7.0,
+933,939,tm239761,Queen of Katwe,MOVIE,2016,PG,124,"['drama', 'sport']",0.0,7.4,16959.0,14.167,7.2,
+934,940,tm244485,Ice Age: The Great Egg-Scapade,MOVIE,2016,,25,"['animation', 'comedy', 'family', 'action']",0.0,5.9,3500.0,46.392,6.4,
+935,941,ts21894,K.C. Undercover,SHOW,2015,TV-G,25,"['drama', 'comedy', 'action', 'family']",3.0,6.2,4717.0,24.995,7.9,
+936,942,tm244542,Team Thor,MOVIE,2016,PG,3,['scifi'],0.0,,,11.827,7.5,6.8618
+937,943,tm233459,Doc & Darryl,MOVIE,2016,,78,['documentation'],0.0,,,2.008,6.7,6.41546
+938,944,ts21980,Star vs. the Forces of Evil,SHOW,2015,TV-Y7,18,"['scifi', 'fantasy', 'thriller', 'comedy', 'drama', 'action', 'family', 'animation']",4.0,8.0,14241.0,74.763,8.4,
+939,945,tm120502,Ice Age: Collision Course,MOVIE,2016,PG,99,"['scifi', 'fantasy', 'romance', 'drama', 'animation', 'comedy', 'family']",0.0,5.6,65228.0,71.80199999999999,6.1,
+940,946,ts36431,The Muppets,SHOW,2015,TV-PG,21,"['comedy', 'family']",1.0,7.4,6644.0,11.623,7.1,
+941,947,ts36167,Marvel's Guardians of the Galaxy,SHOW,2015,TV-Y7,22,"['action', 'comedy', 'drama', 'family', 'scifi', 'animation']",3.0,7.2,3060.0,21.205,7.6,
+942,948,ts41293,Alex & Co.,SHOW,2015,,23,"['drama', 'family', 'music', 'romance', 'comedy']",3.0,5.4,310.0,5.196000000000001,9.3,
+943,949,tm327660,Growing Up Wild,MOVIE,2016,G,77,['documentation'],0.0,7.2,370.0,4.144,6.9,
+944,950,ts52891,MECH-X4,SHOW,2016,TV-Y7,23,"['scifi', 'comedy', 'family', 'action']",3.0,5.9,510.0,21.619,7.9,
+945,951,ts42179,Elena of Avalor,SHOW,2016,TV-G,24,"['animation', 'action', 'comedy', 'drama', 'family', 'fantasy']",3.0,6.3,1510.0,42.75899999999999,6.8,
+946,952,tm136025,Strange Magic,MOVIE,2015,PG,99,"['fantasy', 'comedy', 'family', 'romance', 'animation']",0.0,5.8,10994.0,19.405,7.1,
+947,953,ts41264,Stuck in the Middle,SHOW,2016,TV-G,24,"['comedy', 'family', 'documentation', 'romance']",3.0,6.3,1978.0,14.786,7.7,
+948,954,ts37130,LEGO Star Wars: Droid Tales,SHOW,2015,TV-Y,24,"['animation', 'action', 'comedy', 'scifi']",2.0,7.5,856.0,6.89,6.8,
+949,955,tm233677,Four Falls of Buffalo,MOVIE,2015,,102,['documentation'],0.0,,,3.158,7.7,6.97339
+950,956,ts42209,The Lion Guard,SHOW,2016,TV-G,24,"['family', 'drama', 'music', 'animation', 'action', 'comedy', 'fantasy']",3.0,6.4,2064.0,49.576,7.7,
+951,957,ts58006,Ice Road Rescue,SHOW,2015,TV-14,44,"['documentation', 'reality']",6.0,8.0,243.0,9.932,8.1,
+952,958,ts37428,Pickle & Peanut,SHOW,2015,TV-Y7,22,"['comedy', 'fantasy', 'animation', 'family']",2.0,3.9,1437.0,2.756,4.6,
+953,959,ts21912,Miles from Tomorrowland,SHOW,2015,TV-Y,19,"['action', 'scifi', 'animation', 'family']",3.0,6.4,561.0,9.264,8.3,
+954,960,ts52911,Continent 7: Antarctica,SHOW,2016,TV-PG,47,['documentation'],1.0,7.4,173.0,0.6,5.3,
+955,961,ts37907,Goldie & Bear,SHOW,2015,TV-Y,24,"['animation', 'family', 'fantasy', 'music']",2.0,6.1,399.0,17.909000000000002,6.6,
+956,962,ts52902,The Lodge,SHOW,2016,TV-G,22,"['drama', 'family', 'reality']",2.0,6.1,586.0,8.432,8.2,
+957,963,ts38780,Bizaardvark,SHOW,2016,TV-G,23,"['comedy', 'family']",4.0,3.9,2144.0,27.362,7.3,
+958,964,ts44984,Descendants: Wicked World,SHOW,2015,TV-G,6,"['scifi', 'family', 'fantasy', 'romance', 'animation', 'comedy']",2.0,6.6,974.0,11.263,8.7,
+959,965,ts42911,The Greeks,SHOW,2016,,54,"['documentation', 'sport', 'history']",1.0,7.7,215.0,1.62,5.5,
+960,966,ts38952,I am Luna,SHOW,2016,,46,"['music', 'documentation', 'comedy', 'family']",3.0,6.4,1330.0,283.189,7.9,
+961,967,tm479849,Egypt's Treasure Guardians,MOVIE,2016,,44,['history'],0.0,6.3,59.0,,,
+962,968,tm460321,The Kangaroo King,MOVIE,2015,,50,['documentation'],0.0,,,0.6,6.0,6.02491
+963,969,tm201422,I Hate Christian Laettner,MOVIE,2015,,90,['documentation'],0.0,,,4.529,7.1,6.63863
+964,970,ts86847,Marvel Funko Shorts,SHOW,2016,TV-G,1,['animation'],1.0,,,2.279,5.0,5.46699
+965,971,ts128555,United States of Animals,SHOW,2016,TV-PG,22,['documentation'],1.0,6.3,19.0,0.6,,
+966,972,ts41269,Milo Murphy's Law,SHOW,2016,TV-Y7,20,"['comedy', 'action', 'family', 'fantasy', 'animation']",3.0,7.6,2696.0,25.94,7.6,
+967,973,ts70709,China From Above,SHOW,2015,TV-PG,44,['documentation'],2.0,7.7,114.0,1.636,6.0,
+968,974,ts128367,Weird But True,SHOW,2016,TV-G,23,"['family', 'documentation']",3.0,7.8,93.0,3.274,6.0,
+969,975,tm324556,Drain the Titanic,MOVIE,2016,,46,['documentation'],0.0,6.3,365.0,5.224,7.3,
+970,976,tm220843,Riley's First Date?,MOVIE,2015,G,8,['animation'],0.0,,,39.683,7.2,6.69443
+971,977,ts217981,Wild Yellowstone,SHOW,2015,TV-PG,54,['documentation'],1.0,7.4,91.0,1.4,9.3,
+972,978,tm225765,Adventures in Babysitting,MOVIE,2016,G,95,"['comedy', 'family']",0.0,5.9,3866.0,17.715,7.4,
+973,979,tm425918,Disney's Broadway Hits at London's Royal Albert Hall,MOVIE,2016,,155,['music'],0.0,7.9,122.0,3.705,7.8,
+974,980,ts35597,Best Friends Whenever,SHOW,2015,TV-G,24,"['scifi', 'comedy', 'family']",2.0,5.8,1753.0,15.338,8.5,
+975,981,tm196874,Teen Beach 2,MOVIE,2015,G,104,"['fantasy', 'drama', 'family']",0.0,6.1,4847.0,15.428,6.8,
+976,982,tm242665,Piper,MOVIE,2016,G,6,['animation'],0.0,,,11.845,8.2,7.25235
+977,983,tm266783,The Swap,MOVIE,2016,PG,100,"['comedy', 'family', 'fantasy']",0.0,6.1,2030.0,13.526,6.9,
+978,984,tm138090,Monkey Kingdom,MOVIE,2015,G,81,['documentation'],0.0,7.3,3959.0,12.498,6.9,
+979,985,ts16202,Animal ER,SHOW,2016,TV-14,44,"['reality', 'documentation']",2.0,7.9,70.0,1.568,9.4,
+980,986,tm197779,Frozen Fever,MOVIE,2015,G,8,['animation'],0.0,,,72.82300000000001,6.8,6.47126
+981,987,tm233558,Marvel Super Hero Adventures: Frost Fight!,MOVIE,2015,PG,73,['fantasy'],0.0,,,11.156,5.9,5.96912
+982,988,ts86270,Supercar Megabuild,SHOW,2016,,45,"['reality', 'documentation']",2.0,4.6,71.0,4.589,8.7,
+983,989,ts81953,Wild Sri Lanka,SHOW,2015,,44,['documentation'],1.0,8.3,87.0,0.94,8.3,
+984,990,tm212899,Sanjay's Super Team,MOVIE,2015,PG,7,"['action', 'animation']",0.0,,,8.014,6.6,6.35967
+985,991,tm242701,Phi Slama Jama,MOVIE,2016,,90,['documentation'],0.0,,,2.485,6.3,6.19229
+986,992,tm220989,Born in China,MOVIE,2016,G,76,['documentation'],0.0,7.2,3805.0,19.858,7.3,
+987,993,tm198588,Of Miracles and Men,MOVIE,2015,G,103,['documentation'],0.0,,,3.495,6.6,6.35967
+988,994,ts142375,Future-Worm!,SHOW,2015,TV-Y7,22,"['animation', 'comedy', 'family', 'scifi']",1.0,5.6,252.0,9.038,,
+989,995,tm225769,Invisible Sister,MOVIE,2015,G,77,"['fantasy', 'comedy', 'family']",0.0,5.9,3203.0,26.598000000000003,6.7,
+990,996,tm245709,Inner Workings,MOVIE,2016,G,7,['comedy'],0.0,,,6.72,8.0,7.14077
+991,997,tm443975,Duck the Halls: A Mickey Mouse Christmas Special,MOVIE,2016,G,22,"['animation', 'comedy']",0.0,,,1.245,9.0,7.69869
+992,998,ts41316,Lab Rats: Elite Force,SHOW,2016,TV-Y7,23,"['scifi', 'comedy', 'drama', 'family']",2.0,6.6,1380.0,10.466,8.2,
+993,999,tm543420,How Dogs Got Their Shapes,MOVIE,2016,,44,['documentation'],0.0,6.7,133.0,1.863,7.0,
+994,1000,ts56081,Walk the Prank,SHOW,2016,TV-Y7,22,"['comedy', 'reality']",3.0,3.7,466.0,3.213,6.3,
+995,1001,tm361444,Drain The Ocean: WWII,MOVIE,2016,PG,45,"['documentation', 'history']",0.0,6.9,134.0,1.682,6.7,
+996,1002,tm136528,Bad Hair Day,MOVIE,2015,,90,"['action', 'comedy', 'family']",0.0,5.8,3129.0,7.513999999999999,6.6,
+997,1003,tm218654,Tick Tock Tale,MOVIE,2015,G,7,['animation'],0.0,,,6.294,7.7,6.97339
+998,1007,tm1018704,Shanghai Disney Resort Grand Opening Gala,MOVIE,2016,G,25,['music'],0.0,,,0.713,5.0,5.46699
+999,1008,tm289079,Mega Hammerhead,MOVIE,2016,,60,['documentation'],0.0,6.5,79.0,2.781,7.0,
+1000,1010,tm891332,Incredible! The Story of Dr. Pol,MOVIE,2015,PG,44,['documentation'],0.0,,,2.74,6.0,6.02491
+1001,1014,tm120596,The Greatest Showman,MOVIE,2017,PG,105,['drama'],0.0,7.5,271833.0,32.387,7.9,
+1002,1015,ts84270,Bluey,SHOW,2018,TV-Y,7,"['animation', 'family']",3.0,9.7,6626.0,32.21,7.0,
+1003,1016,ts43178,Marvel's The Punisher,SHOW,2017,TV-MA,53,"['crime', 'action', 'scifi', 'drama', 'thriller']",2.0,8.5,220204.0,83.07700000000001,8.2,
+1004,1017,ts52967,Marvel's Inhumans,SHOW,2017,TV-PG,42,"['scifi', 'action']",1.0,4.9,25439.0,63.31,6.3,
+1005,1018,tm407114,Free Solo,MOVIE,2018,PG-13,100,"['action', 'documentation', 'sport']",0.0,8.1,65217.0,13.401,7.9,
+1006,1019,tm244151,Isle of Dogs,MOVIE,2018,PG-13,101,"['comedy', 'drama', 'scifi', 'fantasy', 'animation', 'european']",0.0,7.8,162994.0,23.692,7.9,
+1007,1020,tm387,Pirates of the Caribbean: Dead Men Tell No Tales,MOVIE,2017,PG-13,129,"['fantasy', 'action']",0.0,6.5,296724.0,363.54,6.6,
+1008,1021,tm12119,Thor: Ragnarok,MOVIE,2017,PG-13,131,"['fantasy', 'action', 'comedy', 'scifi']",0.0,7.9,697184.0,189.405,7.6,
+1009,1022,ts20007,Marvel's Iron Fist,SHOW,2017,TV-MA,54,"['scifi', 'action', 'crime', 'fantasy']",2.0,6.5,126083.0,19.843,6.6,
+1010,1023,ts37118,Marvel's The Defenders,SHOW,2017,TV-MA,50,"['scifi', 'action', 'crime', 'animation', 'comedy', 'fantasy']",1.0,7.3,31.0,37.642,7.2,
+1011,1024,tm220546,Coco,MOVIE,2017,PG,109,"['animation', 'fantasy', 'comedy', 'drama', 'family', 'music', 'european']",0.0,8.4,476499.0,201.205,8.2,
+1012,1025,ts43192,Marvel's Runaways,SHOW,2017,TV-14,28,"['scifi', 'action', 'drama', 'documentation']",3.0,6.9,25446.0,38.759,7.6,
+1013,1026,tm591,Avengers: Infinity War,MOVIE,2018,PG-13,150,"['scifi', 'action', 'fantasy']",0.0,8.4,1012203.0,440.9380000000001,8.3,
+1014,1027,tm215172,Solo: A Star Wars Story,MOVIE,2018,PG-13,135,"['scifi', 'action', 'fantasy']",0.0,6.9,325266.0,44.143,6.6,
+1015,1028,tm418,Black Panther,MOVIE,2018,PG-13,134,"['scifi', 'action']",0.0,7.3,707778.0,106.502,7.4,
+1016,1029,tm386,Guardians of the Galaxy Vol. 2,MOVIE,2017,PG-13,136,"['scifi', 'comedy', 'action']",0.0,7.6,649516.0,95.587,7.6,
+1017,1030,tm227990,Ant-Man and the Wasp,MOVIE,2018,PG-13,119,"['scifi', 'action', 'comedy']",0.0,7.0,378592.0,61.982,7.0,
+1018,1031,tm399,Incredibles 2,MOVIE,2018,PG,118,"['action', 'animation', 'scifi', 'comedy', 'family']",0.0,7.6,285154.0,119.235,7.5,
+1019,1032,tm349784,Christopher Robin,MOVIE,2018,PG,104,"['fantasy', 'animation', 'comedy', 'drama', 'family']",0.0,7.2,76014.0,19.664,7.3,
+1020,1033,ts58190,Once,SHOW,2017,,23,"['comedy', 'sport', 'family']",3.0,7.9,362.0,240.943,8.7,
+1021,1034,tm230984,Ferdinand,MOVIE,2017,PG,115,"['comedy', 'drama', 'family', 'fantasy', 'animation']",0.0,6.7,55723.0,66.464,7.2,
+1022,1035,ts77420,One Strange Rock,SHOW,2018,TV-G,47,['documentation'],2.0,8.7,7705.0,13.941,7.9,
+1023,1036,ts57299,grown-ish,SHOW,2018,TV-14,20,"['comedy', 'drama']",4.0,6.4,5268.0,17.678,8.5,
+1024,1037,tm240623,Mary Poppins Returns,MOVIE,2018,PG,131,"['fantasy', 'comedy', 'family', 'animation']",0.0,6.7,85576.0,32.514,6.5,
+1025,1038,tm8,Star Wars: The Last Jedi,MOVIE,2017,PG-13,152,"['scifi', 'action', 'fantasy']",0.0,6.9,611383.0,58.198,6.9,
+1026,1039,tm195553,Beauty and the Beast,MOVIE,2017,PG,129,"['fantasy', 'family', 'romance']",0.0,7.1,300873.0,70.955,7.0,
+1027,1040,ts58266,Marvel's Spider-Man,SHOW,2017,TV-G,24,"['scifi', 'animation', 'action', 'family']",3.0,6.1,2479.0,52.747,7.6,
+1028,1041,ts80686,Star Wars Resistance,SHOW,2018,TV-Y7,23,"['scifi', 'animation', 'action', 'comedy', 'drama', 'family', 'fantasy']",2.0,5.1,5476.0,24.432,6.6,
+1029,1042,ts79038,Muppet Babies,SHOW,2018,TV-Y,22,"['comedy', 'animation', 'scifi', 'fantasy', 'family']",3.0,6.6,595.0,21.243,6.8,
+1030,1043,tm240627,Ralph Breaks the Internet,MOVIE,2018,PG,113,"['comedy', 'thriller', 'drama', 'animation', 'family', 'fantasy', 'scifi']",0.0,7.0,151237.0,102.81,7.2,
+1031,1044,tm266646,A Wrinkle in Time,MOVIE,2018,PG,109,"['fantasy', 'scifi', 'family']",0.0,4.2,44227.0,24.337,5.1,
+1032,1045,ts57862,DuckTales,SHOW,2017,TV-Y7,24,"['animation', 'family', 'fantasy', 'action', 'scifi', 'comedy']",3.0,8.2,9374.0,38.077,7.9,
+1033,1046,ts57491,Raven's Home,SHOW,2017,TV-G,24,"['comedy', 'family']",5.0,7.1,3099.0,31.463,8.1,
+1034,1047,ts56719,Star Wars: Forces of Destiny,SHOW,2017,TV-Y7,4,"['scifi', 'action', 'family', 'animation', 'drama']",2.0,5.2,2023.0,10.599,5.5,
+1035,1048,ts57584,Puppy Dog Pals,SHOW,2017,TV-Y,20,"['animation', 'comedy', 'drama', 'family']",5.0,6.8,1052.0,17.965999999999998,7.7,
+1036,1049,tm327916,Newsies,MOVIE,2017,PG,134,"['drama', 'music']",0.0,8.4,2878.0,9.409,8.3,
+1037,1050,ts82155,Big City Greens,SHOW,2018,TV-Y7,18,"['comedy', 'family', 'animation']",3.0,7.3,2040.0,47.74100000000001,8.2,
+1038,1051,tm227992,Cars 3,MOVIE,2017,G,102,"['comedy', 'family', 'animation', 'action', 'sport', 'fantasy', 'drama']",0.0,6.7,93446.0,134.985,6.8,
+1039,1052,ts8698,Drain the Oceans,SHOW,2018,TV-PG,46,"['documentation', 'history']",4.0,7.5,506.0,17.789,7.8,
+1040,1053,ts52900,Big Hero 6 The Series,SHOW,2017,TV-Y7,23,"['action', 'comedy', 'animation', 'scifi', 'family']",3.0,7.4,31.0,51.99100000000001,8.1,
+1041,1054,ts75597,Marvel's Ant-Man,SHOW,2017,,1,"['action', 'comedy', 'family', 'scifi', 'animation']",1.0,6.6,426.0,7.521,7.5,
+1042,1055,tm348282,Jane,MOVIE,2017,PG,90,['documentation'],0.0,7.8,5041.0,9.203,7.6,
+1043,1056,tm428953,Life-Size 2,MOVIE,2018,,81,"['fantasy', 'comedy']",0.0,4.6,965.0,10.369000000000002,6.0,
+1044,1057,tm266693,Diary of a Wimpy Kid: The Long Haul,MOVIE,2017,PG,91,"['family', 'comedy', 'animation']",0.0,4.3,8792.0,17.215999999999998,5.3,
+1045,1058,ts88128,Secrets of the Zoo,SHOW,2018,TV-PG,43,"['reality', 'documentation']",5.0,8.3,237.0,3.958,8.9,
+1046,1059,ts55088,Rapunzel's Tangled Adventure,SHOW,2017,TV-G,25,"['animation', 'family', 'action', 'drama', 'fantasy', 'comedy']",3.0,7.6,2667.0,24.415,7.5,
+1047,1060,ts81647,Fancy Nancy,SHOW,2018,TV-Y,20,"['comedy', 'family', 'animation']",3.0,5.5,389.0,13.595,7.3,
+1048,1061,ts55686,Andi Mack,SHOW,2017,TV-G,25,"['drama', 'comedy', 'family']",3.0,7.3,2230.0,26.125,8.2,
+1049,1062,tm406868,Bao,MOVIE,2018,G,8,['fantasy'],0.0,,,14.975,7.6,6.9176
+1050,1063,tm327380,The Nutcracker and the Four Realms,MOVIE,2018,PG,99,"['fantasy', 'family']",0.0,5.5,32865.0,27.68,6.1,
+1051,1064,tm422015,Ghost of the Mountains,MOVIE,2017,G,78,['documentation'],0.0,7.0,278.0,2.44,7.3,
+1052,1065,tm361029,Titanic: 20 Years Later with James Cameron,MOVIE,2017,PG,47,['documentation'],0.0,7.1,685.0,5.225,6.5,
+1053,1066,tm419118,Expedition China,MOVIE,2017,G,78,['documentation'],0.0,6.7,153.0,2.664,8.0,
+1054,1067,tm363498,Science Fair,MOVIE,2018,PG,90,"['documentation', 'action', 'scifi']",0.0,7.6,584.0,3.793,7.2,
+1055,1068,ts81977,Legend of the Three Caballeros,SHOW,2018,TV-Y7,23,"['action', 'comedy', 'family', 'fantasy', 'animation']",1.0,7.8,395.0,4.044,10.0,
+1056,1069,tm356966,Z-O-M-B-I-E-S,MOVIE,2018,G,94,"['fantasy', 'family', 'romance']",0.0,6.2,4941.0,34.006,7.5,
+1057,1070,ts124200,Marvel Future Avengers,SHOW,2017,TV-Y7,23,"['animation', 'action', 'scifi']",2.0,5.6,220.0,1.4,6.8,
+1058,1071,ts75991,Vampirina,SHOW,2017,TV-Y,21,"['comedy', 'family', 'fantasy', 'animation']",3.0,6.4,834.0,13.901,6.8,
+1059,1072,ts57135,Year Million,SHOW,2017,TV-14,47,"['scifi', 'documentation', 'drama']",1.0,7.4,583.0,3.3680000000000003,8.1,
+1060,1073,ts55504,Origins: The Journey of Humankind,SHOW,2017,TV-14,29,"['documentation', 'drama', 'action', 'history', 'scifi', 'comedy', 'romance', 'horror']",3.0,6.5,14.0,2.14,7.8,
+1061,1074,tm373625,Freaky Friday,MOVIE,2018,G,90,"['comedy', 'fantasy']",0.0,3.8,1390.0,18.135,5.6,
+1062,1075,ts226753,Star Wars Blips,SHOW,2017,,1,"['comedy', 'animation']",1.0,6.1,162.0,1.767,5.8,
+1063,1076,ts55983,Marvel's Rocket & Groot,SHOW,2017,,2,"['scifi', 'animation', 'comedy', 'family']",1.0,6.7,353.0,6.181,8.2,
+1064,1077,tm313323,Step,MOVIE,2017,PG,83,"['documentation', 'drama']",0.0,7.0,912.0,4.683,7.7,
+1065,1078,tm307646,Team Thor: Part 2,MOVIE,2017,PG,5,['fantasy'],0.0,,,12.593,7.1,6.63863
+1066,1079,ts81805,Tut's Treasures: Hidden Secrets,SHOW,2018,TV-PG,52,['documentation'],1.0,,,1.96,7.5,6.8618
+1067,1080,ts56028,Mickey and the Roadster Racers,SHOW,2017,TV-Y,20,"['action', 'reality', 'comedy', 'family', 'sport', 'animation']",3.0,6.0,587.0,28.587,6.6,
+1068,1081,tm310197,Descendants 2,MOVIE,2017,G,111,"['fantasy', 'action', 'family', 'romance']",0.0,7.5,339.0,45.656000000000006,7.4,
+1069,1082,ts84579,Marvel Rising: Initation,SHOW,2018,,4,"['action', 'animation', 'comedy', 'drama', 'family']",2.0,5.6,518.0,14.231,7.9,
+1070,1083,tm324105,Olaf's Frozen Adventure,MOVIE,2017,G,22,"['fantasy', 'comedy']",0.0,,,40.74,6.4,6.24808
+1071,1084,tm351023,Breaking2,MOVIE,2017,PG,55,"['documentation', 'reality']",0.0,7.3,387.0,1.716,7.9,
+1072,1086,ts82077,Wild Chile: Un viaje salvaje,SHOW,2017,TV-PG,49,['documentation'],1.0,7.5,64.0,0.6,,
+1073,1087,tm373448,Team Darryl,MOVIE,2018,PG,6,['comedy'],0.0,,,6.474,6.4,6.24808
+1074,1088,ts83336,Japan: Between Earth & Sky,SHOW,2018,TV-PG,44,['documentation'],1.0,7.5,124.0,1.466,8.0,
+1075,1089,tm430584,Marvel Rising: Secret Warriors,MOVIE,2018,,80,"['animation', 'action', 'scifi', 'fantasy', 'comedy']",0.0,5.3,1263.0,13.129,7.0,
+1076,1090,tm444951,MARS: Inside SpaceX,MOVIE,2018,PG,46,['documentation'],0.0,7.4,818.0,4.676,7.7,
+1077,1091,tm308160,Gender Revolution: A Journey with Katie Couric,MOVIE,2017,PG,90,['documentation'],0.0,5.8,366.0,4.169,6.5,
+1078,1092,tm425336,Drain Alcatraz,MOVIE,2017,,45,['documentation'],0.0,6.0,190.0,3.419,6.4,
+1079,1093,ts96393,Marvel Super Hero Adventures,SHOW,2017,TV-Y,4,"['action', 'family', 'animation']",4.0,5.7,136.0,2.708,7.5,
+1080,1095,tm435514,Under the Sea: A Descendants Story,MOVIE,2018,,10,['fantasy'],0.0,5.3,370.0,21.779,7.7,
+1081,1096,tm305230,Tangled: Before Ever After,MOVIE,2017,G,55,"['comedy', 'fantasy', 'action', 'family', 'animation']",0.0,6.6,2597.0,25.412,6.8,
+1082,1097,tm406066,Howard,MOVIE,2018,,93,"['documentation', 'music']",0.0,7.6,1091.0,5.711,6.9,
+1083,1098,tm320517,Atlantis Rising,MOVIE,2017,,93,"['thriller', 'documentation', 'action']",0.0,6.5,515.0,5.287999999999999,5.9,
+1084,1099,ts68223,Paradise Islands,SHOW,2017,TV-PG,44,"['drama', 'family', 'action', 'comedy']",1.0,4.4,10.0,0.889,5.0,
+1085,1100,tm286174,Lou,MOVIE,2017,G,7,"['fantasy', 'animation']",0.0,,,6.881,7.6,6.9176
+1086,1101,tm1064162,Stuntman,MOVIE,2018,PG-13,87,['documentation'],0.0,6.7,354.0,1.786,6.5,
+1087,1102,tm411403,Into the Okavango,MOVIE,2018,PG,94,['documentation'],0.0,7.6,425.0,10.362,7.2,
+1088,1103,ts85083,LEGO Star Wars: All-Stars,SHOW,2018,TV-Y7,16,"['animation', 'action', 'comedy', 'scifi']",1.0,6.5,303.0,5.739,7.3,
+1089,1104,ts85902,Disney Junior Music Nursery Rhymes,SHOW,2017,TV-Y,2,"['animation', 'family', 'music']",2.0,6.4,22.0,1.273,10.0,
+1090,1106,ts81382,Coop & Cami Ask The World,SHOW,2018,TV-G,23,"['family', 'comedy']",2.0,5.6,504.0,23.515,8.5,
+1091,1107,ts92367,Rocky Mountain Animal Rescue,SHOW,2018,,38,['documentation'],1.0,8.4,29.0,0.972,,
+1092,1108,tm417805,Secrets Of Christ's Tomb,MOVIE,2017,,46,"['documentation', 'history']",0.0,6.3,153.0,1.86,8.3,
+1093,1109,tm448006,Mission to the Sun,MOVIE,2018,PG,44,['documentation'],0.0,6.6,181.0,2.951,6.6,
+1094,1110,ts56986,Disney's Fairy Tale Weddings,SHOW,2017,TV-PG,39,"['documentation', 'reality']",2.0,6.5,168.0,1.875,6.0,
+1095,1112,tm462384,Drain The Sunken Pirate City,MOVIE,2017,,47,"['history', 'documentation']",0.0,6.3,106.0,0.914,6.0,
+1096,1113,tm476866,Paris to Pittsburgh,MOVIE,2018,,77,['documentation'],0.0,6.5,141.0,4.482,6.4,
+1097,1114,tm420056,700 Sharks,MOVIE,2018,,92,['documentation'],0.0,6.9,101.0,2.752,6.8,
+1098,1115,tm975587,The Scariest Story Ever: A Mickey Mouse Halloween Spooktacular,MOVIE,2017,PG,22,['horror'],0.0,,,3.315,7.3,6.75022
+1099,1116,tm432143,Auntie Edna,MOVIE,2018,,5,['scifi'],0.0,,,11.976,7.1,6.63863
+1100,1117,ts57455,Billy Dilley’s Super-Duper Subterranean Summer,SHOW,2017,TV-Y7,22,"['comedy', 'fantasy', 'scifi', 'animation', 'family']",1.0,3.1,488.0,1.636,7.0,
+1101,1118,ts81034,Alaska's Grizzly Gauntlet,SHOW,2018,TV-PG,44,['documentation'],1.0,6.3,47.0,0.858,,
+1102,1120,tm285590,Sea of Hope: America's Underwater Treasures,MOVIE,2017,,47,['documentation'],0.0,7.8,44.0,3.575,6.4,
+1103,1121,tm431848,Giants of the Deep Blue,MOVIE,2017,PG,47,['documentation'],0.0,,,2.681,6.7,6.41546
+1104,1122,tm833132,Planet of the Birds,MOVIE,2018,,44,['documentation'],0.0,,,1.641,5.5,5.74595
+1105,1124,ts286381,Tangled: Short Cuts,SHOW,2017,,2,"['animation', 'comedy', 'family', 'fantasy']",1.0,7.4,14.0,,,
+1106,1127,ts109332,Howie Mandel's Animals Doing Things,SHOW,2018,TV-14,30,['comedy'],2.0,3.6,64.0,,,
+1107,1128,tm833136,The Flood,MOVIE,2018,PG,88,['documentation'],0.0,7.6,173.0,3.2460000000000004,6.0,
+1108,1129,ts213957,Mexico Untamed,SHOW,2018,,44,['documentation'],1.0,7.3,22.0,0.893,,
+1109,1131,tm505107,Man Among Cheetahs,MOVIE,2017,PG,44,['documentation'],0.0,6.8,61.0,2.5860000000000003,7.0,
+1110,1134,tm363833,Decorating Disney: Holiday Magic,MOVIE,2017,PG,58,"['documentation', 'music', 'reality']",0.0,6.7,125.0,3.158,7.6,
+1111,1139,tm939308,Oil Spill of The Century,MOVIE,2018,PG-13,44,['documentation'],0.0,,,0.943,6.3,6.19229
+1112,1140,tm833135,Tree Climbing Lions,MOVIE,2018,PG,44,['documentation'],0.0,,,1.889,7.0,6.58284
+1113,1141,tm326895,Earth Live,MOVIE,2017,PG,120,['documentation'],0.0,5.2,65.0,2.048,4.3,
+1114,1142,ts84392,The Mandalorian,SHOW,2019,TV-14,40,"['scifi', 'action', 'fantasy']",3.0,8.7,425001.0,166.305,8.5,
+1115,1143,ts113447,The Owl House,SHOW,2020,,24,"['thriller', 'action', 'comedy', 'family', 'animation', 'fantasy', 'scifi', 'horror', 'drama']",3.0,8.1,9022.0,107.232,8.8,
+1116,1144,tm439596,Hamilton,MOVIE,2020,PG-13,160,"['drama', 'history', 'music']",0.0,8.4,83182.0,16.389,8.4,
+1117,1145,ts86872,Amphibia,SHOW,2019,TV-Y7,19,"['scifi', 'thriller', 'animation', 'action', 'family', 'comedy', 'drama', 'fantasy']",3.0,8.1,4675.0,83.485,8.1,
+1118,1146,tm1855,Avengers: Endgame,MOVIE,2019,PG-13,181,"['scifi', 'fantasy', 'action', 'drama']",0.0,8.4,1016115.0,231.492,8.3,
+1119,1147,tm244126,Dark Phoenix,MOVIE,2019,PG-13,113,"['action', 'scifi']",0.0,5.7,176987.0,66.829,6.0,
+1120,1148,tm375501,Soul,MOVIE,2020,PG,102,"['fantasy', 'family', 'music', 'scifi', 'animation', 'comedy', 'drama']",0.0,8.0,308797.0,191.733,8.2,
+1121,1149,tm9,Star Wars: The Rise of Skywalker,MOVIE,2019,PG-13,142,"['scifi', 'drama', 'fantasy', 'action', 'european']",0.0,6.5,429294.0,55.43,6.4,
+1122,1150,tm570,Captain Marvel,MOVIE,2019,PG-13,124,"['scifi', 'action']",0.0,6.8,521093.0,103.33,6.9,
+1123,1151,ts301932,Cosmos: Possible Worlds,SHOW,2020,TV-PG,43,"['documentation', 'drama', 'thriller', 'scifi']",1.0,9.1,5944.0,1.96,10.0,
+1124,1152,ts287331,Gordon Ramsay: Uncharted,SHOW,2019,TV-14,45,"['documentation', 'reality']",3.0,7.7,1306.0,9.77,8.0,
+1125,1153,tm309655,The Lion King,MOVIE,2019,PG,118,"['drama', 'comedy', 'animation', 'family']",0.0,6.8,237523.0,96.613,7.1,
+1126,1154,tm375500,Onward,MOVIE,2020,PG,103,"['fantasy', 'animation', 'comedy', 'drama', 'family']",0.0,7.4,141297.0,53.402,7.8,
+1127,1155,tm423725,Maleficent: Mistress of Evil,MOVIE,2019,PG,119,"['fantasy', 'family']",0.0,6.6,99344.0,106.832,7.3,
+1128,1156,tm11948,Toy Story 4,MOVIE,2019,G,100,"['fantasy', 'documentation', 'comedy', 'family', 'animation']",0.0,7.7,233342.0,122.174,7.6,
+1129,1157,tm318224,Aladdin,MOVIE,2019,PG,128,"['fantasy', 'action', 'comedy', 'family', 'romance', 'drama']",0.0,6.9,257251.0,78.52,7.1,
+1130,1158,tm319189,The Kid Who Would Be King,MOVIE,2019,PG,120,"['fantasy', 'action', 'family']",0.0,6.1,16454.0,15.742,6.1,
+1131,1159,tm892844,Long Gone Summer,MOVIE,2020,,120,['documentation'],0.0,,,2.965,6.2,6.1365
+1132,1160,tm266656,Mulan,MOVIE,2020,PG-13,115,"['fantasy', 'drama', 'action', 'family']",0.0,5.7,141848.0,144.238,7.0,
+1133,1161,ts287032,The Right Stuff,SHOW,2020,TV-14,44,"['drama', 'history']",1.0,6.7,3684.0,18.538,7.2,
+1134,1162,tm841282,Togo,MOVIE,2019,PG,113,"['action', 'family', 'european', 'history', 'drama']",0.0,7.9,47061.0,46.81,8.2,
+1135,1163,tm473071,The One and Only Ivan,MOVIE,2020,PG,93,"['comedy', 'drama', 'animation', 'family', 'fantasy']",0.0,6.5,11920.0,18.537,7.5,
+1136,1164,tm207119,Dumbo,MOVIE,2019,PG,112,"['fantasy', 'family']",0.0,6.3,73010.0,42.612,6.7,
+1137,1165,tm244184,Frozen II,MOVIE,2019,PG,103,"['comedy', 'fantasy', 'family', 'animation', 'action']",0.0,6.8,164701.0,135.433,7.3,
+1138,1166,ts187275,The World According to Jeff Goldblum,SHOW,2019,TV-PG,26,"['documentation', 'comedy']",2.0,7.7,2645.0,10.185,7.1,
+1139,1168,tm319217,Noelle,MOVIE,2020,G,100,"['fantasy', 'comedy', 'romance', 'family']",0.0,6.3,21008.0,11.066,6.7,
+1140,1169,tm350097,Artemis Fowl,MOVIE,2020,PG,94,"['fantasy', 'scifi', 'family']",0.0,4.2,26966.0,32.347,5.6,
+1141,1170,ts89507,Lost Treasures of Egypt,SHOW,2019,TV-PG,44,['documentation'],3.0,,,7.002999999999999,8.3,7.30815
+1142,1171,tm937152,Burrow,MOVIE,2020,G,6,['animation'],0.0,,,8.689,7.5,6.8618
+1143,1172,tm931709,Clouds,MOVIE,2020,PG-13,121,"['romance', 'drama', 'music']",0.0,7.5,9479.0,54.056,8.3,
+1144,1173,ts87334,High School Musical: The Musical: The Series,SHOW,2019,TV-PG,32,"['drama', 'comedy']",3.0,7.1,6449.0,34.82,8.1,
+1145,1174,ts109657,Lost Treasures of the Maya,SHOW,2019,TV-14,44,"['documentation', 'history']",1.0,6.5,215.0,2.295,9.0,
+1146,1176,tm405465,Lady and the Tramp,MOVIE,2019,PG,103,"['romance', 'comedy', 'family', 'drama', 'animation']",0.0,6.2,21006.0,39.683,7.3,
+1147,1177,ts252988,Life Below Zero: Next Generation,SHOW,2020,TV-14,44,['reality'],4.0,5.2,214.0,1.651,10.0,
+1148,1178,tm977575,Folklore: The Long Pond Studio Sessions,MOVIE,2020,PG,106,"['documentation', 'music', 'drama']",0.0,8.3,3380.0,12.032,8.6,
+1149,1179,ts214210,Lost Cities with Albert Lin,SHOW,2019,TV-14,42,"['history', 'documentation']",2.0,7.7,413.0,4.662,8.0,
+1150,1180,ts267890,Disney Gallery / Star Wars: The Mandalorian,SHOW,2020,TV-PG,33,['documentation'],2.0,8.4,2806.0,13.598,7.9,
+1151,1181,tm945431,Black Beauty,MOVIE,2020,PG,110,"['drama', 'family']",0.0,6.4,3407.0,13.864,8.3,
+1152,1182,ts280148,The Wizard of Paws,SHOW,2020,,22,"['family', 'reality']",2.0,9.4,30.0,1.519,,
+1153,1183,ts222773,The Imagineering Story,SHOW,2019,TV-PG,63,['documentation'],1.0,,,6.829,8.2,7.25235
+1154,1184,ts225082,"Heartland Docs, DVM",SHOW,2020,TV-PG,44,['reality'],4.0,8.8,112.0,4.447,8.0,
+1155,1185,tm857985,Stargirl,MOVIE,2020,PG,104,"['comedy', 'drama', 'fantasy', 'romance']",0.0,6.2,5079.0,16.1,7.6,
+1156,1186,ts188644,Marvel 616,SHOW,2020,TV-14,52,['documentation'],1.0,6.4,590.0,7.266,7.6,
+1157,1187,ts271549,Life Below Zero: Northern Territories,SHOW,2020,,42,"['action', 'reality']",1.0,8.0,12.0,2.602,9.0,
+1158,1188,ts88328,Hostile Planet,SHOW,2019,TV-PG,47,['documentation'],1.0,8.2,726.0,5.401,8.0,
+1159,1189,tm916669,Upside-Down Magic,MOVIE,2020,G,96,['fantasy'],0.0,,,119.018,7.3,6.75022
+1160,1190,tm374091,Descendants 3,MOVIE,2019,PG,106,"['thriller', 'action', 'drama', 'family', 'reality']",0.0,6.4,7721.0,76.331,7.9,
+1161,1191,ts235499,Critter Fixers: Country Vets,SHOW,2020,TV-14,44,"['family', 'documentation']",3.0,8.7,137.0,0.979,,
+1162,1192,tm893036,Lost on Everest,MOVIE,2020,PG-13,60,['documentation'],0.0,6.7,272.0,5.057,8.0,
+1163,1193,tm923068,The Lego Star Wars Holiday Special,MOVIE,2020,G,44,"['scifi', 'action', 'comedy', 'family', 'animation']",0.0,6.4,6720.0,23.481,6.7,
+1164,1194,tm845773,Timmy Failure: Mistakes Were Made,MOVIE,2020,PG,99,"['thriller', 'comedy', 'fantasy', 'family', 'drama']",0.0,6.0,2859.0,21.36,6.2,
+1165,1195,tm974117,Godmothered,MOVIE,2020,PG,113,"['fantasy', 'comedy', 'drama', 'family']",0.0,6.1,12196.0,68.745,6.9,
+1166,1196,ts235731,"Mira, Royal Detective",SHOW,2020,TV-Y,24,[],3.0,,,8.0,3.0,4.35113
+1167,1197,ts94742,T.O.T.S.,SHOW,2019,TV-Y,21,"['comedy', 'family', 'music', 'animation']",1.0,6.8,366.0,20.509,6.5,
+1168,1198,ts223001,Europe From Above,SHOW,2019,,43,['documentation'],3.0,8.0,286.0,4.03,8.0,
+1169,1199,tm831100,Z-O-M-B-I-E-S 2,MOVIE,2020,,84,"['romance', 'comedy']",0.0,5.8,2171.0,33.356,7.8,
+1170,1200,tm886783,Jane Goodall: The Hope,MOVIE,2020,,88,"['action', 'documentation']",0.0,8.0,162.0,5.726,9.0,
+1171,1201,tm961182,Expedition Everest,MOVIE,2020,PG,42,['documentation'],0.0,6.6,123.0,4.516,6.6,
+1172,1202,tm974034,Safety,MOVIE,2020,PG,122,"['drama', 'sport']",0.0,6.8,3809.0,6.32,7.6,
+1173,1203,tm827783,Secret Society of Second Born Royals,MOVIE,2020,PG,99,"['action', 'fantasy', 'comedy', 'family']",0.0,4.9,5198.0,65.402,6.8,
+1174,1204,tm863958,Back to the Titanic,MOVIE,2020,PG,45,['documentation'],0.0,6.0,286.0,5.537000000000001,7.8,
+1175,1206,ts223011,Buried Secrets of The Bible With Albert Lin,SHOW,2019,TV-PG,44,"['documentation', 'history']",1.0,6.8,188.0,2.024,10.0,
+1176,1207,ts228562,On Pointe,SHOW,2020,TV-PG,45,['documentation'],1.0,7.7,349.0,5.653,8.0,
+1177,1208,ts224501,Walt Disney Animation Studios: Short Circuit Experimental Films,SHOW,2020,TV-PG,5,"['animation', 'comedy', 'family']",2.0,7.6,480.0,5.9110000000000005,8.1,
+1178,1209,ts105720,Bia,SHOW,2019,TV-G,37,"['drama', 'family', 'music', 'romance', 'action', 'comedy']",4.0,6.7,158.0,48.218,7.9,
+1179,1210,tm411627,Kim Possible,MOVIE,2019,PG,86,"['action', 'comedy']",0.0,3.6,3086.0,17.605,5.5,
+1180,1211,tm936285,Miraculous World : New York – United HeroeZ,MOVIE,2020,,52,"['animation', 'comedy']",0.0,,,115.507,7.2,6.69443
+1181,1212,ts219040,Muppets Now,SHOW,2020,TV-PG,26,"['comedy', 'family', 'reality']",1.0,5.9,1135.0,7.024,6.1,
+1182,1213,ts251915,India from Above,SHOW,2020,TV-PG,43,['documentation'],1.0,,,0.989,8.0,7.14077
+1183,1214,tm470101,Dolphin Reef,MOVIE,2019,G,77,"['documentation', 'family']",0.0,6.6,191.0,26.957,6.0,
+1184,1215,ts217745,Apollo: Back to the Moon,SHOW,2019,,44,['documentation'],1.0,,,2.005,7.7,6.97339
+1185,1216,ts250807,Rogue Trip,SHOW,2020,,37,['documentation'],1.0,,,1.395,8.0,7.14077
+1186,1217,tm319237,Magic Camp,MOVIE,2020,PG,100,"['fantasy', 'comedy', 'family']",0.0,6.3,4294.0,12.069,7.0,
+1187,1218,ts256051,Inside Pixar,SHOW,2020,TV-G,11,"['documentation', 'family']",4.0,7.3,597.0,11.318,7.4,
+1188,1219,ts90413,Gigantosaurus,SHOW,2019,TV-G,13,['animation'],3.0,6.9,159.0,11.194,7.0,
+1189,1220,ts222579,Pixar in Real Life,SHOW,2019,TV-G,4,"['reality', 'comedy', 'family']",1.0,6.5,735.0,3.392,6.0,
+1190,1221,tm376183,Penguins,MOVIE,2019,G,76,"['documentation', 'family']",0.0,7.0,1642.0,3.402,7.1,
+1191,1222,tm483905,Apollo: Missions to the Moon,MOVIE,2019,,94,"['documentation', 'history']",0.0,7.6,465.0,4.953,7.4,
+1192,1223,ts266669,Marvel Battleworld: Mystery of the Thanostones,SHOW,2020,,3,"['action', 'animation']",1.0,5.9,84.0,0.607,7.5,
+1193,1224,ts218364,Kingdom of the White Wolf,SHOW,2019,TV-PG,44,['documentation'],1.0,8.1,213.0,1.726,9.5,
+1194,1225,ts77182,101 Dalmatian Street,SHOW,2019,TV-Y7,17,"['family', 'animation', 'comedy']",1.0,6.1,347.0,11.477,7.6,
+1195,1226,ts281895,Magic of Disney's Animal Kingdom,SHOW,2020,TV-PG,38,"['documentation', 'reality']",1.0,8.2,314.0,1.802,8.0,
+1196,1227,ts254339,The Wonderful World of Mickey Mouse,SHOW,2020,TV-G,8,"['family', 'fantasy', 'comedy', 'scifi', 'western', 'animation']",2.0,7.8,949.0,13.504,7.6,
+1197,1228,ts220233,One Day at Disney,SHOW,2019,TV-PG,6,['documentation'],1.0,7.3,517.0,4.989,7.7,
+1198,1229,ts328156,Dog: Impossible,SHOW,2019,TV-PG,43,['documentation'],2.0,,,2.641,7.9,7.08497
+1199,1230,ts223546,"Dr. T, Lone Star Vet",SHOW,2019,TV-PG,44,['reality'],1.0,8.3,92.0,1.128,,
+1200,1231,tm850243,Mars: One Day on the Red Planet,MOVIE,2020,,88,['documentation'],0.0,6.9,332.0,8.149,5.8,
+1201,1232,tm460582,Into the Grand Canyon,MOVIE,2019,PG,84,['documentation'],0.0,7.3,388.0,6.371,7.7,
+1202,1233,ts286382,Secrets of the Zoo: Tampa,SHOW,2020,TV-14,44,"['documentation', 'family']",3.0,8.7,66.0,1.4,10.0,
+1203,1234,tm882856,Elephant,MOVIE,2020,G,86,"['documentation', 'family']",0.0,7.2,2195.0,15.31,7.8,
+1204,1235,tm468064,Loop,MOVIE,2020,PG,10,['animation'],0.0,,,6.957999999999999,6.7,6.41546
+1205,1236,tm827851,The Little Mermaid Live!,MOVIE,2019,,83,"['romance', 'comedy', 'family', 'fantasy', 'music']",0.0,5.6,1187.0,5.551,6.9,
+1206,1237,ts235604,Disney Insider,SHOW,2020,TV-Y7,19,['documentation'],1.0,6.5,285.0,8.441,7.3,
+1207,1239,tm849567,Pompeii: Secrets of the Dead,MOVIE,2019,PG,53,['documentation'],0.0,,,4.39,6.7,6.41546
+1208,1240,ts115108,Encore!,SHOW,2019,TV-PG,54,['reality'],1.0,7.6,626.0,4.085,7.0,
+1209,1241,tm845578,Marvel Rising: Playing with Fire,MOVIE,2019,,44,"['action', 'family', 'animation', 'scifi']",0.0,5.1,302.0,6.0360000000000005,6.7,
+1210,1242,tm468008,Phineas and Ferb: The Movie: Candace Against the Universe,MOVIE,2020,G,84,"['comedy', 'action', 'fantasy', 'scifi', 'animation', 'family', 'thriller']",0.0,7.1,4302.0,62.399,7.5,
+1211,1243,ts216001,Out There with Jack Randall,SHOW,2019,TV-14,44,['documentation'],1.0,6.5,72.0,1.028,8.5,
+1212,1244,tm1119960,Lost Tombs of the Pyramids,MOVIE,2020,PG,44,['documentation'],0.0,5.9,60.0,3.259,7.3,
+1213,1245,ts86432,Sydney to the Max,SHOW,2019,TV-G,23,"['comedy', 'family']",3.0,6.2,563.0,18.471,8.5,
+1214,1246,ts237729,Zenimation,SHOW,2020,TV-G,10,"['scifi', 'animation', 'family']",2.0,7.4,416.0,8.417,7.9,
+1215,1247,ts237232,Kingdom of the Mummies,SHOW,2020,TV-14,44,['documentation'],1.0,7.4,105.0,3.132,10.0,
+1216,1248,ts83472,Fast Layne,SHOW,2019,TV-G,23,"['action', 'comedy', 'scifi', 'thriller']",1.0,5.2,232.0,5.164,7.1,
+1217,1249,tm942473,Wild Portugal,MOVIE,2020,PG-13,44,['documentation'],0.0,7.5,9.0,2.3040000000000003,10.0,
+1218,1250,ts225533,Wild Cats of India,SHOW,2020,,44,['documentation'],1.0,7.6,44.0,1.4,10.0,
+1219,1251,ts189132,Marvel's Hero Project,SHOW,2019,TV-G,26,"['documentation', 'reality']",1.0,6.1,159.0,2.802,8.8,
+1220,1252,ts238237,Alaska Animal Rescue,SHOW,2020,,44,"['reality', 'documentation']",2.0,9.0,36.0,1.79,10.0,
+1221,1253,ts220883,Pick of the Litter,SHOW,2019,TV-PG,32,"['documentation', 'family']",1.0,8.0,153.0,3.714,7.1,
+1222,1254,tm944621,The Real Right Stuff,MOVIE,2020,PG,90,"['history', 'documentation']",0.0,7.2,515.0,8.124,6.3,
+1223,1255,tm947813,Petra: Secrets of the Ancient Builders,MOVIE,2019,G,44,['documentation'],0.0,,,1.238,8.0,7.14077
+1224,1257,ts236381,Prop Culture,SHOW,2020,TV-PG,32,['documentation'],1.0,,,3.125,8.1,7.19656
+1225,1258,ts252221,Made in A Day,SHOW,2020,,22,['documentation'],1.0,7.1,25.0,1.162,,
+1226,1259,ts271431,Into the Unknown: Making Frozen II,SHOW,2020,TV-PG,36,"['documentation', 'family']",1.0,8.5,810.0,12.508,6.9,
+1227,1260,tm894133,Out,MOVIE,2020,PG,9,"['animation', 'comedy', 'drama', 'romance', 'horror']",0.0,,,6.152,7.5,6.8618
+1228,1261,ts254529,Meet the Chimps,SHOW,2020,TV-14,37,['documentation'],1.0,8.4,87.0,2.254,8.0,
+1229,1262,tm406236,Expedition Mars,MOVIE,2019,,88,['documentation'],0.0,7.5,209.0,3.477,8.8,
+1230,1263,tm468063,Wind,MOVIE,2019,G,8,"['fantasy', 'drama', 'animation']",0.0,,,6.185,7.2,6.69443
+1231,1264,ts256165,ZOMBIES: Addison's Moonstone Mystery,SHOW,2020,,2,"['animation', 'family']",2.0,6.4,14.0,4.298,,
+1232,1265,ts90809,Just Roll with It,SHOW,2019,TV-G,24,"['comedy', 'family']",2.0,5.1,301.0,3.729,7.1,
+1233,1266,tm933514,Buried Truth of the Maya,MOVIE,2020,PG,47,"['thriller', 'documentation', 'history']",0.0,5.5,135.0,3.459,6.3,
+1234,1267,ts222496,Earth to Ned,SHOW,2020,,24,[],1.0,,,4.736000000000001,6.8,6.47126
+1235,1268,tm1032382,The Real Black Panther,MOVIE,2020,,44,['documentation'],0.0,,,4.662,8.0,7.14077
+1236,1269,tm931428,Once Upon a Snowman,MOVIE,2020,G,7,"['fantasy', 'animation', 'family']",0.0,,,128.657,6.9,6.52705
+1237,1270,ts214449,Muppet Babies: Play Date,SHOW,2019,,3,['family'],1.0,6.5,8.0,,,
+1238,1271,tm914379,Black Is King,MOVIE,2020,PG,85,"['music', 'drama', 'fantasy']",0.0,5.8,8758.0,9.01,7.5,
+1239,1272,tm941826,High School Musical: The Musical: The Holiday Special,MOVIE,2020,,45,"['documentation', 'music', 'comedy', 'drama']",0.0,5.6,355.0,6.294,7.3,
+1240,1273,ts252296,Becoming,SHOW,2020,TV-14,24,"['documentation', 'drama', 'family', 'history', 'sport']",1.0,6.4,64.0,2.387,8.0,
+1241,1275,ts237067,The Big Fib,SHOW,2020,,23,['reality'],1.0,,,4.066,6.5,6.30388
+1242,1276,ts271343,High School Musical: The Musical: The Series: The Sing-Along,SHOW,2019,TV-PG,34,"['comedy', 'drama']",1.0,,,2.516,9.0,7.69869
+1243,1277,tm452733,Smash and Grab,MOVIE,2019,PG,7,['scifi'],0.0,,,6.117000000000001,6.8,6.47126
+1244,1278,ts94668,Prairie Dog Manor,SHOW,2019,,22,"['reality', 'documentation']",1.0,8.0,48.0,1.494,10.0,
+1245,1279,tm984389,Dory's Reef Cam,MOVIE,2020,G,182,"['comedy', 'family', 'animation']",0.0,3.4,262.0,143.02,6.0,
+1246,1280,ts101535,Diary of a Future President,SHOW,2020,TV-PG,30,"['family', 'comedy', 'drama']",2.0,6.2,1022.0,10.363,7.7,
+1247,1281,ts88803,Gabby Duran and the Unsittables,SHOW,2019,TV-Y7,25,"['scifi', 'comedy', 'family']",2.0,5.6,331.0,28.235,7.8,
+1248,1282,ts225757,Shop Class,SHOW,2020,,43,['reality'],1.0,,,3.629,8.5,7.41973
+1249,1283,tm674489,The Lost Tomb of Alexander the Great,MOVIE,2019,PG,44,['documentation'],0.0,6.5,273.0,2.112,7.2,
+1250,1284,ts112728,The Rocketeer,SHOW,2019,TV-Y,23,"['scifi', 'animation', 'action', 'comedy', 'family']",1.0,4.9,171.0,11.640999999999998,10.0,
+1251,1285,tm470579,The Dominican Dream,MOVIE,2019,,77,"['documentation', 'sport']",0.0,7.7,83.0,4.112,7.8,
+1252,1286,ts300583,Pop Goes the Vet,SHOW,2020,TV-PG,44,"['documentation', 'reality']",1.0,7.4,21.0,0.626,,
+1253,1287,tm452731,Purl,MOVIE,2019,PG,9,['comedy'],0.0,,,6.367999999999999,6.7,6.41546
+1254,1288,tm456824,Deion's Double Play,MOVIE,2019,,60,['documentation'],0.0,,,2.116,6.0,6.02491
+1255,1289,tm851998,Notre Dame: Race Against the Inferno,MOVIE,2019,,44,"['documentation', 'drama']",0.0,7.0,5.0,2.688,6.3,
+1256,1290,tm454706,Marvel Rising: Chasing Ghosts,MOVIE,2019,,22,"['action', 'animation', 'family']",0.0,5.3,528.0,11.181,7.3,
+1257,1291,tm856533,Maggie Simpson in Playdate with Destiny,MOVIE,2020,G,4,['comedy'],0.0,,,30.296,7.6,6.9176
+1258,1292,tm828138,Marvel Rising: Battle of the Bands,MOVIE,2019,,22,"['comedy', 'animation', 'action', 'family']",0.0,5.2,356.0,8.479,7.2,
+1259,1293,tm914724,Adventure Thru the Walt Disney Archives,MOVIE,2020,,60,['documentation'],0.0,8.0,64.0,3.889,6.0,
+1260,1294,ts249928,Gathering Storm,SHOW,2020,,44,['documentation'],1.0,7.9,40.0,2.089,,
+1261,1295,tm963702,The Last Ice,MOVIE,2020,,83,['documentation'],0.0,7.4,91.0,,,
+1262,1296,ts269854,Disney Parks Sunrise Series,SHOW,2020,TV-G,59,[],1.0,,,0.953,10.0,8.25662
+1263,1298,tm461535,Marvel Rising: Heart of Iron,MOVIE,2019,,44,"['scifi', 'action', 'animation']",0.0,5.2,1164.0,17.497,7.4,
+1264,1299,tm898825,Surviving the Mount St. Helens Disaster,MOVIE,2020,,45,"['documentation', 'history']",0.0,7.6,87.0,1.719,7.0,
+1265,1300,tm468061,Lamp Life,MOVIE,2020,G,8,"['comedy', 'family', 'animation']",0.0,,,34.386,7.3,6.75022
+1266,1301,tm823347,Expedition Amelia,MOVIE,2019,,95,"['history', 'documentation']",0.0,7.2,209.0,5.124,7.3,
+1267,1302,ts268033,Secrets of the Zoo: North Carolina,SHOW,2020,TV-14,44,"['documentation', 'reality']",1.0,7.9,39.0,0.6,,
+1268,1303,tm827478,One Day at Disney,MOVIE,2019,,59,['documentation'],0.0,7.0,473.0,4.783,6.7,
+1269,1304,ts237251,X-Ray Earth,SHOW,2020,TV-14,44,['documentation'],1.0,6.4,39.0,3.122,7.0,
+1270,1306,tm835342,Marvel Rising: Operation Shuri,MOVIE,2019,,22,"['scifi', 'action', 'family', 'animation']",0.0,5.2,361.0,5.43,6.8,
+1271,1307,ts251052,Disney Junior Music Lullabies,SHOW,2019,TV-Y,1,[],1.0,,,0.6,10.0,8.25662
+1272,1308,tm452729,Kitbull,MOVIE,2019,PG,9,['animation'],0.0,,,8.406,8.1,7.19656
+1273,1309,tm922170,The Lost City Of Machu Picchu,MOVIE,2019,PG-13,44,"['documentation', 'history']",0.0,7.1,68.0,2.649,7.0,
+1274,1310,ts188374,Be Our Chef,SHOW,2020,TV-G,24,"['reality', 'family']",1.0,6.4,173.0,3.287,5.6,
+1275,1312,tm995974,Myth: A Frozen Tale,MOVIE,2019,G,8,"['animation', 'fantasy', 'family']",0.0,,,2.005,6.8,6.47126
+1276,1314,tm468066,Float,MOVIE,2019,PG,7,"['family', 'animation', 'drama']",0.0,,,7.715,7.3,6.75022
+1277,1315,tm826979,Star Wars: Galaxy's Edge - Adventure Awaits,MOVIE,2019,,81,['documentation'],0.0,5.6,154.0,4.299,7.0,
+1278,1317,tm916947,Hamilton: History Has Its Eyes On You,MOVIE,2020,PG,46,['documentation'],0.0,6.3,65.0,2.769,7.7,
+1279,1318,tm853361,Women of Impact: Changing the World,MOVIE,2020,,44,['documentation'],0.0,,,3.319,9.5,7.97766
+1280,1319,ts271634,Mickey Go Local,SHOW,2019,,3,"['comedy', 'animation']",1.0,5.7,58.0,1.335,8.0,
+1281,1320,ts255188,Calling All T.O.T.S.,SHOW,2020,TV-G,2,[],2.0,,,5.175,10.0,8.25662
+1282,1321,tm843325,Forky Asks A Question: What Is Money?,MOVIE,2019,,3,"['animation', 'comedy']",0.0,,,3.681,7.5,6.8618
+1283,1322,tm855130,Lost Temple of The Inca,MOVIE,2020,PG,42,"['thriller', 'documentation', 'history']",0.0,6.9,103.0,1.544,6.4,
+1284,1325,ts237076,It's a Dog's Life with Bill Farmer,SHOW,2020,TV-G,22,['documentation'],1.0,7.9,91.0,1.989,9.0,
+1285,1326,tm954191,Being the Queen,MOVIE,2020,PG-13,45,['documentation'],0.0,6.3,69.0,2.065,7.0,
+1286,1327,tm852528,Arendelle Castle Yule Log,MOVIE,2020,G,180,"['animation', 'drama']",0.0,7.9,35.0,4.085,3.8,
+1287,1328,tm842501,Marvel Studios: Expanding the Universe,MOVIE,2019,PG,12,['documentation'],0.0,,,13.575,5.9,5.96912
+1288,1329,ts225756,Disney Family Sundays,SHOW,2019,TV-G,7,['reality'],1.0,,,1.535,5.3,5.63436
+1289,1330,tm848055,High School Musical: The Musical: The Series: The Special,MOVIE,2019,,23,"['documentation', 'music', 'drama', 'comedy']",0.0,6.8,192.0,4.113,8.6,
+1290,1331,tm936946,The Giant Robber Crab,MOVIE,2019,,44,['documentation'],0.0,,,2.059,7.0,6.58284
+1291,1332,tm847859,Forky Asks A Question: What Is A Pet?,MOVIE,2019,G,4,['animation'],0.0,,,4.563,6.2,6.1365
+1292,1333,tm876282,Viking Warrior Women,MOVIE,2019,PG,45,['documentation'],0.0,5.6,57.0,1.5530000000000002,,
+1293,1334,ts225712,Jungle Animal Rescue,SHOW,2020,TV-PG,44,['documentation'],1.0,6.6,11.0,1.4,6.0,
+1294,1335,ts220819,Random Rings,SHOW,2019,TV-Y7,2,[],1.0,6.7,24.0,,,
+1295,1338,tm885652,A Celebration of the Music from Coco,MOVIE,2020,,47,"['music', 'documentation']",0.0,7.0,225.0,7.295,7.1,
+1296,1339,tm822278,Man vs. Shark,MOVIE,2019,PG,44,['documentation'],0.0,6.2,54.0,1.406,8.0,
+1297,1340,tm845561,Okavango: River of Dreams,MOVIE,2019,,94,['documentation'],0.0,,,0.65,7.0,6.58284
+1298,1341,tm959308,Secrets of the Bull Shark,MOVIE,2020,,44,['documentation'],0.0,5.7,7.0,1.338,,
+1299,1342,tm960311,Sharks of the Bermuda Triangle,MOVIE,2020,,43,['documentation'],0.0,6.2,22.0,3.024,8.5,
+1300,1343,ts235673,Secrets of the Zoo: Down Under,SHOW,2020,,43,['documentation'],2.0,8.2,14.0,1.6880000000000002,9.0,
+1301,1344,tm882855,Diving with Dolphins,MOVIE,2020,G,79,['documentation'],0.0,7.0,178.0,8.097999999999999,7.8,
+1302,1345,tm958703,Shark vs. Surfer,MOVIE,2020,,44,['documentation'],0.0,6.8,16.0,0.952,5.0,
+1303,1346,tm882857,In the Footsteps of Elephant,MOVIE,2020,G,88,"['documentation', 'family']",0.0,7.2,191.0,8.878,8.0,
+1304,1347,tm976257,Disney Holiday Magic Quest,MOVIE,2020,G,45,[],0.0,6.2,34.0,2.068,6.0,
+1305,1348,tm902037,Chasing the Equinox,MOVIE,2020,,45,['documentation'],0.0,6.4,83.0,3.116,7.0,
+1306,1350,tm963593,Shark vs. Whale,MOVIE,2020,,45,['documentation'],0.0,5.3,31.0,1.1,8.0,
+1307,1352,tm1016993,The Hidden Kingdoms of China,MOVIE,2020,PG,88,['documentation'],0.0,6.9,56.0,0.762,8.0,
+1308,1354,tm976261,Epic Holiday Showdown,MOVIE,2020,,49,[],0.0,4.4,35.0,1.985,2.0,
+1309,1355,tm1018677,Disney My Music Story: Perfume,MOVIE,2020,,71,"['documentation', 'music']",0.0,6.4,11.0,0.642,8.0,
+1310,1356,tm978794,The Disney Holiday Singalong,MOVIE,2020,,45,"['comedy', 'family', 'music']",0.0,5.8,160.0,2.032,8.0,
+1311,1359,tm881728,Born Wild: The Next Generation,MOVIE,2020,G,60,['documentation'],0.0,7.8,26.0,4.217,,
+1312,1360,tm973637,From Our Family to Yours,MOVIE,2020,,3,"['drama', 'animation']",0.0,,,1.4,10.0,8.25662
+1313,1361,tm982433,Disney Channel Holiday House Party,MOVIE,2020,G,25,['comedy'],0.0,4.2,23.0,0.992,,
+1314,1362,tm1016104,My Music Story: Yoshiki,MOVIE,2020,,47,"['documentation', 'music']",0.0,7.3,17.0,,,
+1315,1363,tm946363,Disney Channel Halloween House Party,MOVIE,2020,,23,"['comedy', 'family']",0.0,6.1,9.0,5.519,8.5,
+1316,1364,ts219003,Moon Knight,SHOW,2022,TV-14,48,"['action', 'scifi', 'drama', 'fantasy', 'horror', 'thriller']",1.0,7.5,128362.0,9323.832,8.5,
+1317,1365,tm460711,Free Guy,MOVIE,2021,PG-13,115,"['scifi', 'comedy', 'fantasy', 'action']",0.0,7.1,335518.0,398.516,7.7,
+1318,1366,tm453779,West Side Story,MOVIE,2021,PG-13,157,"['romance', 'crime', 'drama']",0.0,7.2,70574.0,214.767,7.2,
+1319,1367,ts299852,The Beatles: Get Back,SHOW,2021,,156,"['documentation', 'music']",1.0,9.0,19391.0,13.597,8.5,
+1320,1368,tm375923,Turning Red,MOVIE,2022,PG,100,"['fantasy', 'comedy', 'family', 'animation']",0.0,7.0,90356.0,2331.811,7.4,
+1321,1369,tm983665,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)",MOVIE,2021,PG-13,117,"['documentation', 'music', 'history']",0.0,8.0,10178.0,12.674,7.7,
+1322,1370,ts270001,The Book of Boba Fett,SHOW,2021,TV-14,47,"['action', 'scifi', 'romance', 'western', 'family', 'fantasy']",1.0,7.4,116591.0,300.959,8.1,
+1323,1371,ts86795,WandaVision,SHOW,2021,TV-14,39,"['scifi', 'drama', 'action', 'comedy', 'fantasy', 'romance']",1.0,8.0,284486.0,495.948,8.3,
+1324,1372,tm858873,Encanto,MOVIE,2021,PG,102,"['fantasy', 'animation', 'comedy', 'family', 'drama']",0.0,7.2,194310.0,1174.064,7.7,
+1325,1373,tm439804,Eternals,MOVIE,2021,PG-13,156,"['scifi', 'action', 'fantasy', 'drama']",0.0,6.3,300591.0,656.8989999999999,7.1,
+1326,1374,ts86474,Loki,SHOW,2021,TV-14,48,"['scifi', 'action', 'fantasy']",1.0,8.2,280970.0,315.079,8.2,
+1327,1375,ts89837,Hawkeye,SHOW,2021,TV-14,47,"['action', 'scifi', 'drama', 'crime']",1.0,7.6,153827.0,252.695,8.2,
+1328,1376,ts297071,Man in the Arena: Tom Brady,SHOW,2021,,51,['documentation'],1.0,,,6.55,7.3,6.75022
+1329,1377,tm821207,Shang-Chi and the Legend of the Ten Rings,MOVIE,2021,PG-13,120,"['fantasy', 'documentation', 'action', 'scifi', 'comedy']",0.0,7.5,324679.0,818.4810000000001,7.7,
+1330,1378,tm1092922,The Rescue,MOVIE,2021,PG,107,"['action', 'thriller', 'drama', 'documentation']",0.0,8.4,9857.0,11.202,8.0,
+1331,1379,ts189749,What If...?,SHOW,2021,TV-14,32,"['action', 'scifi', 'fantasy', 'animation']",2.0,7.4,97977.0,357.434,8.4,
+1332,1380,tm344880,Jungle Cruise,MOVIE,2021,PG-13,127,"['fantasy', 'action', 'comedy', 'family']",0.0,6.6,176833.0,328.733,7.6,
+1333,1381,ts321894,The Wonder Years,SHOW,2021,TV-PG,21,"['drama', 'comedy', 'family']",1.0,5.9,3541.0,16.527,7.1,
+1334,1382,ts89898,The Falcon and The Winter Soldier,SHOW,2021,TV-14,51,"['drama', 'action', 'scifi']",1.0,7.2,197872.0,149.009,7.8,
+1335,1383,ts251262,The Bad Batch,SHOW,2021,TV-PG,31,"['scifi', 'action', 'drama', 'fantasy', 'animation']",2.0,7.9,27384.0,50.268,8.5,
+1336,1384,tm355775,Ron's Gone Wrong,MOVIE,2021,PG,107,"['scifi', 'animation', 'comedy', 'family']",0.0,7.0,29944.0,242.818,8.1,
+1337,1385,tm439797,Black Widow,MOVIE,2021,PG-13,134,"['action', 'scifi']",0.0,6.7,336195.0,285.982,7.5,
+1338,1386,tm240625,Cruella,MOVIE,2021,PG-13,134,"['crime', 'comedy', 'drama']",0.0,7.3,219934.0,281.68,8.2,
+1339,1387,ts330309,Ice Age: Scrat Tales,SHOW,2022,TV-PG,3,"['comedy', 'family', 'animation']",1.0,7.4,1133.0,202.895,7.9,
+1340,1388,ts269561,Star Wars: Visions,SHOW,2021,TV-PG,16,"['scifi', 'drama', 'fantasy', 'animation', 'action']",1.0,7.0,15451.0,28.776,7.4,
+1341,1389,tm1128472,Better Nate Than Ever,MOVIE,2022,PG,92,"['comedy', 'drama', 'family']",0.0,6.2,1958.0,162.968,6.8,
+1342,1390,tm375874,Luca,MOVIE,2021,PG,95,"['comedy', 'fantasy', 'animation', 'family']",0.0,7.5,138610.0,373.332,7.9,
+1343,1391,ts271190,Marvel Studios: Legends,SHOW,2021,TV-14,7,"['scifi', 'action', 'fantasy']",1.0,6.4,4089.0,173.44799999999998,7.5,
+1344,1392,ts243370,Just Beyond,SHOW,2021,TV-PG,28,"['drama', 'fantasy', 'horror', 'scifi', 'thriller', 'comedy']",1.0,6.1,1406.0,63.929,7.2,
+1345,1393,ts252829,Snowdrop,SHOW,2021,TV-14,85,"['war', 'thriller', 'crime', 'drama', 'romance']",1.0,8.3,8520.0,37.607,8.4,
+1346,1394,tm1151565,Explorer: The Last Tepui,MOVIE,2022,,55,['documentation'],0.0,7.2,40.0,7.942,7.5,
+1347,1396,ts109430,Parallels,SHOW,2022,TV-14,31,"['fantasy', 'scifi', 'action']",1.0,7.0,1121.0,20.04,8.1,
+1348,1397,ts220827,Spidey and His Amazing Friends,SHOW,2021,TV-Y7,24,"['comedy', 'family', 'fantasy', 'scifi', 'animation', 'action']",2.0,5.7,379.0,35.172,7.3,
+1349,1398,tm1151578,The Biggest Little Farm: The Return,MOVIE,2022,,30,['documentation'],0.0,,,9.047,7.0,6.58284
+1350,1399,ts276839,Welcome to Earth,SHOW,2021,TV-PG,38,"['documentation', 'reality']",1.0,7.9,2212.0,10.261,7.8,
+1351,1400,tm989785,Cheaper by the Dozen,MOVIE,2022,PG,107,"['comedy', 'family', 'romance']",0.0,4.2,4953.0,167.44099999999997,6.2,
+1352,1401,ts234955,The Mysterious Benedict Society,SHOW,2021,TV-PG,49,"['action', 'comedy', 'drama', 'family']",2.0,7.6,3626.0,12.763,7.9,
+1353,1402,tm1151592,Polar Bear,MOVIE,2022,PG,84,['documentation'],0.0,7.0,339.0,98.539,8.1,
+1354,1403,tm417522,Raya and the Last Dragon,MOVIE,2021,PG,107,"['fantasy', 'family', 'animation', 'action', 'comedy', 'drama']",0.0,7.3,135105.0,221.013,8.0,
+1355,1404,tm989857,The Ice Age Adventures of Buck Wild,MOVIE,2022,PG,82,"['comedy', 'drama', 'action', 'animation', 'family', 'fantasy']",0.0,4.5,11952.0,1026.354,6.9,
+1356,1405,ts269590,Dug Days,SHOW,2021,TV-G,10,"['comedy', 'family', 'animation']",1.0,8.1,3637.0,46.767,7.4,
+1357,1406,ts330252,The Proud Family: Louder and Prouder,SHOW,2022,TV-PG,26,"['comedy', 'family', 'animation']",1.0,5.7,905.0,14.75,9.4,
+1358,1407,tm1039905,Star Wars Biomes,MOVIE,2021,,18,['scifi'],0.0,,,7.257000000000001,6.8,6.47126
+1359,1408,ts227297,Secrets of Sulphur Springs,SHOW,2021,TV-PG,23,"['drama', 'family']",3.0,7.6,2720.0,29.985,8.2,
+1360,1409,tm1196292,The Simpsons: When Billie Met Lisa,MOVIE,2022,G,4,"['animation', 'comedy', 'music']",0.0,,,45.902,5.9,5.96912
+1361,1410,tm989837,Becoming Cousteau,MOVIE,2021,PG-13,94,['documentation'],0.0,7.1,948.0,5.082,7.1,
+1362,1411,ts270701,Dino Ranch,SHOW,2021,TV-Y,12,"['action', 'family', 'western', 'animation', 'comedy']",1.0,6.2,106.0,3.809,10.0,
+1363,1412,tm1097273,Torn,MOVIE,2021,,93,['documentation'],0.0,,,5.004,7.1,6.63863
+1364,1413,ts343844,The Quest,SHOW,2022,,43,"['scifi', 'fantasy', 'reality']",1.0,,,38.49,8.1,7.19656
+1365,1414,tm1040854,Muppets Haunted Mansion,MOVIE,2021,PG,52,"['family', 'comedy', 'fantasy']",0.0,6.4,6233.0,59.32,6.7,
+1366,1415,ts331520,Something Bit Me!,SHOW,2022,TV-14,43,"['documentation', 'reality']",1.0,8.8,14.0,16.176,10.0,
+1367,1416,tm1172125,OLIVIA RODRIGO: driving home 2 u (a SOUR film),MOVIE,2022,PG-13,76,"['music', 'documentation']",0.0,7.4,525.0,9.515,7.4,
+1368,1417,ts231914,Turner & Hooch,SHOW,2021,TV-PG,48,"['comedy', 'crime', 'drama', 'family', 'action']",1.0,6.5,3488.0,48.653,7.5,
+1369,1418,tm1068637,"The Simpsons: The Good, the Bart, and the Loki",MOVIE,2021,PG,6,['comedy'],0.0,,,149.661,7.5,6.8618
+1370,1419,ts251844,Secrets of the Whales,SHOW,2021,TV-PG,48,['documentation'],1.0,8.5,561.0,3.164,7.9,
+1371,1420,ts222989,Behind the Attraction,SHOW,2021,TV-PG,42,['documentation'],1.0,7.7,762.0,4.379,7.8,
+1372,1421,ts272714,"Cesar Millan: Better Human, Better Dog",SHOW,2021,TV-14,42,['reality'],1.0,8.2,110.0,1.4,10.0,
+1373,1422,tm1082540,LEGO Star Wars Terrifying Tales,MOVIE,2021,G,45,"['scifi', 'horror', 'action', 'comedy', 'animation', 'fantasy', 'family']",0.0,6.2,2064.0,79.715,6.9,
+1374,1423,ts109714,Monsters at Work,SHOW,2021,TV-G,27,"['family', 'fantasy', 'animation', 'comedy']",1.0,7.0,6475.0,47.088,7.2,
+1375,1424,ts273068,Marvel Studios: Assembled,SHOW,2021,TV-14,58,['documentation'],1.0,7.9,2258.0,67.851,7.4,
+1376,1425,tm989859,Diary of a Wimpy Kid,MOVIE,2021,PG,58,"['comedy', 'family', 'animation', 'fantasy', 'drama']",0.0,5.1,2601.0,319.22900000000004,6.4,
+1377,1426,ts319237,The '80s: Top Ten,SHOW,2022,TV-14,44,['documentation'],1.0,,,1.943,7.0,6.58284
+1378,1427,tm867361,Home Sweet Home Alone,MOVIE,2021,PG,93,"['comedy', 'crime', 'family', 'action', 'drama']",0.0,3.6,16142.0,230.956,5.1,
+1379,1428,ts226439,Big Shot,SHOW,2021,TV-PG,46,"['comedy', 'drama', 'sport']",2.0,7.5,3719.0,32.933,8.1,
+1380,1429,tm1183704,Bear Witness,MOVIE,2022,,83,['documentation'],0.0,,,5.149,8.0,7.14077
+1381,1430,ts218548,The Ghost and Molly McGee,SHOW,2021,TV-Y7,23,"['thriller', 'horror', 'animation', 'comedy', 'family', 'fantasy', 'music', 'scifi']",2.0,7.2,780.0,11.63,8.3,
+1382,1431,ts269711,The Mighty Ducks: Game Changers,SHOW,2021,TV-PG,35,"['comedy', 'sport', 'drama']",1.0,7.5,4462.0,22.349,8.3,
+1383,1432,ts310270,Olaf Presents,SHOW,2021,TV-Y,4,"['animation', 'fantasy', 'comedy', 'family']",1.0,7.2,2777.0,9.287,7.1,
+1384,1433,ts270222,Disney Intertwined,SHOW,2021,TV-14,45,"['scifi', 'comedy', 'drama', 'fantasy']",1.0,6.3,234.0,67.935,7.5,
+1385,1434,tm1104702,The Simpsons in Plusaversary,MOVIE,2021,G,4,['fantasy'],0.0,,,453.702,6.6,6.35967
+1386,1435,tm1104315,Ciao Alberto,MOVIE,2021,PG,7,['fantasy'],0.0,,,272.439,7.5,6.8618
+1387,1436,tm1183509,Encanto Sing-Along,MOVIE,2022,PG,102,['fantasy'],0.0,,,14.76,6.8,6.47126
+1388,1437,tm1133185,Live in Front of a Studio Audience: The Facts of Life and Diff'rent Strokes,MOVIE,2021,PG,61,['comedy'],0.0,7.8,1078.0,4.348,,
+1389,1439,tm1171752,ASSEMBLED: The Making of Eternals,MOVIE,2022,PG,57,['documentation'],0.0,7.9,,23.813,6.9,
+1390,1440,tm1094572,Fauci,MOVIE,2021,PG-13,104,"['history', 'documentation']",0.0,6.2,12316.0,3.802,3.5,
+1391,1441,ts243681,"Doogie Kamealoha, M.D.",SHOW,2021,TV-PG,34,"['comedy', 'drama', 'family']",2.0,6.2,1992.0,77.90100000000001,7.8,
+1392,1442,tm1165727,More Than Robots,MOVIE,2022,,89,['documentation'],0.0,7.1,52.0,5.749,6.0,
+1393,1443,ts298133,Alice's Wonderland Bakery,SHOW,2022,TV-Y,24,"['comedy', 'family', 'fantasy', 'animation']",2.0,8.0,73.0,12.059,6.5,
+1394,1444,ts302664,Unknown Waters with Jeremy Wade,SHOW,2021,,44,['documentation'],1.0,8.4,10.0,1.716,,
+1395,1446,tm1039842,Maggie Simpson in The Force Awakens from Its Nap,MOVIE,2021,PG,3,['scifi'],0.0,6.2,,56.222,7.0,
+1396,1447,tm1104734,Under the Helmet: The Legacy of Boba Fett,MOVIE,2021,PG,21,['documentation'],0.0,7.2,1325.0,4.752,7.2,
+1397,1448,tm1029681,Miraculous World: Shanghai – The Legend of Ladydragon,MOVIE,2021,,52,['comedy'],0.0,,,272.763,7.9,7.08497
+1398,1449,tm1077151,Happier Than Ever: A Love Letter to Los Angeles,MOVIE,2021,PG,65,"['music', 'documentation']",0.0,7.2,1256.0,39.262,8.0,
+1399,1450,tm1044111,Far From the Tree,MOVIE,2021,G,7,['animation'],0.0,,,302.634,8.2,7.25235
+1400,1451,ts312155,Star Wars Galaxy of Sounds,SHOW,2021,TV-PG,7,['scifi'],1.0,7.0,227.0,8.95,7.2,
+1401,1452,tm949574,Flora & Ulysses,MOVIE,2021,PG,95,"['family', 'comedy', 'fantasy']",0.0,6.2,5937.0,66.295,6.6,
+1402,1453,ts302359,Disney Presents Goofy in How to Stay at Home,SHOW,2021,TV-G,3,"['comedy', 'family', 'animation']",1.0,6.8,404.0,4.915,7.1,
+1403,1454,tm1104691,Marvel Studios' 2021 Disney+ Day Special,MOVIE,2021,PG,14,['documentation'],0.0,,,10.362,6.9,6.52705
+1404,1455,ts309765,Among the Stars,SHOW,2021,TV-PG,46,['documentation'],1.0,7.8,217.0,1.88,9.5,
+1405,1456,tm1094653,Under Wraps,MOVIE,2021,PG,91,['fantasy'],0.0,,,40.237,6.8,6.47126
+1406,1457,ts287664,Star Wars Vehicle Flythroughs,SHOW,2021,TV-G,4,['scifi'],1.0,6.2,313.0,1.4,7.6,
+1407,1459,tm1172642,The Wonderful Spring of Mickey Mouse,MOVIE,2022,G,22,"['animation', 'comedy']",0.0,,,9.62,7.3,6.75022
+1408,1460,ts296914,Storm Rising,SHOW,2021,,43,['documentation'],1.0,,,6.968999999999999,8.0,7.14077
+1409,1461,ts270544,National Geographic Presents: IMPACT with Gal Gadot,SHOW,2021,TV-14,13,['documentation'],1.0,5.3,87.0,1.4,,
+1410,1462,tm1001876,The New Air Force One: Flying Fortress,MOVIE,2021,G,44,['documentation'],0.0,5.2,70.0,2.978,5.0,
+1411,1463,tm1066207,Descendants: The Royal Wedding,MOVIE,2021,G,22,"['drama', 'comedy']",0.0,,,155.935,7.0,6.58284
+1412,1464,ts258072,Mickey Mouse Funhouse,SHOW,2021,TV-G,14,"['family', 'fantasy', 'romance', 'animation', 'comedy', 'action']",5.0,5.2,135.0,14.486,10.0,
+1413,1465,ts215481,Chip 'N' Dale: Park Life,SHOW,2021,TV-G,22,"['comedy', 'family', 'animation']",1.0,5.7,343.0,13.84,6.7,
+1414,1466,tm1091489,Christmas ...Again?!,MOVIE,2021,G,94,['fantasy'],0.0,,,83.208,7.0,6.58284
+1415,1467,tm1031474,22 vs. Earth,MOVIE,2021,G,9,['fantasy'],0.0,,,94.745,7.1,6.63863
+1416,1468,tm1168196,ASSEMBLED: The Making of Hawkeye,MOVIE,2022,PG-13,59,['documentation'],0.0,8.8,,16.685,6.4,
+1417,1469,ts284902,Earth Moods,SHOW,2021,TV-G,30,['documentation'],1.0,8.0,158.0,1.4,8.5,
+1418,1471,ts287745,Brain Games: On The Road,SHOW,2022,,22,['reality'],1.0,6.1,16.0,1.403,,
+1419,1472,tm1109460,The Most Magical Story on Earth: 50 Years of Walt Disney World,MOVIE,2021,PG,84,"['documentation', 'music']",0.0,7.5,93.0,5.099,9.0,
+1420,1473,tm1171809,The Wonderful Winter of Mickey Mouse,MOVIE,2022,G,24,['comedy'],0.0,,,192.265,6.1,6.08071
+1421,1474,ts229667,The Chicken Squad,SHOW,2021,TV-Y,14,"['comedy', 'family', 'animation']",1.0,4.8,118.0,8.776,,
+1422,1475,ts273004,Weekend Family,SHOW,2022,TV-PG,27,"['comedy', 'family']",1.0,6.5,85.0,2.54,7.0,
+1423,1476,ts301923,The Hatcher Family Dairy,SHOW,2021,,44,['documentation'],1.0,8.9,53.0,0.674,,
+1424,1477,tm1164200,Something's Coming: West Side Story,MOVIE,2021,PG,42,['documentation'],0.0,,,1.626,7.8,7.02918
+1425,1478,tm1151153,Clotilda: Last American Slave Ship,MOVIE,2022,PG-13,42,['documentation'],0.0,,,3.465,6.0,6.02491
+1426,1479,ts271690,Race to the Center of the Earth,SHOW,2021,TV-14,53,['reality'],1.0,6.4,200.0,1.4,,
+1427,1480,tm983783,Playing with Sharks,MOVIE,2021,PG-13,95,['documentation'],0.0,7.5,453.0,5.825,8.4,
+1428,1481,ts280067,Growing Up Animal,SHOW,2021,TV-G,2,['documentation'],1.0,8.3,94.0,3.339,7.0,
+1429,1482,tm1054074,Spin,MOVIE,2021,G,93,"['drama', 'music', 'romance', 'comedy', 'family']",0.0,5.9,778.0,6.979,6.8,
+1430,1483,ts321092,"Man, Woman, Dog",SHOW,2021,,44,"['documentation', 'reality']",1.0,7.4,11.0,3.651,,
+1431,1484,tm1081279,Bob Ballard: An Explorer's Life,MOVIE,2021,PG,44,['documentation'],0.0,6.8,23.0,1.471,,
+1432,1485,tm1042356,Wolfgang,MOVIE,2021,,78,['documentation'],0.0,6.9,368.0,4.021,8.2,
+1433,1487,tm1127595,Pixar 2021 Disney+ Day Special,MOVIE,2021,G,4,['documentation'],0.0,,,5.662999999999999,5.4,5.69016
+1434,1489,tm1123813,The Queen Family Singalong,MOVIE,2021,,41,['music'],0.0,5.9,86.0,1.54,,
+1435,1490,tm1120700,Orca Vs. Great White,MOVIE,2021,PG-13,44,['documentation'],0.0,5.3,75.0,3.621,7.0,
+1436,1491,ts293637,Disney's Magic Bake-Off,SHOW,2021,TV-Y,46,"['family', 'reality']",1.0,5.7,66.0,1.643,8.0,
+1437,1492,ts328129,"Rise Up, Sing Out",SHOW,2022,,2,['animation'],1.0,7.8,1282.0,1.403,,
+1438,1493,tm1076825,Twenty Something,MOVIE,2021,PG,7,"['comedy', 'drama', 'animation']",0.0,,,7.3,7.4,6.80601
+1439,1494,ts296175,Shark Attack Files,SHOW,2021,TV-14,42,['documentation'],1.0,6.4,22.0,1.665,10.0,
+1440,1496,tm1165418,Soul of a Nation Presents: X / o n e r a t e d – The Murder of Malcolm X and 55 Years to Justice,MOVIE,2022,,42,['documentation'],0.0,,,0.919,4.0,4.90906
+1441,1497,ts269588,Pixar Popcorn,SHOW,2021,TV-G,4,"['comedy', 'family', 'animation']",1.0,6.5,1932.0,11.805,7.4,
+1442,1498,tm1079991,King Tut In Colour,MOVIE,2021,,44,['documentation'],0.0,,,1.186,7.5,6.8618
+1443,1499,tm996838,Marvel's Behind the Mask,MOVIE,2021,PG-13,64,['documentation'],0.0,6.4,419.0,16.152,7.7,
+1444,1501,tm1034939,The Little Prince(ss),MOVIE,2021,,19,['drama'],0.0,,,12.829,7.2,6.69443
+1445,1502,tm1137323,A Very Boy Band Holiday,MOVIE,2021,,42,['music'],0.0,6.2,83.0,1.117,,
+1446,1503,tm1066442,Us Again,MOVIE,2021,G,7,['romance'],0.0,,,9.229,8.0,7.14077
+1447,1504,tm1034867,Let's Be Tigers,MOVIE,2021,PG,15,['drama'],0.0,,,9.39,6.9,6.52705
+1448,1505,tm1165423,Soul of a Nation Presents: Screen Queens Rising,MOVIE,2022,,40,['documentation'],0.0,,,1.159,6.0,6.02491
+1449,1506,tm1076889,Nona,MOVIE,2021,G,7,['animation'],0.0,,,4.156000000000001,6.3,6.19229
+1450,1507,tm1047333,Shark Beach With Chris Hemsworth,MOVIE,2021,PG-13,44,['documentation'],0.0,6.6,279.0,22.78,6.4,
+1451,1508,tm1063680,Rogue Shark,MOVIE,2021,PG-13,44,['documentation'],0.0,6.9,31.0,3.307,,
+1452,1509,ts273161,Foodtastic,SHOW,2021,TV-PG,42,['reality'],1.0,4.8,155.0,2.344,1.0,
+1453,1510,tm1172299,Embrace the Panda: Making Turning Red,MOVIE,2022,G,48,['documentation'],0.0,,,8.455,6.7,6.41546
+1454,1511,tm1092563,Mickey's Tale of Two Witches,MOVIE,2021,G,46,"['animation', 'action', 'comedy', 'family', 'fantasy']",0.0,6.7,99.0,95.856,7.1,
+1455,1512,tm1034897,The Last of the Chupacabras,MOVIE,2021,,14,['fantasy'],0.0,,,4.222,6.1,6.08071
+1456,1513,tm1142249,Mickey and Minnie Wish Upon a Christmas,MOVIE,2021,G,47,"['animation', 'comedy', 'family']",0.0,6.1,95.0,184.085,7.0,
+1457,1514,tm1063646,Croc That Ate Jaws,MOVIE,2021,PG-13,44,['documentation'],0.0,,,1.75,7.3,6.75022
+1458,1515,tm1035015,Dinner Is Served,MOVIE,2021,,21,['drama'],0.0,,,2.403,5.9,5.96912
+1459,1517,tm1034999,Growing Fangs,MOVIE,2021,,19,['drama'],0.0,,,14.198,6.8,6.47126
+1460,1518,tm1074538,Disney Princess Remixed: An Ultimate Princess Celebration,MOVIE,2021,,22,"['music', 'documentation', 'fantasy']",0.0,5.0,64.0,6.381,5.5,
+1461,1519,tm1034995,American Eid,MOVIE,2021,G,21,['drama'],0.0,,,6.635,7.0,6.58284
+1462,1520,tm1063798,World's Biggest Bull Shark?,MOVIE,2021,PG-13,44,['documentation'],0.0,6.2,32.0,2.46,7.3,
+1463,1521,tm1044329,Flooded Tombs of the Nile,MOVIE,2021,PG,44,"['history', 'documentation']",0.0,6.5,87.0,4.695,7.0,
+1464,1522,ts271728,The Wild Life of Dr. Ole,SHOW,2021,TV-PG,44,"['documentation', 'reality']",1.0,8.4,19.0,1.4,,
+1465,1523,tm1164913,Russia's Wild Tiger,MOVIE,2022,PG,44,['documentation'],0.0,,,1.809,9.0,7.69869
+1466,1524,ts288962,Turning the Tables with Robin Roberts,SHOW,2021,,27,[],1.0,5.7,39.0,1.955,,
+1467,1526,tm1076899,A Spark Story,MOVIE,2021,,87,"['documentation', 'animation']",0.0,6.5,125.0,5.406000000000001,7.7,
+1468,1527,tm1064170,Shark Gangs,MOVIE,2021,PG-13,44,['documentation'],0.0,6.6,28.0,2.716,8.0,
+1469,1528,tm999348,Own the Room,MOVIE,2021,PG,91,['documentation'],0.0,6.5,223.0,3.544,6.4,
+1470,1529,tm1002614,Built for Mars: The Perseverance Rover,MOVIE,2021,PG-13,88,['documentation'],0.0,6.9,54.0,2.969,6.3,
+1471,1530,tm1071287,Killer Shark vs. Killer Whale,MOVIE,2021,PG-13,44,['documentation'],0.0,6.4,17.0,1.061,4.0,
+1472,1531,tm1091101,Far From Raven's Home,MOVIE,2021,G,11,"['animation', 'comedy']",0.0,5.6,8.0,0.7440000000000001,10.0,
+1473,1533,tm1133820,The Magic Maker,MOVIE,2021,PG,43,[],0.0,4.2,9.0,1.504,,
